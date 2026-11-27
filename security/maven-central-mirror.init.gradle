@@ -16,6 +16,12 @@ def mirrorCentral = { repositories ->
 }
 
 gradle.beforeSettings { settings ->
+    // Search the Central mirror before the plugin portal. The portal redirects
+    // ordinary Maven dependencies to Central, bypassing URL rewriting above.
+    settings.pluginManagement.repositories.maven {
+        name = 'CentralMirrorForPluginDependencies'
+        url = uri('https://maven-central.storage-download.googleapis.com/maven2/')
+    }
     mirrorCentral(settings.pluginManagement.repositories)
     mirrorCentral(settings.dependencyResolutionManagement.repositories)
     mirrorCentral(settings.buildscript.repositories)
