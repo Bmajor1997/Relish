@@ -277,6 +277,16 @@ class RecipeConsistencyTests(unittest.TestCase):
         self.assertNotEqual(result.returncode, 0)
         self.assertIn("ajiaco~vegetarian", result.stdout + result.stderr)
 
+    def test_partly_swapped_tip_with_honey_is_rejected(self):
+        path = self.root / "data/recipes/src/expansion-2026-11-27-03.txt"
+        source = path.read_text(encoding="utf-8")
+        tip = "T For agave syrup, stir equal volumes agave nectar and warm water until combined"
+        self.assertIn(tip, source)
+        path.write_text("\n".join(line for line in source.split("\n") if not line.startswith(tip)), encoding="utf-8")
+        result = subprocess.run([sys.executable, str(self.root / "scripts/build_recipes.py")], capture_output=True, text=True)
+        self.assertNotEqual(result.returncode, 0)
+        self.assertIn("yuzu-honey-gin-sour~vegan", result.stdout + result.stderr)
+
     def test_modified_variant_is_detected(self):
         path = self.root / "apps/mobile/src/recipes/collectionVariants.json"
         versions = json.loads(path.read_text(encoding="utf-8"))
