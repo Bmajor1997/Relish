@@ -19,7 +19,7 @@
 - 2 | | scallions, sliced, to serve
 # Pat the chicken dry and toss it with the salt, pepper and ginger.
 # Whisk the potato starch, flour, baking powder and ice water into a thin batter. Add the chicken and turn to coat.
-# Heat 2 inches of oil in a heavy pot to 325°F. Fry the chicken in batches for 8 to 10 minutes, until cooked through and pale gold. Drain on a rack for 5 minutes.
+# Heat 2 inches of oil in a heavy pot to 325°F. Fry the chicken in batches for 8 to 10 minutes, until cooked through (165°F) and pale gold. Drain on a rack for 5 minutes.
 # Heat the oil to 375°F and fry the chicken again for 2 to 3 minutes, until deep golden and very crisp. Drain.
 # Meanwhile, make the glaze: warm 1 teaspoon of oil in a wide pan over medium heat and fry the garlic for 30 seconds. Add the gochujang, ketchup, syrup, soy sauce, brown sugar and vinegar and simmer for 2 minutes, until glossy and bubbling.
 # Turn off the heat, add the hot chicken and toss quickly to coat.
@@ -131,6 +131,7 @@ V Gluten-free: use 1/2 cup cooked quinoa instead of bulgur.
 T Only the onion juice goes into the marinade. Bits of onion would burn on the grill.
 T Leave a little space between pieces on the skewer so the heat can reach every side.
 V Chicken shish: use boneless chicken thighs and grill to 165°F.
+T USDA's safe minimum for lamb is 145°F with a 3-minute rest. 135°F is the usual medium-rare.
 
 @ kabsa | Chicken Kabsa | 6 | 20 | 60 | tree nuts | Saudi Arabia's national dish: chicken and basmati rice cooked together in a tomato broth scented with cardamom, cinnamon, cloves and dried lime, topped with toasted almonds and raisins.
 - 3 | lb | bone-in chicken pieces (thighs and drumsticks)

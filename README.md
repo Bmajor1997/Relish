@@ -68,7 +68,8 @@ npm test && npm run typecheck && npm run lint
 - `admin/` — the private feedback dashboard, served at `/admin/feedback` (see "Feedback" in `docs/PROJECT-PLAN.md`).
 - `server/` — the Node backend: sign-in check, free-photo allowance, usage and cost limits, and the OpenAI recipe calls.
 - `docs/PROJECT-PLAN.md` — architecture, build phases and open questions.
-- `.github/workflows/app-checks.yml` — tests, type-check, lint and an Android build of the app, plus backend tests.
+- `.github/workflows/app-checks.yml` — tests, type-check, lint and an Android JavaScript bundle, plus backend tests.
+- `.github/workflows/native-checks.yml` — selective Android build/launch and iOS simulator build.
 - `.github/workflows/security-checks.yml` — code quality and security CI, ported from Votic. Runs on every push and pull request, and weekly.
 - `.github/workflows/release-sbom.yml` — attaches a software bill of materials to each published release.
 - `.github/dependabot.yml` — weekly updates for npm packages and the pinned GitHub Actions.
@@ -76,6 +77,20 @@ npm test && npm run typecheck && npm run lint
 - `security/` — scan verifiers, the dependency-exception gate and the vulnerability report.
 - `docs/security/SECURITY-BASELINE.md` — the security standards this app targets.
 - `.gitleaks.toml`, `.gitleaksignore`, `osv-scanner.toml` — scanner configuration and exception lists.
+
+### Native verification
+
+Every pull request runs the security and app checks. Full Android and iOS verification runs when the changed files
+affect the respective native project; shared dependencies, app configuration, assets and shared native plugins run
+both. Ordinary app JavaScript, recipe data and documentation changes do not by themselves trigger a native build.
+This saves time but cannot guarantee platform behavior for every JavaScript change. The weekly scheduled assurance
+run and a manually dispatched Assurance run both verify Android and iOS. If changed files cannot be determined,
+both builds run. The Required assurance summary shows which native verification was selected.
+
+To run a specific platform, open **Actions → Native app verification → Run workflow**, select the branch and choose
+**android**, **ios**, or **both**. A manual native run does not replace the pull request's assurance result or
+automatically block a release. Before releasing, run both platforms on the exact commit to be released and confirm
+the results; the Android Play bundle remains a separate manually run workflow.
 
 Run the security tooling tests with:
 

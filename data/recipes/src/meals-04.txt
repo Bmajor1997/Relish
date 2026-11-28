@@ -120,7 +120,7 @@
 - 1 | cup | Thai basil leaves
 # Fry the curry paste in the oil and a few spoonfuls of thick coconut cream until fragrant.
 # Add the chicken and cook 3 minutes.
-# Add the rest of the coconut milk, eggplant and lime leaves and simmer 10 minutes.
+# Add the rest of the coconut milk, eggplant and lime leaves and simmer 10 minutes, until the chicken reaches 165°F.
 # Add the pepper and season with fish sauce and sugar.
 # Stir in the basil and serve with jasmine rice.
 
@@ -135,7 +135,7 @@
 - 2 | tbsp | capers, rinsed
 - 2 | tbsp | chopped parsley
 # Season the chicken and dredge in flour.
-# Brown in the oil and 1 tbsp butter 3 minutes per side. Remove.
+# Brown in the oil and 1 tbsp butter 3 minutes per side, until 165°F inside. Remove.
 # Add the broth, wine, lemon and capers and simmer until reduced by half.
 # Swirl in the remaining butter, return the chicken and top with parsley.
 
@@ -157,6 +157,7 @@
 # Fry the eggs sunny side up.
 # Mix the gochujang with 1 tbsp sesame oil and a splash of water.
 # Fill bowls with rice, arrange the vegetables and beef on top, add an egg and serve with the sauce and sesame seeds.
+T Sunny-side-up eggs have runny yolks. For anyone pregnant, older or with a weakened immune system, cook them until firm or use pasteurized eggs.
 
 @ beef-bourguignon | Beef Bourguignon | 6 | 30 | 180 | wheat, milk | French beef braised in red wine with bacon, mushrooms and pearl onions.
 - 3 | lb | beef chuck, in 2-inch cubes
@@ -266,6 +267,7 @@
 # Lay the prosciutto overlapping on plastic wrap, spread with the mushrooms, set the beef on top and roll tightly. Chill 20 minutes.
 # Wrap in the rolled-out pastry, seal, brush with egg and chill 15 minutes.
 # Bake at 425°F for 35 to 40 minutes until 125°F inside for medium-rare. Rest 10 minutes before slicing.
+T USDA's safe minimum for beef roasts is 145°F with a 3-minute rest. 125°F out of the oven gives medium-rare after resting.
 
 @ nigerian-suya | Nigerian Suya | 4 | 20 | 12 | peanuts | Spicy grilled beef skewers coated in a peanut and chile spice blend.
 - 1 1/2 | lb | sirloin, thinly sliced
@@ -333,6 +335,7 @@
 # Add the blended sauce, spices and bay leaves and cook 15 minutes until reduced.
 # Stir in the rice and stock, season, cover tightly and cook on low 30 minutes until tender.
 # Let the bottom toast slightly for a smoky flavor, then fluff and serve.
+T Serve it the classic way, with fried ripe plantain and grilled or fried chicken.
 
 @ ghanaian-red-red | Ghanaian Red Red | 4 | 15 | 40 | - | Black-eyed peas stewed in red palm oil and tomato, served with fried plantains.
 - 2 | cans (15 oz) | black-eyed peas, drained
@@ -500,7 +503,7 @@
 # Process the bulgur, lean meat, grated onion, half the spices and salt into a smooth paste, using ice water if needed.
 # For the filling, brown the ground lamb with the chopped onion, pine nuts and remaining spices.
 # Shape a ball of shell mix, hollow it with your finger, fill and seal into an oval.
-# Fry at 350°F for 5 to 6 minutes until deep brown. Serve with yogurt.
+# Fry at 350°F for 5 to 6 minutes until deep brown and cooked through (160°F). Serve with yogurt.
 
 @ indian-baingan-bharta | Baingan Bharta | 4 | 10 | 35 | - | Smoky fire-roasted eggplant mashed with onion, tomato and spices.
 - 2 | | large eggplants
@@ -551,7 +554,7 @@
 # Heat the oven with a baking stone to 500°F.
 # Pulse the onion, pepper, tomatoes, garlic and parsley finely, then mix with the lamb, pepper paste, spices and salt.
 # Roll the dough into very thin rounds and spread thinly with the topping.
-# Bake 6 to 8 minutes until crisp at the edges.
+# Bake 6 to 8 minutes, until crisp at the edges and the lamb is cooked through (160°F).
 # Squeeze with lemon, scatter parsley and onion, and roll up to eat.
 
 @ indian-rajma-chawal | Rajma Chawal | 4 | 15 | 45 | - | Punjabi kidney bean curry in a thick onion-tomato gravy, served with rice.
@@ -581,6 +584,7 @@
 # Fill the centers with the mixed cheeses.
 # Bake 12 to 15 minutes until golden.
 # Drop an egg yolk and a pat of butter into each and bake 1 to 2 minutes more. Stir together at the table and tear off the crust to dip.
+T The yolks stay runny. Use pasteurized eggs if you prefer, and always for anyone pregnant, older or with a weakened immune system.
 
 @ filipino-kare-kare | Filipino Kare-Kare | 6 | 20 | 180 | peanuts, shellfish | Oxtail and vegetables in a rich peanut sauce, served with shrimp paste.
 - 3 | lb | oxtail, in pieces
@@ -616,6 +620,7 @@
 # Cook the vegetables, onion and tomato in water until tender, then add the tamarind, sambar powder, dal and salt and simmer 10 minutes.
 # Fry the mustard seeds and curry leaves in oil and pour over the sambar.
 # Serve the idli with the sambar and coconut chutney.
+T Check the sambar powder label if you avoid wheat: many contain asafoetida (hing) blended with wheat flour.
 
 @ georgian-khinkali | Georgian Khinkali | 4 | 60 | 15 | wheat | Large twisted soup dumplings filled with spiced beef and pork in juice.
 - 3 | cups | all-purpose flour
@@ -631,7 +636,7 @@
 # Knead the flour, warm water and salt into a firm dough. Rest 30 minutes.
 # Mix the meats, onion, herbs, spices and salt, then work in the cold water until loose.
 # Roll the dough and cut 4-inch circles. Add filling and gather the edge into many pleats, twisting the top into a knot.
-# Boil in salted water 10 to 12 minutes.
+# Boil in salted water 10 to 12 minutes, until the filling is cooked through (160°F).
 # Dust with pepper. Bite a hole, sip the juice, and leave the knot.
 
 @ filipino-pancit | Filipino Pancit Bihon | 6 | 20 | 15 | soy, wheat, fish, shellfish | Thin rice noodles stir-fried with chicken, shrimp and vegetables, served with calamansi.
@@ -648,7 +653,7 @@
 - 1 | tbsp | oyster sauce
 - 2 | cups | chicken broth
 - | | calamansi or lemon wedges
-# Cook the garlic and onion in the oil, then the chicken until cooked, then the shrimp.
+# Cook the garlic and onion in the oil, then the chicken until cooked through (165°F), then the shrimp.
 # Add the vegetables and cook 2 minutes.
 # Add the broth, soy sauce and oyster sauce and bring to a boil.
 # Add the noodles and toss until they absorb the liquid.
@@ -730,9 +735,10 @@
 - 2 | cups | cooked short-grain rice
 - | | mitsuba or green onions
 # Simmer the dashi, soy sauce, mirin and sugar with the onion for 3 minutes.
-# Add the chicken and cook 5 minutes.
+# Add the chicken and cook 5 minutes, until cooked through (165°F).
 # Pour the eggs over, cover and cook 1 minute until softly set.
 # Slide over bowls of rice and top with herbs.
+T The egg is served softly set. For anyone pregnant, older or with a weakened immune system, cook it until firm or use pasteurized eggs.
 
 @ korean-sundubu-jjigae | Korean Sundubu Jjigae | 2 | 10 | 15 | eggs, fish, shellfish, soy, wheat | Bubbling spicy soft tofu stew with seafood and an egg.
 - 1 | tbsp | oil
@@ -749,6 +755,7 @@
 # Add the broth and soy sauce and bring to a boil.
 # Add the seafood and spoon in big pieces of tofu. Simmer 5 minutes.
 # Crack in the egg, add green onions and cook 1 minute. Serve bubbling with rice.
+T The egg cooks only briefly in the stew. For anyone pregnant, older or with a weakened immune system, simmer until the egg is firm or use a pasteurized egg.
 
 @ indonesian-beef-rendang | Indonesian Beef Rendang | 6 | 30 | 180 | - | Dry, deeply spiced beef curry slow-cooked in coconut milk until caramelized.
 - 2 1/2 | lb | beef chuck, cubed
@@ -797,7 +804,7 @@
 # Spoon a little tare over the rice, add the eel and drizzle with more.
 # Sprinkle with sansho pepper.
 
-@ indonesian-gado-gado | Indonesian Gado-Gado | 4 | 30 | 15 | eggs, peanuts, shellfish, soy | Vegetable salad with tofu, egg and potatoes under a sweet-spicy peanut dressing.
+@ indonesian-gado-gado | Indonesian Gado-Gado | 4 | 30 | 15 | eggs, peanuts, shellfish, soy, wheat | Vegetable salad with tofu, egg and potatoes under a sweet-spicy peanut dressing.
 - 2 | | potatoes, boiled and sliced
 - 2 | cups | green beans, blanched
 - 2 | cups | cabbage, blanched
@@ -814,6 +821,7 @@
 # Blend the peanuts, garlic, chiles, kecap manis, lime juice and about 1 cup water into a thick sauce. Season with salt.
 # Arrange the vegetables, tofu and eggs on a platter.
 # Pour the peanut sauce over and serve with prawn crackers.
+T Kecap manis is usually brewed with wheat. Use a gluten-free sweet soy sauce if you avoid wheat.
 
 @ japanese-soba-noodles | Cold Soba Noodles | 2 | 10 | 10 | wheat, soy, fish | Chilled buckwheat noodles with a savory dipping sauce, green onions and wasabi.
 - 6 | oz | dried soba noodles
@@ -828,6 +836,7 @@
 # Top the noodles with nori.
 # Dip the noodles in the sauce mixed with green onions and wasabi.
 ! Most soba contains wheat flour as well as buckwheat.
+V Tenzaru soba: serve with shrimp and vegetable tempura on the side.
 
 @ venezuelan-pabellon-criollo | Pabellón Criollo | 4 | 30 | 120 | - | Venezuela's national plate of shredded beef, black beans, rice and fried plantains.
 - 2 | lb | flank steak
@@ -861,7 +870,7 @@
 - 1 | tsp | ground Sichuan peppercorns
 - 2 | | green onions, sliced
 # Simmer the tofu in salted water 2 minutes and drain.
-# Fry the pork in oil until crisp, then add the doubanjiang, black beans, garlic and ginger.
+# Fry the pork in oil until cooked through (160°F) and crisp, then add the doubanjiang, black beans, garlic and ginger.
 # Add the stock and soy sauce, then slide in the tofu and simmer 5 minutes.
 # Thicken with the cornstarch mixture, shaking the pan gently.
 # Sprinkle with Sichuan pepper and green onions and serve with rice.
@@ -1045,8 +1054,9 @@
 - 4 | oz | queso fresco or goat cheese
 - 1/2 | cup | milk
 - | | pomegranate seeds and parsley
+- | | a pinch each of sugar and salt, for the sauce
 # Char the poblanos, steam in a bag, peel and slit open, removing the seeds.
-# Brown the meat with the onion, add the fruit, raisins, almonds and tomatoes and cook 15 minutes. Season.
+# Brown the meat with the onion, add the fruit, raisins, almonds and tomatoes and cook 15 minutes, until the meat is cooked through (160°F). Season.
 # Blend the walnuts, crema, cheese, milk and a pinch of sugar and salt into a smooth sauce.
 # Stuff the chiles with the picadillo.
 # Cover with walnut sauce and sprinkle with pomegranate seeds and parsley.

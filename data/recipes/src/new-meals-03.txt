@@ -117,6 +117,7 @@ V Yassa poisson: use thick fish steaks and simmer only 10 minutes.
 @@ vegetarian | Tofu and Chickpea Yassa | 20 | 50 | soy, peanuts | Grilled tofu and chickpeas simmered in the same lemony mustard sauce with sweet caramelized onions and olives.
 ~ bone-in chicken thighs and legs => extra-firm tofu, pressed and cut into thick slabs, plus 1 can (15 oz) chickpeas, drained
 ~ stock cube => vegetable stock cube
+~ before the chicken goes back in => before the tofu goes in
 ~ Toss the chicken and onions in it and marinate at least 3 hours, or overnight. => Toss the tofu and onions in it and marinate at least 1 hour, or overnight.
 ~ Lift the chicken out, shaking off the onions, and grill or broil it for 5 to 6 minutes a side, until well browned. It doesn't need to be cooked through. => Lift the tofu out, shaking off the onions, and grill or broil it for 4 to 5 minutes a side, until well browned.
 ~ Nestle in the chicken. => Nestle in the tofu and add the chickpeas.
@@ -218,6 +219,7 @@ T Pour the egg around the cutlet, not all over it, so part of the crust stays cr
 T Leftover tonkatsu is perfect here; the sauce brings it back to life.
 S Fry the cutlets up to a day ahead and reheat in the oven. Cook the egg topping just before serving.
 V Oyakodon: use sliced chicken thigh simmered in the sauce instead of the pork cutlet.
+T The egg is served softly set. For anyone pregnant, older or with a weakened immune system, cook it until firm or use pasteurized eggs.
 @@ vegetarian | Tofu Katsudon | 20 | 25 | wheat, eggs, soy | A crisp panko tofu cutlet simmered with onions in kombu dashi, soy and mirin, softly set with egg over rice.
 ~ boneless pork loin chops (about 5 oz each), 1/2 inch thick => slabs of extra-firm tofu (about 5 oz each), pressed, 3/4 inch thick
 ~ dashi => kombu dashi or mushroom broth
@@ -274,12 +276,14 @@ T Use fully green plantains; ripe ones make a sweet, different dish.
 T Pat the cheese dry before frying so it browns instead of spattering.
 S Mangú stiffens as it cools; reheat with a splash of water and stir until smooth.
 V Use queso blanco or halloumi if you can't find queso de freír.
+T Sunny-side-up eggs have runny yolks. For anyone pregnant, older or with a weakened immune system, cook them until firm or use pasteurized eggs.
 @@ vegetarian | Mangú with Fried Cheese and Eggs | 15 | 25 | milk, eggs | Buttery mashed green plantains with tangy red onions, fried cheese, fried eggs and avocado, without the salami.
 ~ Dominican salami, sliced 1/4 inch thick => portobello mushrooms, sliced thick and seasoned with smoked paprika
 ~ Fry the salami slices in a little oil for 2 minutes a side until crisp at the edges. => Fry the mushroom slices in a little oil for 3 minutes a side until browned.
 ~ with the salami, cheese, eggs and avocado => with the mushrooms, cheese, eggs and avocado
 @@ vegan | Vegan Mangú | 15 | 25 | soy | Mashed green plantains made with olive oil, topped with tangy onions and served with smoky mushrooms, fried tofu and avocado.
-~ butter => olive oil
+~ Sunny-side-up eggs have runny yolks. For anyone pregnant, older or with a weakened immune system, cook them until firm or use pasteurized eggs. => Fry the ripe plantains over medium heat so they caramelize without burning.
+~ butter => olive oil, for the mash
 ~ Dominican salami, sliced 1/4 inch thick => portobello mushrooms, sliced thick and seasoned with smoked paprika
 ~ queso de freír (frying cheese), sliced 1/2 inch thick => extra-firm tofu, pressed and sliced 1/2 inch thick
 ~ eggs => ripe plantain, sliced and fried (maduros)
@@ -397,7 +401,7 @@ T The potatoes should poach, not fry. Keep the heat low so they turn soft and cr
 T Resting the potatoes in the egg lets them soak it up for a juicy, cohesive tortilla.
 T Strain and keep the potato oil; it's wonderful for cooking.
 S Keeps 2 days in the fridge. Many Spaniards prefer it the next day, at room temperature.
-V Leave the center runny (poco hecha) for the classic bar-style tortilla.
+V Leave the center runny (poco hecha) for the classic bar-style tortilla. Use pasteurized eggs if you do.
 V Add sliced chorizo or roasted peppers to the eggs.
 @@ vegetarian = same
 @@ vegan | Vegan Tortilla Española | 15 | 45 | - | Olive-oil-poached potatoes and onion folded into a chickpea flour batter and cooked into a golden, sliceable cake.

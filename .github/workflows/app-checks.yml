@@ -17,7 +17,7 @@ jobs:
     steps:
       - name: Monitor runner network activity
         if: ${{ !github.event.repository.private }}
-        uses: step-security/harden-runner@1d88384fd173af6ecb012dfd0264a306b711241a # v2.22.4
+        uses: step-security/harden-runner@aebdcf6156ab6691adf63218240e476564a1ed4c # v2.23.0
         with:
           egress-policy: audit
       - name: Get the code
@@ -50,6 +50,10 @@ jobs:
         run: python3 scripts/check_recipe_consistency.py
       - name: Test recipe data checks
         run: python3 -m unittest discover -s code_checks -p 'recipe_ci_test.py'
+      - name: Check food-safety advice and cooking times
+        run: python3 scripts/check_recipe_quality.py
+      - name: Check for the same photo on two dishes
+        run: python3 scripts/check_photo_duplicates.py
       - name: Require reviewed allergen findings
         run: |
           python3 scripts/check_allergens.py > "$RUNNER_TEMP/recipe-allergen-review.md"
@@ -76,7 +80,7 @@ jobs:
     steps:
       - name: Monitor runner network activity
         if: ${{ !github.event.repository.private }}
-        uses: step-security/harden-runner@1d88384fd173af6ecb012dfd0264a306b711241a # v2.22.4
+        uses: step-security/harden-runner@aebdcf6156ab6691adf63218240e476564a1ed4c # v2.23.0
         with:
           egress-policy: audit
       - name: Get the code

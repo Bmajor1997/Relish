@@ -3,6 +3,7 @@ import { router, useLocalSearchParams } from "expo-router";
 import { useEffect, useState } from "react";
 import { Pressable, ScrollView, Switch, Text, TextInput, View } from "react-native";
 import { useApp } from "../AppContext";
+import { possible_allergen_line } from "../recipes/allergenRisk";
 import { format_ingredient } from "../recipes/format";
 import { scale_amount } from "../recipes/scale";
 import { Button, useTheme } from "../ui/theme";
@@ -37,6 +38,7 @@ export default function CookScreen() {
       </View>
     );
   const { recipe } = current;
+  const maybeAllergens = possible_allergen_line(recipe);
   const servings = Math.max(1, Math.min(50, Number(selectedServings) || recipe.servings || 1));
   const factor = servings / (recipe.servings || 1);
   // Whole minutes only: "0" or "0.5" would finish the moment it starts.
@@ -129,6 +131,8 @@ export default function CookScreen() {
       <Text style={type.muted}>
         Allergens: {recipe.allergens.length ? recipe.allergens.join(", ") : "None listed"}. Check ingredient labels if allergies matter.
       </Text>
+      {/* The same brand-dependent warning as the recipe screen and shared text (recipe.tsx, format.ts). */}
+      {!!maybeAllergens && <Text style={type.muted}>{maybeAllergens}</Text>}
     </ScrollView>
   );
 }

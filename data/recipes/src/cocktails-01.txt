@@ -77,14 +77,15 @@ G highball glass | orange slice and cherry | y | Orange juice with grenadine pou
 G pint or highball glass | celery stalk and lime wedge | y | Leave out the vodka for a Virgin Mary.
 ! Worcestershire sauce usually contains anchovies.
 
-@ tom-collins | Tom Collins | 1 | 3 | 0 | - | Gin, lemon and sugar, lengthened with soda water.
-- 2 | oz | gin
+@ tom-collins | Tom Collins | 1 | 3 | 0 | - | Sweet Old Tom gin, lemon and sugar, shaken and lengthened with soda water.
+- 2 | oz | Old Tom gin
 - 1 | oz | fresh lemon juice
 - 1/2 | oz | simple syrup
 - 3 | oz | soda water
 # Shake the gin, lemon and syrup with ice.
 # Strain into an ice-filled Collins glass and top with soda.
 G Collins glass | lemon wheel and cherry | y | Lemon, syrup and soda water make fresh lemonade soda.
+T Old Tom gin is sweeter and softer than London dry. With London dry gin, built in the glass, it becomes a John Collins.
 
 @ dark-n-stormy | Dark 'n' Stormy | 1 | 2 | 0 | - | Dark rum floated over spicy ginger beer and lime.
 - 2 | oz | dark rum
@@ -110,7 +111,7 @@ G Champagne flute | orange twist | y | Orange juice with sparkling water or alco
 # Shake the bourbon, lemon, syrup and egg white without ice for 15 seconds.
 # Add ice and shake hard again.
 # Strain into a rocks glass over ice and dot the foam with bitters.
-G rocks glass | lemon slice and cherry | y | Shake lemon, syrup, egg white and cold black tea for a sour mocktail.
+G rocks glass | lemon slice and cherry | y | Shake lemon, syrup, pasteurized egg white or aquafaba and cold black tea for a sour mocktail.
 ! Uses raw egg white; leave it out or use pasteurized whites if you prefer.
 
 @ mai-tai | Mai Tai | 1 | 5 | 0 | tree nuts | Aged rum with lime, orange curaçao and almond orgeat, the tiki classic.
@@ -231,6 +232,7 @@ G coupe or martini glass | orange peel | y | Shake marmalade, lemon and orange j
 # Dry-shake everything without ice, then shake again with ice.
 # Strain into a chilled coupe.
 G coupe | lemon twist | y | -
+T This drink uses raw egg white. Use pasteurized egg white if you prefer, and always for anyone pregnant, older or with a weakened immune system.
 
 @ rob-roy | Rob Roy | 1 | 3 | 0 | - | A Scotch Manhattan with sweet vermouth and bitters.
 - 2 | oz | blended Scotch
@@ -277,6 +279,7 @@ G coupe or rocks glass | lemon twist | y | -
 # Pour into a tall tiki mug or Collins glass and add more ice.
 G tiki mug or Collins glass | mint sprig | y | Shake lime, grapefruit, cinnamon syrup and pineapple juice.
 ! Very strong; limit to one.
+T Don's Mix is 2 parts fresh grapefruit juice to 1 part cinnamon syrup. Make extra; it keeps 3 days in the fridge.
 
 @ blue-lagoon | Blue Lagoon | 1 | 2 | 0 | - | Vodka and blue curaçao topped with lemonade.
 - 1 1/2 | oz | vodka
@@ -481,6 +484,7 @@ G rocks glass | blackberry and lemon slice | y | Lemon and syrup over crushed ic
 - 1 | tsp | maraschino liqueur
 - 1/2 | oz | fresh lemon juice
 - 1 | dash | Angostura bitters
+- | | sugar, for the rim
 # Rim a small wine glass with sugar and line with a long lemon peel.
 # Shake everything with ice and strain into the glass.
 G sugar-rimmed small wine glass | long lemon peel | y | -

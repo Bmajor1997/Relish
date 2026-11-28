@@ -12,9 +12,21 @@ import { new_request_id } from "../feedback/feedback";
 import { MAX_REPORT_DETAILS, REPORT_REASONS, type ReportReason, report_text } from "../feedback/recipeReport";
 import { Button, Notice, useTheme } from "../ui/theme";
 import { useKeyboardHeight } from "../ui/useKeyboardHeight";
-import type { Kind } from "./types";
+import type { Kind, Recipe } from "./types";
 
-export function ReportRecipe({ kind, dish, diet }: { kind: Kind; dish: string; diet?: string | null }) {
+export function ReportRecipe({
+  kind,
+  dish,
+  diet,
+  recipe,
+  servings,
+}: {
+  kind: Kind;
+  dish: string;
+  diet?: string | null;
+  recipe?: Recipe;
+  servings?: number;
+}) {
   const { colors, type } = useTheme();
   const { api } = useApp();
   const [open, set_open] = useState(false);
@@ -73,7 +85,7 @@ export function ReportRecipe({ kind, dish, diet }: { kind: Kind; dish: string; d
     set_busy(true);
     set_problem(null);
     try {
-      const { title, description } = report_text({ reason, dish, kind, diet, details });
+      const { title, description } = report_text({ reason, dish, kind, diet, details, recipe, servings });
       await api.send_feedback({ kind: "bug", title, description, request_id: request_id.current, report: reason });
       set_sent(true);
     } catch (failure) {

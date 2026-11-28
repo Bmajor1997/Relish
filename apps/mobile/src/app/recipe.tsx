@@ -945,7 +945,14 @@ function RecipeView({ current }: { current: Ready }) {
           </Text>
 
           <View style={{ marginTop: 16 }}>
-            <ReportRecipe key={`${kind}|${dishName}|${diet ?? ""}`} kind={kind} dish={dishName} diet={diet} />
+            <ReportRecipe
+              key={`${kind}|${dishName}|${diet ?? ""}`}
+              kind={kind}
+              dish={dishName}
+              diet={diet}
+              recipe={recipe}
+              servings={servings}
+            />
           </View>
         </View>
       </ScrollView>

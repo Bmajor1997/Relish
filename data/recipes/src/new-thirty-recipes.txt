@@ -94,7 +94,7 @@
 - 1 |  | head butter lettuce, leaves separated
 - 1 |  | cucumber, thinly sliced
 - 2 |  | scallions, sliced
-# Brown beef in a skillet, breaking it up; drain excess fat. Add garlic and ginger and cook 30 seconds.
+# Brown beef in a skillet, breaking it up, until cooked through (160°F); drain excess fat. Add garlic and ginger and cook 30 seconds.
 # Stir in gochujang, soy sauce, sugar and sesame oil; cook 2 minutes until coated.
 # Spoon into washed lettuce leaves and top with cucumber and scallions.
 
@@ -195,6 +195,7 @@
 # Cook pepper in oil in an oven-safe skillet for 4 minutes. Add corn, beans, chicken and sauce; simmer 5 minutes until hot.
 # Fold in tortilla strips. Top with cheese, cover and cook on low 3–5 minutes until melted and the filling is heated through to 165°F.
 # Scatter cilantro over the top.
+T Check the enchilada sauce label if you avoid wheat: some brands thicken it with flour.
 
 @ creamy-sun-dried-tomato-gnocchi | Creamy Sun-Dried Tomato Gnocchi | 4 | 10 | 20 | wheat, milk, eggs | Pillowy gnocchi in a garlicky sun-dried tomato cream sauce with spinach and Parmesan. Ready in 20 minutes.
 - 1 | lb | shelf-stable potato gnocchi
@@ -292,7 +293,7 @@ G highball glass | - | y | use alcohol-free whiskey alternative.
 # Gently muddle one thyme sprig with syrup.
 # Shake with vodka, nectar, lemon and ice; strain over fresh ice.
 # Add soda and the second thyme sprig.
-G highball glass | thyme sprig | y | omit vodka and add 1½ oz soda water.
+G highball glass | thyme sprig | y | omit vodka and add 1 1/2 oz soda water.
 
 @ mango-chile-margarita | Mango Chile Margarita | 1 | 5 | 0 | - | A mango margarita with a gentle chile kick from tequila, lime and orange liqueur.
 - 1 1/2 | oz | blanco tequila
@@ -314,7 +315,7 @@ G rocks glass | - | y | substitute alcohol-free tequila and orange alternatives,
 - 1/2 | oz | simple syrup
 - | | ice
 # Shake all ingredients with ice and strain into a tall glass over fresh ice.
-G highball glass | - | y | omit rum and add 1½ oz chilled hibiscus tea.
+G highball glass | - | y | omit rum and add 1 1/2 oz chilled hibiscus tea.
 
 @ blueberry-lemon-gin-collins | Blueberry Lemon Gin Collins | 1 | 5 | 0 | - | A Tom Collins with muddled blueberries: gin, lemon and soda in a tall glass.
 - 1 1/2 | oz | gin
@@ -360,7 +361,7 @@ G highball glass | - | y | use alcohol-free tequila alternative.
 # Gently press mint in a shaker.
 # Add rum, watermelon, lime and ice; shake and strain into a tall glass over ice.
 # Top with soda.
-G highball glass | - | y | omit rum and add 1½ oz soda water.
+G highball glass | - | y | omit rum and add 1 1/2 oz soda water.
 
 @ cranberry-orange-bourbon-sour | Cranberry Orange Bourbon Sour | 1 | 5 | 0 | - | A bourbon sour with tart cranberry and orange, served over ice with an orange twist.
 - 1 1/2 | oz | bourbon
@@ -383,4 +384,4 @@ G rocks glass | orange peel | y | use alcohol-free whiskey alternative.
 - | | ice
 # Shake rum, pineapple, lime and coconut water with ice.
 # Strain into a tall glass over fresh ice; top with soda.
-G highball glass | - | y | replace rum with 1½ oz coconut water.
+G highball glass | - | y | replace rum with 1 1/2 oz coconut water.

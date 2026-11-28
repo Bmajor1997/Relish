@@ -46,7 +46,7 @@
 # Fold in the macaroni, pour into a baking dish and top with the remaining cheese and the breadcrumbs.
 # Bake 20 to 25 minutes until bubbling and golden.
 
-@ chicken-alfredo | Chicken Alfredo | 4 | 10 | 25 | wheat, milk | Fettuccine Alfredo topped with juicy seared chicken breast.
+@ chicken-alfredo | Chicken Alfredo | 4 | 10 | 25 | wheat, milk, eggs | Fettuccine Alfredo topped with juicy seared chicken breast.
 - 2 | | boneless chicken breasts
 - 1 | tsp | Italian seasoning
 - 1 | tbsp | olive oil
@@ -56,11 +56,12 @@
 - 1 1/2 | cups | heavy cream
 - 1 1/4 | cups | grated Parmesan
 - | | salt, pepper and parsley
-# Season the chicken with salt, pepper and Italian seasoning and sear in the oil 6 to 7 minutes per side. Rest and slice.
+# Season the chicken with salt, pepper and Italian seasoning and sear in the oil 6 to 7 minutes per side, until 165°F inside. Rest and slice.
 # Cook the fettuccine and save some pasta water.
 # Melt the butter, cook the garlic 30 seconds, add the cream and simmer 4 minutes.
 # Stir in the Parmesan, then toss with the pasta, loosening with pasta water.
 # Top with the chicken and parsley.
+! Fresh egg fettuccine contains eggs; most dried fettuccine does not.
 
 @ baked-ziti | Baked Ziti | 8 | 20 | 30 | wheat, milk | Ziti baked in marinara with ricotta, mozzarella and Parmesan.
 - 1 | lb | ziti
@@ -72,7 +73,7 @@
 - 1 | tsp | dried oregano
 - | | fresh basil
 # Heat the oven to 375°F. Cook the ziti 2 minutes less than the package says.
-# Brown the sausage and stir in the marinara and oregano.
+# Brown the sausage until cooked through (160°F) and stir in the marinara and oregano.
 # Toss the pasta with the sauce and dollop half into a baking dish. Add spoonfuls of ricotta and half the mozzarella.
 # Add the rest of the pasta and top with the remaining mozzarella and Parmesan.
 # Cover with foil and bake 20 minutes, uncover and bake 10 minutes more. Top with basil.
@@ -89,6 +90,7 @@
 # Cook the spaghetti in lightly salted water, saving 1 cup of pasta water.
 # Add the hot drained pasta to the skillet, then off the heat stir in the egg mixture with splashes of pasta water until creamy, not scrambled.
 # Serve at once with more Pecorino and pepper.
+T The eggs are cooked only by the heat of the pasta. Use pasteurized eggs if you prefer, and always for anyone pregnant, older or with a weakened immune system.
 
 @ pesto-pasta | Pesto Pasta | 4 | 15 | 12 | wheat, milk, tree nuts | Pasta tossed in fresh basil pesto with pine nuts and Parmesan.
 - 1 | lb | spaghetti or trofie
@@ -118,7 +120,7 @@
 # Dredge in flour, dip in egg, then press into the breadcrumbs mixed with half the Parmesan.
 # Fry in oil 3 minutes per side until golden.
 # Place in a baking dish, top with marinara, mozzarella and the remaining Parmesan.
-# Bake 10 to 15 minutes until bubbling. Top with basil and serve with spaghetti.
+# Bake 10 to 15 minutes, until bubbling and the chicken reaches 165°F. Top with basil and serve with spaghetti.
 
 @ club-sandwich | Turkey Club Sandwich | 2 | 15 | 5 | wheat, eggs | Triple-decker toast stacked with turkey, bacon, lettuce, tomato and mayo.
 - 6 | slices | sandwich bread, toasted
@@ -165,7 +167,7 @@
 - | | ketchup, mustard and mayonnaise
 # Shape the beef into 4 patties slightly wider than the buns, with a dimple in the middle.
 # Heat a skillet or grill until very hot and season the patties.
-# Cook 3 to 4 minutes, flip, add the cheese and cook 2 to 3 minutes more.
+# Cook 3 to 4 minutes, flip, add the cheese and cook 2 to 3 minutes more, until 160°F in the center.
 # Serve on the toasted buns with your toppings.
 
 @ blt-sandwich | BLT Sandwich | 2 | 10 | 10 | wheat, eggs | Crispy bacon, crunchy lettuce and ripe tomato on toast with mayo.
@@ -192,7 +194,7 @@
 # Mix the onions back in, divide into 4 piles and top each with cheese until melted.
 # Scoop each pile into a roll.
 
-@ pulled-pork-sandwich | Pulled Pork Sandwich | 8 | 20 | 480 | wheat | Slow-cooked, smoky pork shoulder tossed in barbecue sauce and piled onto buns with slaw.
+@ pulled-pork-sandwich | Pulled Pork Sandwich | 8 | 20 | 480 | wheat, eggs | Slow-cooked, smoky pork shoulder tossed in barbecue sauce and piled onto buns with slaw.
 - 4 | lb | boneless pork shoulder
 - 2 | tbsp | brown sugar
 - 1 | tbsp | smoked paprika
@@ -209,6 +211,7 @@
 # Cook on low for 8 hours until it pulls apart easily.
 # Shred the pork, discard excess fat, and toss with the barbecue sauce.
 # Pile onto buns and top with coleslaw.
+T Check the label if you need to avoid fish: some barbecue sauces contain Worcestershire sauce, which is made with anchovies. Creamy coleslaw is made with mayonnaise, which contains eggs.
 
 @ chili-con-carne | Chili con Carne | 6 | 15 | 90 | milk | Hearty beef and bean chili with chiles, cumin and tomatoes.
 - 2 | lb | ground beef
@@ -240,6 +243,7 @@
 # Heat the oil in a cast-iron skillet until smoking and sear the steaks 3 to 4 minutes per side.
 # Add the butter, garlic and thyme and baste for 1 to 2 minutes, until 130°F inside for medium-rare.
 # Rest 8 minutes before slicing.
+T USDA's safe minimum for beef steaks is 145°F with a 3-minute rest. 130°F is the usual medium-rare.
 
 @ mashed-potatoes | Creamy Mashed Potatoes | 6 | 10 | 25 | milk | Fluffy, buttery mashed potatoes with warm milk.
 - 3 | lb | Yukon Gold potatoes, peeled and cut up
@@ -303,7 +307,7 @@
 - 3 | cups | wide egg noodles
 - 2 | tbsp | chopped parsley
 # Cook the onion, carrots and celery in the oil for 6 minutes, then add the garlic.
-# Add the broth, chicken, thyme and bay leaf and simmer 25 minutes.
+# Add the broth, chicken, thyme and bay leaf and simmer 25 minutes, until the chicken reaches 165°F.
 # Shred the chicken and return it to the pot.
 # Add the noodles and cook 6 to 8 minutes until tender. Season and add parsley.
 
@@ -494,6 +498,7 @@
 # Melt the butter in a nonstick pan over medium-low heat.
 # Add the eggs and stir slowly with a spatula, pushing them from the edges, until softly set, about 3 minutes.
 # Take off the heat while still glossy and top with pepper and chives.
+T Soft scrambled eggs are not fully firm. For anyone pregnant, older or with a weakened immune system, cook them until firm or use pasteurized eggs.
 
 @ cobb-salad | Cobb Salad | 4 | 20 | 15 | eggs, milk | Rows of chicken, bacon, egg, avocado, tomato and blue cheese over greens.
 - 6 | cups | chopped romaine
@@ -580,7 +585,7 @@
 - 1/2 | cup | chopped cilantro
 - | | salsa verde
 # Toss the chicken with the oil, spices, salt and the juice of 1 lime.
-# Cook in a hot skillet or grill 5 to 6 minutes per side until charred and cooked. Rest and chop.
+# Cook in a hot skillet or grill 5 to 6 minutes per side until charred and cooked through (165°F). Rest and chop.
 # Fill the tortillas with chicken, onion and cilantro.
 # Serve with lime wedges and salsa verde.
 
@@ -597,6 +602,7 @@
 # Warm the Canadian bacon in a skillet.
 # Bring water with the vinegar to a gentle simmer and poach the eggs 3 minutes.
 # Top each muffin half with bacon, an egg and hollandaise.
+T The hollandaise yolks and the poached eggs are only lightly cooked. Use pasteurized eggs if you prefer, and always for anyone pregnant, older or with a weakened immune system.
 
 @ breakfast-burrito | Breakfast Burrito | 4 | 10 | 20 | wheat, eggs, milk | Flour tortillas stuffed with scrambled eggs, sausage, potatoes, cheese and salsa.
 - 8 | oz | breakfast sausage

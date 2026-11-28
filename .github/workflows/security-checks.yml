@@ -24,11 +24,11 @@ jobs:
     steps:
       - name: Monitor runner network activity
         if: ${{ !github.event.repository.private }}
-        uses: step-security/harden-runner@1d88384fd173af6ecb012dfd0264a306b711241a # v2.22.4
+        uses: step-security/harden-runner@aebdcf6156ab6691adf63218240e476564a1ed4c # v2.23.0
         with:
           egress-policy: audit
       - name: Review dependency changes for vulnerabilities and licenses
-        uses: actions/dependency-review-action@a1d282b36b6f3519aa1f3fc636f609c47dddb294 # v5.0.0
+        uses: actions/dependency-review-action@bbc44d14a204704ccc493733616cd1e93a0321ec # v5.0.1
         with:
           deny-licenses: AGPL-1.0-only, AGPL-3.0-only, AGPL-3.0-or-later, GPL-2.0-only, GPL-2.0-or-later, GPL-3.0-only, GPL-3.0-or-later, SSPL-1.0
 
@@ -44,7 +44,7 @@ jobs:
     steps:
       - name: Monitor runner network activity
         if: ${{ !github.event.repository.private }}
-        uses: step-security/harden-runner@1d88384fd173af6ecb012dfd0264a306b711241a # v2.22.4
+        uses: step-security/harden-runner@aebdcf6156ab6691adf63218240e476564a1ed4c # v2.23.0
         with:
           egress-policy: audit
       - name: Get the code
@@ -52,11 +52,11 @@ jobs:
         with:
           persist-credentials: false
       - name: Initialize CodeQL
-        uses: github/codeql-action/init@33d7b85da1a04171e211befe2c739303b9a4c066 # v4.39.3
+        uses: github/codeql-action/init@1bd86f2fdb4b86187fa4059f16f31a3202acc9ea # v4.39.4
         with:
           languages: javascript-typescript, actions
       - name: Analyze with CodeQL
-        uses: github/codeql-action/analyze@33d7b85da1a04171e211befe2c739303b9a4c066 # v4.39.3
+        uses: github/codeql-action/analyze@1bd86f2fdb4b86187fa4059f16f31a3202acc9ea # v4.39.4
 
   # Check the workflow files themselves for syntax and security mistakes.
   workflow-lint:
@@ -66,7 +66,7 @@ jobs:
     steps:
       - name: Monitor runner network activity
         if: ${{ !github.event.repository.private }}
-        uses: step-security/harden-runner@1d88384fd173af6ecb012dfd0264a306b711241a # v2.22.4
+        uses: step-security/harden-runner@aebdcf6156ab6691adf63218240e476564a1ed4c # v2.23.0
         with:
           egress-policy: audit
       - name: Get the code
@@ -91,7 +91,7 @@ jobs:
     steps:
       - name: Monitor runner network activity
         if: ${{ !github.event.repository.private }}
-        uses: step-security/harden-runner@1d88384fd173af6ecb012dfd0264a306b711241a # v2.22.4
+        uses: step-security/harden-runner@aebdcf6156ab6691adf63218240e476564a1ed4c # v2.23.0
         with:
           egress-policy: audit
       - name: Get the code

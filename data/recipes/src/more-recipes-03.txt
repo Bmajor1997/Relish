@@ -1,9 +1,9 @@
 @ cucumber-melon-gin-cooler | Cucumber Melon Gin Cooler | 1 | 5 | 0 | - | Gin with honeydew, cucumber and lime, topped with soda.
-- 1½ | oz | gin
+- 1 1/2 | oz | gin
 - 2 | oz | honeydew purée
 - 3 | | cucumber slices
-- ½ | oz | lime juice
-- ¼ | oz | simple syrup
+- 1/2 | oz | lime juice
+- 1/4 | oz | simple syrup
 - 1 | oz | soda water
 - | | ice
 # Muddle cucumber with syrup.
@@ -12,10 +12,10 @@
 G Collins glass | cucumber ribbon | y | Muddle the cucumber with syrup, shake with honeydew and lime, strain over ice and top with extra soda.
 
 @ cherry-vanilla-bourbon-sour | Cherry Vanilla Bourbon Sour | 1 | 5 | 0 | - | Bourbon, cherry and lemon shaken with vanilla syrup.
-- 1½ | oz | bourbon
+- 1 1/2 | oz | bourbon
 - 1 | oz | unsweetened cherry juice
-- ¾ | oz | lemon juice
-- ½ | oz | vanilla syrup
+- 3/4 | oz | lemon juice
+- 1/2 | oz | vanilla syrup
 - | | ice
 - | | cherry garnish
 # Shake bourbon, cherry juice, lemon and vanilla syrup with ice.
@@ -23,10 +23,10 @@ G Collins glass | cucumber ribbon | y | Muddle the cucumber with syrup, shake wi
 G rocks glass | cherry | y | Shake the cherry juice, lemon and vanilla syrup with ice and strain over ice with a splash of soda.
 
 @ passion-fruit-mint-rum-fizz | Passion Fruit Mint Rum Fizz | 1 | 5 | 0 | - | Rum, passion fruit and lime with fresh mint and soda.
-- 1½ | oz | white rum
+- 1 1/2 | oz | white rum
 - 1 | oz | unsweetened passion-fruit purée
-- ½ | oz | lime juice
-- ½ | oz | simple syrup
+- 1/2 | oz | lime juice
+- 1/2 | oz | simple syrup
 - 4 | | mint leaves
 - 2 | oz | soda water
 - | | ice
@@ -36,10 +36,10 @@ G rocks glass | cherry | y | Shake the cherry juice, lemon and vanilla syrup wit
 G Collins glass | mint sprig | y | Press the mint, shake with passion fruit, lime and syrup, strain over ice and top with extra soda.
 
 @ blood-orange-basil-vodka-spritz | Blood Orange Basil Vodka Spritz | 1 | 5 | 0 | - | Vodka with blood orange and basil, topped with soda.
-- 1½ | oz | vodka
+- 1 1/2 | oz | vodka
 - 2 | oz | blood orange juice
-- ½ | oz | lemon juice
-- ¼ | oz | simple syrup
+- 1/2 | oz | lemon juice
+- 1/4 | oz | simple syrup
 - 2 | | basil leaves
 - 2 | oz | soda water
 - | | ice
@@ -49,10 +49,10 @@ G Collins glass | mint sprig | y | Press the mint, shake with passion fruit, lim
 G wine glass | basil leaf | y | Muddle the basil with syrup, shake with the citrus, strain over ice and top with extra soda.
 
 @ mango-coconut-rum-sour | Mango Coconut Rum Sour | 1 | 5 | 0 | - | Coconut rum with mango and lime, served over ice.
-- 1½ | oz | coconut rum
+- 1 1/2 | oz | coconut rum
 - 1 | oz | mango purée
-- ¾ | oz | lime juice
-- ¼ | oz | simple syrup
+- 3/4 | oz | lime juice
+- 1/4 | oz | simple syrup
 - | | ice
 - | | lime wedge
 # Shake rum, mango, lime and syrup with ice.
@@ -60,10 +60,10 @@ G wine glass | basil leaf | y | Muddle the basil with syrup, shake with the citr
 G rocks glass | lime wedge | y | Shake the mango, lime and syrup with 1 oz coconut water and ice, and strain over ice.
 
 @ grapefruit-thyme-tequila-cooler | Grapefruit Thyme Tequila Cooler | 1 | 5 | 0 | - | Tequila with grapefruit, lime and thyme, topped with soda.
-- 1½ | oz | blanco tequila
+- 1 1/2 | oz | blanco tequila
 - 2 | oz | pink grapefruit juice
-- ½ | oz | lime juice
-- ½ | oz | simple syrup
+- 1/2 | oz | lime juice
+- 1/2 | oz | simple syrup
 - 1 | | thyme sprig
 - 2 | oz | soda water
 - | | ice
@@ -73,10 +73,10 @@ G rocks glass | lime wedge | y | Shake the mango, lime and syrup with 1 oz cocon
 G Collins glass | thyme sprig | y | Press the thyme with syrup, shake with grapefruit and lime, strain over ice and top with extra soda.
 
 @ strawberry-ginger-bourbon-fizz | Strawberry Ginger Bourbon Fizz | 1 | 5 | 0 | - | Bourbon with strawberries, ginger and lemon, topped with soda.
-- 1½ | oz | bourbon
+- 1 1/2 | oz | bourbon
 - 2 | | strawberries, hulled
-- ½ | oz | lemon juice
-- ½ | oz | ginger syrup
+- 1/2 | oz | lemon juice
+- 1/2 | oz | ginger syrup
 - 2 | oz | soda water
 - | | ice
 # Muddle strawberries with ginger syrup.
@@ -85,10 +85,10 @@ G Collins glass | thyme sprig | y | Press the thyme with syrup, shake with grape
 G Collins glass | strawberry | y | Muddle the strawberries with ginger syrup, shake with lemon, strain over ice and top with extra soda.
 
 @ pear-rosemary-vodka-highball | Pear Rosemary Vodka Highball | 1 | 5 | 0 | - | Vodka with pear, lemon and rosemary, topped with soda.
-- 1½ | oz | vodka
+- 1 1/2 | oz | vodka
 - 2 | oz | pear nectar
-- ½ | oz | lemon juice
-- ¼ | oz | simple syrup
+- 1/2 | oz | lemon juice
+- 1/4 | oz | simple syrup
 - 1 | | rosemary sprig
 - 2 | oz | soda water
 - | | ice
@@ -98,10 +98,10 @@ G Collins glass | strawberry | y | Muddle the strawberries with ginger syrup, sh
 G highball glass | rosemary sprig | y | Press the rosemary with syrup, shake with pear nectar and lemon, strain over ice and top with extra soda.
 
 @ pomegranate-lime-mezcal-sparkler | Pomegranate Lime Mezcal Sparkler | 1 | 5 | 0 | - | Smoky mezcal with pomegranate and lime, topped with soda.
-- 1½ | oz | mezcal
+- 1 1/2 | oz | mezcal
 - 2 | oz | unsweetened pomegranate juice
-- ½ | oz | lime juice
-- ½ | oz | agave syrup
+- 1/2 | oz | lime juice
+- 1/2 | oz | agave syrup
 - 2 | oz | soda water
 - | | ice
 - | | lime wedge
@@ -110,10 +110,10 @@ G highball glass | rosemary sprig | y | Press the rosemary with syrup, shake wit
 G Collins glass | lime wedge | y | Shake the pomegranate, lime and agave with ice, strain over ice and top with extra soda.
 
 @ blueberry-sage-whiskey-sour | Blueberry Sage Whiskey Sour | 1 | 5 | 0 | - | Whiskey, blueberries, sage and lemon shaken over ice.
-- 1½ | oz | whiskey
+- 1 1/2 | oz | whiskey
 - 8 | | blueberries
-- ¾ | oz | lemon juice
-- ½ | oz | simple syrup
+- 3/4 | oz | lemon juice
+- 1/2 | oz | simple syrup
 - 2 | | sage leaves
 - | | ice
 # Muddle blueberries and sage with syrup.

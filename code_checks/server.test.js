@@ -556,3 +556,15 @@ test("explicit wheat is detected even without bread or flour in the ingredient n
   assert.deepEqual(found("vegan wheat germ"), ["wheat"]);
   assert.deepEqual(found("wheat-free rice noodles"), []);
 });
+
+test("a free-from word settles only the allergen it names (2026-11-27 E2E test, F2)", () => {
+  const found = (item) => with_detected_allergens({ allergens: [], ingredients: [{ item }] }).allergens;
+  for (const item of ["dairy-free cheese", "dairy-free butter", "milk-free chocolate", "egg-free mayonnaise", "nut-free pesto", "tree nut-free pesto", "peanut-free satay sauce"])
+    assert.deepEqual(found(item), [], item);
+  assert.deepEqual(found("dairy-free egg noodles"), ["eggs", "wheat"], "dairy-free says nothing about eggs or wheat");
+  assert.deepEqual(found("dairy-free almond milk"), ["tree nuts"], "still a nut");
+  assert.deepEqual(found("nut-free peanut butter"), ["peanuts"], "nut-free doesn't rule out peanuts");
+  assert.deepEqual(found("dairy-free cheese and butter"), ["milk"], "'and' ends the free-from name");
+  assert.deepEqual(found("lactose-free milk"), ["milk"], "lactose-free milk is still milk");
+  assert.deepEqual(found("egg-free pasta"), ["wheat"]);
+});

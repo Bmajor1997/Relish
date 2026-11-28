@@ -49,7 +49,7 @@ G highball glass | - | y | -
 - 2 | dashes | Angostura bitters
 # Hang a long lemon spiral in a highball and fill with ice.
 # Add the brandy and bitters and top with ginger ale.
-G highball glass | long lemon peel spiral | y | Ginger ale with bitters-free lemon spiral (the original Horse's Neck).
+G highball glass | long lemon peel spiral | y | Ginger ale with a long lemon-peel spiral and no bitters (the original Horse's Neck).
 
 @ death-in-the-afternoon | Death in the Afternoon | 1 | 2 | 0 | - | Absinthe topped with Champagne until it clouds, Hemingway's creation.
 - 1 | oz | absinthe
@@ -169,6 +169,7 @@ G coupe | lime twist | y | -
 # Dry-shake everything, then shake again with ice.
 # Strain into a small chilled glass and grate nutmeg on top.
 G small coupe | grated nutmeg | y | -
+T This drink uses a raw egg yolk. Use a pasteurized egg if you prefer, and always for anyone pregnant, older or with a weakened immune system.
 
 @ pegu-club | Pegu Club | 1 | 3 | 0 | - | Gin, orange curaçao and lime with two kinds of bitters.
 - 2 | oz | gin
@@ -336,7 +337,8 @@ G coupe | strawberry | y | -
 - 1/4 | oz | orange curaçao
 - 1 | dash | Angostura bitters
 - 1 | oz | vegan Champagne (such as Moët & Chandon Impérial)
-# Rim a coupe with sugar.
+- | | sugar, for the rim (optional)
+# Rim a coupe with sugar, if you like.
 # Stir the brandy, curaçao and bitters with ice, strain into the glass and top with Champagne.
 G coupe, rim sugared if you like | lemon twist | y | -
 
@@ -375,12 +377,14 @@ G coupe | grapefruit twist | y | Grapefruit and honey syrup topped with grapefru
 # Dry-shake the whiskey, lemon, syrup and egg white, then shake with ice.
 # Strain over ice and float the red wine on top.
 G coupe or rocks glass | orange twist and cherry (optional) | y | -
+T This drink uses raw egg white. Use pasteurized egg white if you prefer, and always for anyone pregnant, older or with a weakened immune system.
 
 @ cable-car-cocktail | Cable Car | 1 | 3 | 0 | - | Spiced rum, orange curaçao and lemon with a cinnamon-sugar rim.
 - 1 1/2 | oz | spiced rum
 - 3/4 | oz | orange curaçao
 - 1 | oz | fresh lemon juice
 - 1/2 | oz | simple syrup
+- | | cinnamon sugar, for the rim
 # Rim a coupe with cinnamon sugar.
 # Shake everything with ice and strain into the glass.
 G cinnamon-sugar-rimmed coupe | orange spiral | y | -
@@ -473,6 +477,7 @@ G coupe | lemon twist | y | -
 # Dry-shake everything, then shake again with ice.
 # Strain into a chilled coupe.
 G coupe | edible flower (optional) | y | -
+T This drink uses raw egg white. Use pasteurized egg white if you prefer, and always for anyone pregnant, older or with a weakened immune system.
 
 @ mexican-firing-squad | Mexican Firing Squad | 1 | 3 | 0 | - | Tequila, lime, grenadine and bitters, lengthened with soda.
 - 2 | oz | blanco tequila
@@ -657,6 +662,7 @@ G highball glass | mint sprig and candied ginger | y | Muddle mint with lime and
 # Blend everything with a scoop of crushed ice for 5 seconds.
 # Pour into a pearl diver or Collins glass and add more ice.
 G pearl diver glass | orchid or mint | y | -
+T Gardenia mix: beat 1 tbsp softened unsalted butter with 1 tbsp honey and a pinch each of cinnamon and vanilla. It makes enough for two drinks and keeps a week in the fridge.
 
 @ silver-fizz | Silver Fizz | 1 | 4 | 0 | eggs | Gin, lemon and sugar with egg white, topped with soda.
 - 2 | oz | gin
@@ -667,6 +673,7 @@ G pearl diver glass | orchid or mint | y | -
 # Dry-shake everything except the soda, then shake again with ice.
 # Strain into a highball without ice and top with soda.
 G highball glass | lemon twist | y | -
+T This drink uses raw egg white. Use pasteurized egg white if you prefer, and always for anyone pregnant, older or with a weakened immune system.
 
 @ port-of-spain-cocktail | Port of Spain | 1 | 3 | 0 | - | Trinidad-style rum sour with Angostura and lime.
 - 2 | oz | Trinidad rum
@@ -729,6 +736,7 @@ G coupe | - | y | -
 # Dry-shake everything, then shake again with ice.
 # Strain into a small chilled glass and grate nutmeg on top.
 G small coupe | grated nutmeg | y | -
+T This drink uses a raw whole egg. Use a pasteurized egg if you prefer, and always for anyone pregnant, older or with a weakened immune system.
 
 @ division-bell-cocktail | Division Bell | 1 | 3 | 0 | - | Mezcal, Aperol, maraschino and lime.
 - 1 | oz | mezcal

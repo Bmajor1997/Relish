@@ -41,6 +41,9 @@ describe("servings counter", () => {
     expect(scale_amount("3/4", 2)).toBe("1 1/2");
     expect(scale_amount("1 1/2", 0.5)).toBe("3/4");
     expect(scale_amount("2-3", 2)).toBe("4-6");
+    expect(scale_amount("6 to 8", 0.5)).toBe("3 to 4");
+    expect(scale_amount("1 to 2", 2)).toBe("2 to 4");
+    expect(scale_amount("1/2 to 1", 2)).toBe("1 to 2");
     expect(scale_amount("to taste", 3)).toBe("to taste");
     expect(scale_amount("", 3)).toBe("");
     expect(scale_amount("1/3", 1)).toBe("1/3");

@@ -209,15 +209,21 @@ const ALLERGEN_WORDS = {
 };
 const NOT_AN_ALLERGEN =
   /\b(?:coconut|oat|rice|almond|soy|cashew) (?:milk|cream|yogh?urt)\b|\bcream of (?:coconut|tartar)\b|\b(?:peanut|almond|cashew|sunflower|apple|cocoa|shea|nut|seed) butter\b|\bbutternut\b|\bbutter (?:beans|lettuce)\b|\beggplants?\b|\b(?:gluten-free|rice|glass|cellophane|soba|corn|sweet potato) (?:pasta|noodles|tortillas?|bread|flour|crackers?|panko)\b|\b(?:rice|corn|almond|coconut|chickpea|tapioca|potato|cassava) flour\b|\bcornbread\b|\bfish-free\b|\bwater chestnuts?\b|\bnutmeg\b|\bginger (?:beer|ale)\b|\broot beer\b|\bgluten-free (?:beer|ale|lager)\b|\bcream sherry\b/g;
-// A free-from word settles only the allergen it names: "wheat-free egg noodles" is still eggs. Spirits distilled from
-// malted grain ("single malt") aren't wheat.
+// A free-from word settles only the allergen it names: "wheat-free egg noodles" is still eggs, and "dairy-free cheese"
+// isn't milk but "dairy-free egg noodles" is still eggs and wheat. "Lactose-free" and "non-dairy" aren't free-from
+// words here: lactose-free milk is milk, and non-dairy creamers often hold casein. Spirits distilled from malted grain
+// ("single malt") aren't wheat.
 // "Vegan" rules out dairy, eggs, fish and shellfish, so a vegan product's name ("vegan cream cheese", "vegan fish
 // sauce") isn't read as them; it says nothing about wheat, so "vegan whole wheat bread" is still wheat.
 const NOT_THIS_ALLERGEN = {
-  milk: /\bvegan(?: (?!and\b|or\b|with\b|plus\b)[a-z'-]+){1,3}/g,
-  eggs: /\bvegan(?: (?!and\b|or\b|with\b|plus\b)[a-z'-]+){1,3}/g,
-  fish: /\bvegan(?: (?!and\b|or\b|with\b|plus\b)[a-z'-]+){1,3}/g,
-  shellfish: /\bvegan(?: (?!and\b|or\b|with\b|plus\b)[a-z'-]+){1,3}/g,
+  milk: /\b(?:vegan|(?:dairy|milk)-free)(?: (?!and\b|or\b|with\b|plus\b)[a-z'-]+){1,3}/g,
+  eggs: /\b(?:vegan|eggs?-free)(?: (?!and\b|or\b|with\b|plus\b)[a-z'-]+){1,3}/g,
+  fish: /\b(?:vegan|fish-free)(?: (?!and\b|or\b|with\b|plus\b)[a-z'-]+){1,3}/g,
+  shellfish: /\b(?:vegan|shellfish-free)(?: (?!and\b|or\b|with\b|plus\b)[a-z'-]+){1,3}/g,
+  "tree nuts": /\b(?:tree[ -])?nut-free(?: (?!and\b|or\b|with\b|plus\b)[a-z'-]+){1,3}/g,
+  peanuts: /\bpeanut-free(?: (?!and\b|or\b|with\b|plus\b)[a-z'-]+){1,3}/g,
+  soy: /\bsoya?-free(?: (?!and\b|or\b|with\b|plus\b)[a-z'-]+){1,3}/g,
+  sesame: /\bsesame-free(?: (?!and\b|or\b|with\b|plus\b)[a-z'-]+){1,3}/g,
   wheat: /\b(?:wheat|gluten)-free(?: (?!and\b|or\b|with\b)[a-z'-]+){1,3}|\bsingle malt\b|\bmalt whiske?y\b/g,
 };
 

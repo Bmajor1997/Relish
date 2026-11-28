@@ -33,7 +33,7 @@ jobs:
     timeout-minutes: 10
     steps:
       # No checkout: untrusted PR code never receives the check-writing token.
-      - uses: actions/github-script@ed597411d8f924073f98dfc5c65a23a2325f34cd # v8
+      - uses: actions/github-script@3a2844b7e9c422d3c10d287c895573f7108da1b3 # v9.0.0
         with:
           script: |
             const BOT_ID = 199175422;
@@ -75,6 +75,17 @@ jobs:
               if (pr.state !== "open" || pr.draft) continue;
               const head = pr.head.sha;
               const check = await github.rest.checks.create({ owner, repo, name: "Review readiness", head_sha: head, status: "in_progress" });
+              // If GitHub can no longer find the check, publish a replacement rather
+              // than losing the verified result. Other errors remain failures.
+              const finish_check = async (output, conclusion) => {
+                try {
+                  await github.rest.checks.update({ owner, repo, check_run_id: check.data.id, status: "completed", conclusion, output });
+                } catch (error) {
+                  if (error.status !== 404) throw error;
+                  core.warning(`Review check ${check.data.id} could not be updated (404); creating a replacement.`);
+                  await github.rest.checks.create({ owner, repo, name: "Review readiness", head_sha: head, status: "completed", conclusion, output });
+                }
+              };
               try {
                 const comments = await github.paginate(github.rest.issues.listComments, { owner, repo, issue_number: pr.number, per_page: 100 });
                 const reviews = await github.paginate(github.rest.pulls.listReviews, { owner, repo, pull_number: pr.number, per_page: 100 });
@@ -111,7 +122,7 @@ jobs:
                   ...result.reasons,
                   "Action: fix findings or document why they are accepted, resolve the conversation, and review the final commit. Rerun this workflow after resolving threads.",
                 ].join("\n\n");
-                await github.rest.checks.update({ owner, repo, check_run_id: check.data.id, status: "completed", conclusion: result.ready ? "success" : "failure", output: { title: result.ready ? "Final commit reviewed; conversations resolved" : "Review needs attention", summary } });
+                await finish_check({ title: result.ready ? "Final commit reviewed; conversations resolved" : "Review needs attention", summary }, result.ready ? "success" : "failure");
                 const marker = "<!-- assurance-review-report:v1 -->";
                 const report = comments.find(item => item.user?.type === "Bot" && item.user?.login === "github-actions[bot]" && item.body?.startsWith(marker));
                 const body = `${marker}\n## Review and check summary\n\n${summary}`;
@@ -119,7 +130,12 @@ jobs:
                 else if (result.completed) await github.rest.issues.createComment({ owner, repo, issue_number: pr.number, body });
                 await core.summary.addHeading(`${owner}/${repo} PR #${pr.number}`).addRaw(summary).write();
               } catch (error) {
-                await github.rest.checks.update({ owner, repo, check_run_id: check.data.id, status: "completed", conclusion: "failure", output: { title: "Review could not be verified", summary: "The review verification failed. Inspect this workflow's logs and rerun it; a missing review must not count as approval." } });
+                core.error(error);
+                try {
+                  await finish_check({ title: "Review could not be verified", summary: "The review verification failed. Inspect this workflow's logs and rerun it; a missing review must not count as approval." }, "failure");
+                } catch (publish_error) {
+                  core.error(`Could not publish failed review check: ${publish_error.message}`);
+                }
                 throw error;
               }
             }

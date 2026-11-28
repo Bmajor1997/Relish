@@ -1,0 +1,110 @@
+[
+ {
+  "photos": [
+   "brooklyn.jpg",
+   "la-louisiane.jpg"
+  ],
+  "reason": "Same photo with a different crop. Kept until a replacement photo is added (recipe and image audit, 2026-11-27).",
+  "reviewed_by": "Claude, recipe and image audit",
+  "expires": "2027-02-28"
+ },
+ {
+  "photos": [
+   "man-o-war.jpg",
+   "perfect-manhattan.jpg"
+  ],
+  "reason": "Same photo with a different crop. Kept until a replacement photo is added (recipe and image audit, 2026-11-27).",
+  "reviewed_by": "Claude, recipe and image audit",
+  "expires": "2027-02-28"
+ },
+ {
+  "photos": [
+   "bahama-mama.jpg",
+   "hurricane.jpg"
+  ],
+  "reason": "Same photo with a different crop. Kept until a replacement photo is added (recipe and image audit, 2026-11-27).",
+  "reviewed_by": "Claude, recipe and image audit",
+  "expires": "2027-02-28"
+ },
+ {
+  "photos": [
+   "black-rose.jpg",
+   "blackberry-martini.jpg"
+  ],
+  "reason": "Same photo with a different crop. Kept until a replacement photo is added (recipe and image audit, 2026-11-27).",
+  "reviewed_by": "Claude, recipe and image audit",
+  "expires": "2027-02-28"
+ },
+ {
+  "photos": [
+   "kahlua-and-cream.jpg",
+   "shaft.jpg"
+  ],
+  "reason": "Same photo with a different crop. Kept until a replacement photo is added (recipe and image audit, 2026-11-27).",
+  "reviewed_by": "Claude, recipe and image audit",
+  "expires": "2027-02-28"
+ },
+ {
+  "photos": [
+   "between-the-sheets.jpg",
+   "champs-elysees.jpg"
+  ],
+  "reason": "Same photo with a different crop. Kept until a replacement photo is added (recipe and image audit, 2026-11-27).",
+  "reviewed_by": "Claude, recipe and image audit",
+  "expires": "2027-02-28"
+ },
+ {
+  "photos": [
+   "fancy-free.jpg",
+   "saturn.jpg"
+  ],
+  "reason": "Checked side by side: different photos that share the studio style.",
+  "reviewed_by": "Claude, recipe and image audit",
+  "expires": "2028-11-27"
+ },
+ {
+  "photos": [
+   "betsy-ross.jpg",
+   "eastside-cocktail.jpg"
+  ],
+  "reason": "Checked side by side: different photos that share the studio style.",
+  "reviewed_by": "Claude, recipe and image audit",
+  "expires": "2028-11-27"
+ },
+ {
+  "photos": [
+   "betsy-ross.jpg",
+   "mamacita.jpg"
+  ],
+  "reason": "Checked side by side: different photos that share the studio style.",
+  "reviewed_by": "Claude, recipe and image audit",
+  "expires": "2028-11-27"
+ },
+ {
+  "photos": [
+   "corpse-reviver.jpg",
+   "dirty-martini.jpg"
+  ],
+  "reason": "Checked side by side: different photos that share the studio style.",
+  "reviewed_by": "Claude, recipe and image audit",
+  "expires": "2028-11-27"
+ },
+ {
+  "photos": [
+   "corpse-reviver.jpg",
+   "paper-plane.jpg"
+  ],
+  "reason": "Checked side by side: different photos that share the studio style.",
+  "reviewed_by": "Claude, recipe and image audit",
+  "expires": "2028-11-27"
+ },
+ {
+  "photos": [
+   "gold-mine-cocktail.jpg",
+   "london-calling.jpg"
+  ],
+  "reason": "Checked side by side: different photos that share the studio style.",
+  "reviewed_by": "Claude, recipe and image audit",
+  "expires": "2028-11-27"
+ }
+]

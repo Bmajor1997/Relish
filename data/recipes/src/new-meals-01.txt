@@ -62,6 +62,7 @@ T Keep the chicken at a gentle simmer so it stays tender enough to shred.
 S Keeps 3 days in the fridge and thickens as it sits; thin it with water when reheating. Add the cream, capers and avocado only when serving.
 V Serve with a side of white rice, the way many Bogotá families do.
 @@ vegetarian | Vegetarian Ajiaco | 25 | 60 | milk | All the corn, three potatoes and guascas of the classic, with white beans in place of the chicken and a vegetable broth base.
+~ Keep the chicken at a gentle simmer so it stays tender enough to shred. => Keep the soup at a gentle simmer so the beans stay whole while the russets melt.
 - 10 | cups | vegetable broth
 - 4 | | green onions, halved
 - 4 | cloves | garlic, smashed
@@ -83,6 +84,8 @@ V Serve with a side of white rice, the way many Bogotá families do.
 # Stir in the beans or sliced hearts of palm for the last 5 minutes and taste for salt.
 # Ladle into deep bowls with a piece of corn in each and serve the cream, capers and avocado on the side.
 @@ vegan | Vegan Ajiaco | 25 | 60 | tree nuts | The vegetarian ajiaco finished with a cashew cream instead of dairy.
+~ Add the cream, capers and avocado only when serving. => Add the cashew cream, capers and avocado only when serving.
+~ Keep the chicken at a gentle simmer so it stays tender enough to shred. => Keep the soup at a gentle simmer so the beans stay whole while the russets melt.
 - 10 | cups | vegetable broth
 - 4 | | green onions, halved
 - 4 | cloves | garlic, smashed
@@ -277,6 +280,7 @@ T The curtido is half the dish: the sharp, crunchy onions cut the rich broth.
 S The broth and yuca keep 3 days in the fridge; add the tuna when reheating if you can. The curtido keeps 3 days.
 V Use swordfish or mahi-mahi if fresh tuna is hard to find.
 @@ vegetarian | Vegetarian Encebollado | 30 | 45 | - | The same cumin-tomato broth and tender yuca, with meaty hearts of palm and oyster mushrooms in place of the tuna.
+~ add the tuna when reheating if you can => add the mushrooms and hearts of palm when reheating
 ~ fresh albacore or yellowfin tuna, in large pieces => hearts of palm (2 cans) and oyster mushrooms, torn
 ~ Add the tuna and simmer gently for 10 to 12 minutes, until just cooked. Lift it out and flake it into large chunks. => Add the mushrooms and simmer 5 minutes, then lift them out.
 ~ Return the tuna, warm through and taste for salt. => Return the mushrooms, add the sliced hearts of palm, warm through and taste for salt.
@@ -342,7 +346,7 @@ S Marinate up to a day ahead; fry just before serving.
 - 3 | tbsp | water
 - | | sticky rice, lettuce cups, cucumber and long beans, to serve
 # Toast the rice in a dry pan over medium heat, stirring constantly, for 10 to 15 minutes, until deep golden and smelling like popcorn. Cool and grind to a coarse powder.
-# Cook the pork with the water in a pan over medium heat, breaking it up, for 5 to 7 minutes, just until no longer pink. Don't brown it; it should stay moist.
+# Cook the pork with the water in a pan over medium heat, breaking it up, for 5 to 7 minutes, just until cooked through (160°F). Don't brown it; it should stay moist.
 # Take the pan off the heat. Stir in the fish sauce, lime juice, sugar and chili flakes. Taste: it should be sour, salty and spicy all at once.
 # Add the shallots, green onions, most of the herbs and 2 tbsp of the toasted rice powder and toss.
 # Pile onto a plate, sprinkle with the rest of the herbs and rice powder, and serve with sticky rice and crisp vegetables to scoop it up.
@@ -354,7 +358,7 @@ V Larb gai: make it with ground chicken instead of pork.
 @@ vegetarian | Vegetarian Larb | 20 | 15 | soy, wheat | Crumbled tofu and mushrooms dressed with lime, soy sauce and chili, with fresh herbs and toasted rice powder.
 ~ ground pork => extra-firm tofu and mushrooms, finely chopped (about 1 lb total)
 ~ fish sauce => light soy sauce
-~ Cook the pork with the water in a pan over medium heat, breaking it up, for 5 to 7 minutes, just until no longer pink. Don't brown it; it should stay moist. => Cook the tofu and mushrooms in a lightly oiled pan over medium-high heat for 6 to 8 minutes, until the mushrooms have released their liquid and the tofu is lightly golden.
+~ Cook the pork with the water in a pan over medium heat, breaking it up, for 5 to 7 minutes, just until cooked through (160°F). Don't brown it; it should stay moist. => Cook the tofu and mushrooms in a lightly oiled pan over medium-high heat for 6 to 8 minutes, until the mushrooms have released their liquid and the tofu is lightly golden.
 ~ Stir in the fish sauce, lime juice, => Stir in the soy sauce, lime juice,
 ~ Cooking the pork gently in a little water keeps it tender and juicy; larb isn't meant to be browned and crispy. => Crumble the tofu small so it holds the dressing like minced meat.
 @@ vegan = vegetarian

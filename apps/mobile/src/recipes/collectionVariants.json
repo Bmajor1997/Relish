@@ -81,7 +81,7 @@
       "tips": [
         "The three potatoes each do a job: russets dissolve to thicken, red potatoes hold their shape, and the little yellow ones add buttery flavor.",
         "Guascas gives ajiaco its signature taste. Look for it dried in Latin markets; dried oregano is a distant but workable stand-in.",
-        "Keep the chicken at a gentle simmer so it stays tender enough to shred."
+        "Keep the soup at a gentle simmer so the beans stay whole while the russets melt."
       ],
       "make_ahead": "Keeps 3 days in the fridge and thickens as it sits; thin it with water when reheating. Add the cream, capers and avocado only when serving.",
       "variations": []
@@ -122,9 +122,9 @@
       "tips": [
         "The three potatoes each do a job: russets dissolve to thicken, red potatoes hold their shape, and the little yellow ones add buttery flavor.",
         "Guascas gives ajiaco its signature taste. Look for it dried in Latin markets; dried oregano is a distant but workable stand-in.",
-        "Keep the chicken at a gentle simmer so it stays tender enough to shred."
+        "Keep the soup at a gentle simmer so the beans stay whole while the russets melt."
       ],
-      "make_ahead": "Keeps 3 days in the fridge and thickens as it sits; thin it with water when reheating. Add the cream, capers and avocado only when serving.",
+      "make_ahead": "Keeps 3 days in the fridge and thickens as it sits; thin it with water when reheating. Add the cashew cream, capers and avocado only when serving.",
       "variations": []
     }
   },
@@ -425,7 +425,7 @@
         "Frozen yuca is already peeled and cooks more evenly than fresh, and it works perfectly here.",
         "The curtido is half the dish: the sharp, crunchy onions cut the rich broth."
       ],
-      "make_ahead": "The broth and yuca keep 3 days in the fridge; add the tuna when reheating if you can. The curtido keeps 3 days.",
+      "make_ahead": "The broth and yuca keep 3 days in the fridge; add the mushrooms and hearts of palm when reheating. The curtido keeps 3 days.",
       "variations": []
     },
     "vegan": {
@@ -466,7 +466,7 @@
         "Frozen yuca is already peeled and cooks more evenly than fresh, and it works perfectly here.",
         "The curtido is half the dish: the sharp, crunchy onions cut the rich broth."
       ],
-      "make_ahead": "The broth and yuca keep 3 days in the fridge; add the tuna when reheating if you can. The curtido keeps 3 days.",
+      "make_ahead": "The broth and yuca keep 3 days in the fridge; add the mushrooms and hearts of palm when reheating. The curtido keeps 3 days.",
       "variations": []
     }
   },
@@ -814,7 +814,7 @@
       "cocktail": null,
       "note": "A representative home version. Restaurants and regions make it in many ways, and this isn't any one restaurant's recipe.",
       "tips": ["The smoked paprika oil brings the smoky, rosy flavor that the sausage normally gives."],
-      "make_ahead": "The potato base keeps 3 days in the fridge or 3 months frozen. Add freshly cut greens and the sausage when reheating.",
+      "make_ahead": "The potato base keeps 3 days in the fridge or 3 months frozen. Add freshly cut greens and the white beans when reheating.",
       "variations": []
     },
     "vegan": {
@@ -846,7 +846,7 @@
       "cocktail": null,
       "note": "A representative home version. Restaurants and regions make it in many ways, and this isn't any one restaurant's recipe.",
       "tips": ["The smoked paprika oil brings the smoky, rosy flavor that the sausage normally gives."],
-      "make_ahead": "The potato base keeps 3 days in the fridge or 3 months frozen. Add freshly cut greens and the sausage when reheating.",
+      "make_ahead": "The potato base keeps 3 days in the fridge or 3 months frozen. Add freshly cut greens and the white beans when reheating.",
       "variations": []
     }
   },
@@ -893,7 +893,7 @@
         "Soaking the cornmeal in cold water first stops it from clumping when it hits the hot liquid.",
         "Browning the eggplant first helps it hold its shape in the sauce."
       ],
-      "make_ahead": "The sauce keeps 3 days; cook the fish in it fresh. Cou-cou firms up as it cools; slice and fry leftovers in butter.",
+      "make_ahead": "The sauce keeps 3 days; cook the eggplant in it fresh. Cou-cou firms up as it cools; slice and fry leftovers in butter.",
       "variations": []
     },
     "vegan": {
@@ -1002,7 +1002,7 @@
         { "amount": "1/2", "unit": "tsp", "item": "dried thyme" },
         { "amount": "", "unit": "", "item": "neutral oil, for frying" },
         { "amount": "1/2", "unit": "cup", "item": "vegan mayo mixed with 2 tbsp ketchup and hot sauce, for dipping" },
-        { "amount": "", "unit": "", "item": "French fries, coleslaw or peas and rice, to serve" }
+        { "amount": "", "unit": "", "item": "French fries, vinegar slaw or peas and rice, to serve" }
       ],
       "steps": [
         "Toss the mushroom planks with the lime juice and a pinch of salt.",
@@ -1149,7 +1149,7 @@
         "Char the tomatoes and chilies in a dry pan or under the broiler until blackened in spots. Blend them with the toasted sesame, lime juice, timur, the rest of the salt and a little water into a thick sauce.",
         "Roll the dough into a log, cut into 30 pieces and roll each into a thin 3 1/2-inch circle, thinner at the edges.",
         "Put a spoon of filling in the center and pleat the edges together into a round purse, twisting the top to seal.",
-        "Steam on oiled racks for 10 to 12 minutes, until the wrappers are glossy and tender. Serve hot with the achar."
+        "Steam on oiled racks for 10 to 12 minutes, until the wrappers are glossy and tender (165°F). Serve hot with the achar."
       ],
       "allergens": ["sesame", "soy", "wheat"],
       "cocktail": null,
@@ -1198,7 +1198,7 @@
         "Char the tomatoes and chilies in a dry pan or under the broiler until blackened in spots. Blend them with the toasted sesame, lime juice, timur, the rest of the salt and a little water into a thick sauce.",
         "Roll the dough into a log, cut into 30 pieces and roll each into a thin 3 1/2-inch circle, thinner at the edges.",
         "Put a spoon of filling in the center and pleat the edges together into a round purse, twisting the top to seal.",
-        "Steam on oiled racks for 10 to 12 minutes, until the wrappers are glossy and tender. Serve hot with the achar."
+        "Steam on oiled racks for 10 to 12 minutes, until the wrappers are glossy and tender (165°F). Serve hot with the achar."
       ],
       "allergens": ["sesame", "soy", "wheat"],
       "cocktail": null,
@@ -1433,7 +1433,7 @@
       "steps": [
         "Simmer the broth with the carrots, parsnip, celery root, onion and bay leaves for 30 minutes. Lift out the vegetables and cut the carrot into matchsticks.",
         "Brown the mushroom strips in the oil over high heat for 6 to 8 minutes. Add them and the carrot to the broth with the salt and simmer 10 minutes.",
-        "Whisk the sour cream and egg yolks in a bowl. Slowly whisk in 2 ladles of hot broth, then stir the mixture back into the pot over low heat. Don't let it boil.",
+        "Whisk the sour cream and egg yolks in a bowl. Slowly whisk in 2 ladles of hot broth, then stir the mixture back into the pot over low heat. Heat gently until steaming (160°F) so the yolks cook through, but don't let it boil.",
         "Stir in half the garlic paste and the vinegar. Taste and add more vinegar or salt until it's pleasantly sour. Serve with hot peppers, more garlic and sour cream on the side."
       ],
       "allergens": ["eggs", "milk"],
@@ -1777,7 +1777,7 @@
       "cocktail": null,
       "note": "A representative home version. Restaurants and regions make it in many ways, and this isn't any one restaurant's recipe.",
       "tips": [
-        "The onions are the star. Give them time to soften and turn sweet before the chicken goes back in.",
+        "The onions are the star. Give them time to soften and turn sweet before the tofu goes in.",
         "Grilling the tofu first adds a smoky char and helps it hold together.",
         "Keep the chili whole for flavor and gentle heat; break it open if you like it fiery."
       ],
@@ -1817,7 +1817,7 @@
       "cocktail": null,
       "note": "A representative home version. Restaurants and regions make it in many ways, and this isn't any one restaurant's recipe.",
       "tips": [
-        "The onions are the star. Give them time to soften and turn sweet before the chicken goes back in.",
+        "The onions are the star. Give them time to soften and turn sweet before the tofu goes in.",
         "Grilling the tofu first adds a smoky char and helps it hold together.",
         "Keep the chili whole for flavor and gentle heat; break it open if you like it fiery."
       ],
@@ -1938,7 +1938,8 @@
       "tips": [
         "Beat the eggs only lightly so you can still see streaks of white and yolk. That marbled look is the classic finish.",
         "Pour the egg around the cutlet, not all over it, so part of the crust stays crisp.",
-        "Press the tofu for 20 minutes so the coating stays crisp."
+        "Press the tofu for 20 minutes so the coating stays crisp.",
+        "The egg is served softly set. For anyone pregnant, older or with a weakened immune system, cook it until firm or use pasteurized eggs."
       ],
       "make_ahead": "Fry the tofu cutlets up to a day ahead and reheat in the oven. Cook the egg topping just before serving.",
       "variations": []
@@ -2018,7 +2019,8 @@
       "tips": [
         "Mash the plantains while they're hot and add the water cold. Dominican cooks swear it makes the mangú extra smooth.",
         "Use fully green plantains; ripe ones make a sweet, different dish.",
-        "Pat the cheese dry before frying so it browns instead of spattering."
+        "Pat the cheese dry before frying so it browns instead of spattering.",
+        "Sunny-side-up eggs have runny yolks. For anyone pregnant, older or with a weakened immune system, cook them until firm or use pasteurized eggs."
       ],
       "make_ahead": "Mangú stiffens as it cools; reheat with a splash of water and stir until smooth.",
       "variations": []
@@ -2032,7 +2034,7 @@
       "ingredients": [
         { "amount": "4", "unit": "", "item": "green (unripe) plantains, peeled and cut in chunks" },
         { "amount": "2", "unit": "tsp", "item": "salt, divided" },
-        { "amount": "4", "unit": "tbsp", "item": "olive oil" },
+        { "amount": "4", "unit": "tbsp", "item": "olive oil, for the mash" },
         { "amount": "1", "unit": "cup", "item": "cold water, from the plantain pot" },
         { "amount": "1", "unit": "", "item": "large red onion, sliced into rings" },
         { "amount": "1/4", "unit": "cup", "item": "white or apple cider vinegar" },
@@ -2057,7 +2059,8 @@
       "tips": [
         "Mash the plantains while they're hot and add the water cold. Dominican cooks swear it makes the mangú extra smooth.",
         "Use fully green plantains; ripe ones make a sweet, different dish.",
-        "Pat the tofu dry before frying so it browns well."
+        "Pat the tofu dry before frying so it browns well.",
+        "Fry the ripe plantains over medium heat so they caramelize without burning."
       ],
       "make_ahead": "Mangú stiffens as it cools; reheat with a splash of water and stir until smooth.",
       "variations": []
@@ -2655,7 +2658,7 @@
       "note": "A representative home version. Restaurants and regions make it in many ways, and this isn't any one restaurant's recipe.",
       "tips": [
         "Keep the batter ice-cold and barely mixed. Stirring builds gluten, which makes the coating heavy and bready.",
-        "The dusting of flour helps the batter cling, especially to shrimp and smooth vegetables.",
+        "The dusting of flour helps the batter cling, especially to smooth vegetables.",
         "Skim floating bits of batter from the oil between batches so they don't burn."
       ],
       "make_ahead": "",
@@ -3002,7 +3005,8 @@
       "note": "A classic home version. Bars vary the proportions, and this isn't any one bar's recipe. Please drink responsibly.",
       "tips": [
         "The small splash of aquafaba is only for texture. Leave it out and the drink is just as good.",
-        "Overproof rum is very strong. Measure it carefully."
+        "Overproof rum is very strong. Measure it carefully.",
+        "Aquafaba foams like egg white and is safe to use raw."
       ],
       "make_ahead": "",
       "variations": []
