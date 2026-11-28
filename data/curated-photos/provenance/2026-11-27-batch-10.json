@@ -1,0 +1,75 @@
+{
+  "batch": 10,
+  "images": [
+    {
+      "file": "apricot-rosemary-tequila-sour.jpg",
+      "generated_on": "2026-11-27",
+      "method": "OpenAI built-in image generation",
+      "prompt": "Use case: photorealistic-natural. One square editorial recipe photograph for Relish. Single finished serving centered with a full vessel and crop margin, realistic cooked textures or condensation, soft natural side window light, restrained warm kitchen/bar background and shallow depth of field. Eye-level three-quarter view for drinks, three-quarter overhead for meals. No people, hands, text, logos, watermark, collage, borders or unspecified extras. Subject: Apricot Rosemary Tequila Sour: hazy apricot-orange tequila and lime sour over clear ice in a short rocks glass, exactly one thin apricot slice garnish. No rosemary garnish or foam.",
+      "note": "AI-generated representative serving image; not a photograph of a kitchen-tested dish."
+    },
+    {
+      "file": "chicken-with-roasted-grapes-and-shallots.jpg",
+      "generated_on": "2026-11-27",
+      "method": "OpenAI built-in image generation",
+      "prompt": "Use case: photorealistic-natural. One square editorial recipe photograph for Relish. Single finished serving centered with a full vessel and crop margin, realistic cooked textures or condensation, soft natural side window light, restrained warm kitchen/bar background and shallow depth of field. Eye-level three-quarter view for drinks, three-quarter overhead for meals. No people, hands, text, logos, watermark, collage, borders or unspecified extras. Subject: Chicken with Roasted Grapes and Shallots: one fully cooked golden crisp-skinned bone-in chicken thigh beside blistered red grapes and soft browned halved shallots in light thyme pan juices on a cream plate. No potatoes, rice or cream.",
+      "note": "AI-generated representative serving image; not a photograph of a kitchen-tested dish."
+    },
+    {
+      "file": "clementine-thyme-vodka-sour.jpg",
+      "generated_on": "2026-11-27",
+      "method": "OpenAI built-in image generation",
+      "prompt": "Use case: photorealistic-natural. One square editorial recipe photograph for Relish. Single finished serving centered with a full vessel and crop margin, realistic cooked textures or condensation, soft natural side window light, restrained warm kitchen/bar background and shallow depth of field. Eye-level three-quarter view for drinks, three-quarter overhead for meals. No people, hands, text, logos, watermark, collage, borders or unspecified extras. Subject: Clementine Thyme Vodka Sour: hazy pale-orange clementine, vodka and lemon sour served up in a coupe; exactly one small clementine twist. No thyme garnish or foam.",
+      "note": "AI-generated representative serving image; not a photograph of a kitchen-tested dish."
+    },
+    {
+      "file": "cranberry-ginger-gin-highball.jpg",
+      "generated_on": "2026-11-27",
+      "method": "OpenAI built-in image generation",
+      "prompt": "Use case: photorealistic-natural. One square editorial recipe photograph for Relish. Single finished serving centered with a full vessel and crop margin, realistic cooked textures or condensation, soft natural side window light, restrained warm kitchen/bar background and shallow depth of field. Eye-level three-quarter view for drinks, three-quarter overhead for meals. No people, hands, text, logos, watermark, collage, borders or unspecified extras. Subject: Cranberry Ginger Gin Highball: ruby-red gin, cranberry, lemon, ginger syrup and soda over clear ice in a tall highball; exactly one lemon wheel garnish.",
+      "note": "AI-generated representative serving image; not a photograph of a kitchen-tested dish."
+    },
+    {
+      "file": "crispy-lentil-potato-patties-with-cucumber-yogurt.jpg",
+      "generated_on": "2026-11-27",
+      "method": "OpenAI built-in image generation",
+      "prompt": "Use case: photorealistic-natural. One square editorial recipe photograph for Relish. Single finished serving centered with a full vessel and crop margin, realistic cooked textures or condensation, soft natural side window light, restrained warm kitchen/bar background and shallow depth of field. Eye-level three-quarter view for drinks, three-quarter overhead for meals. No people, hands, text, logos, watermark, collage, borders or unspecified extras. Subject: Crispy Lentil Potato Patties with Cucumber Yogurt: two golden-brown lentil-potato patties with visible green-brown lentils and scallion flecks, beside a small spoonful of white yogurt sauce with grated cucumber. Plain pale plate, no greens or garnish.",
+      "note": "AI-generated representative serving image; not a photograph of a kitchen-tested dish."
+    },
+    {
+      "file": "fig-lemon-brandy-smash.jpg",
+      "generated_on": "2026-11-27",
+      "method": "OpenAI built-in image generation",
+      "prompt": "Use case: photorealistic-natural. One square editorial recipe photograph for Relish. Single finished serving centered with a full vessel and crop margin, realistic cooked textures or condensation, soft natural side window light, restrained warm kitchen/bar background and shallow depth of field. Eye-level three-quarter view for drinks, three-quarter overhead for meals. No people, hands, text, logos, watermark, collage, borders or unspecified extras. Subject: Fig Lemon Brandy Smash: hazy golden rose-brown fresh-fig, brandy and lemon cocktail over clear ice in a rocks glass, with fine fig specks; one fresh fig half on a cocktail pick resting at the rim. No herbs or foam.",
+      "note": "AI-generated representative serving image; not a photograph of a kitchen-tested dish."
+    },
+    {
+      "file": "kiwi-mint-rum-fizz.jpg",
+      "generated_on": "2026-11-27",
+      "method": "OpenAI built-in image generation",
+      "prompt": "Use case: photorealistic-natural. One square editorial recipe photograph for Relish. Single finished serving centered with a full vessel and crop margin, realistic cooked textures or condensation, soft natural side window light, restrained warm kitchen/bar background and shallow depth of field. Eye-level three-quarter view for drinks, three-quarter overhead for meals. No people, hands, text, logos, watermark, collage, borders or unspecified extras. Subject: Kiwi Mint Rum Fizz: pale fresh-green kiwi, white rum, mint, lime and soda over clear ice in a highball, tiny kiwi seeds visible; exactly one kiwi half-slice and small mint sprig garnish.",
+      "note": "AI-generated representative serving image; not a photograph of a kitchen-tested dish."
+    },
+    {
+      "file": "mushroom-walnut-lentil-lettuce-wraps.jpg",
+      "generated_on": "2026-11-27",
+      "method": "OpenAI built-in image generation",
+      "prompt": "Use case: photorealistic-natural. One square editorial recipe photograph for Relish. Single finished serving centered with a full vessel and crop margin, realistic cooked textures or condensation, soft natural side window light, restrained warm kitchen/bar background and shallow depth of field. Eye-level three-quarter view for drinks, three-quarter overhead for meals. No people, hands, text, logos, watermark, collage, borders or unspecified extras. Subject: Mushroom Walnut Lentil Lettuce Wraps: two crisp butter lettuce leaves filled with a browned chopped mushroom, walnut and lentil mixture, topped with grated carrot and sliced scallions in a light soy-ginger glaze. White plate, no meat or rice.",
+      "note": "AI-generated representative serving image; not a photograph of a kitchen-tested dish."
+    },
+    {
+      "file": "roasted-red-pepper-turkey-chili.jpg",
+      "generated_on": "2026-11-27",
+      "method": "OpenAI built-in image generation",
+      "prompt": "Use case: photorealistic-natural. One square editorial recipe photograph for Relish. Single finished serving centered with a full vessel and crop margin, realistic cooked textures or condensation, soft natural side window light, restrained warm kitchen/bar background and shallow depth of field. Eye-level three-quarter view for drinks, three-quarter overhead for meals. No people, hands, text, logos, watermark, collage, borders or unspecified extras. Subject: Roasted Red Pepper Turkey Chili: fully cooked crumbled ground turkey, red kidney beans and white cannellini beans in thick red tomato sauce with chopped roasted red pepper, a little chopped cilantro on top. Deep earthenware bowl, no rice, cheese or cream.",
+      "note": "AI-generated representative serving image; not a photograph of a kitchen-tested dish."
+    },
+    {
+      "file": "sweet-chili-salmon-noodle-salad.jpg",
+      "generated_on": "2026-11-27",
+      "method": "OpenAI built-in image generation",
+      "prompt": "Use case: photorealistic-natural. One square editorial recipe photograph for Relish. Single finished serving centered with a full vessel and crop margin, realistic cooked textures or condensation, soft natural side window light, restrained warm kitchen/bar background and shallow depth of field. Eye-level three-quarter view for drinks, three-quarter overhead for meals. No people, hands, text, logos, watermark, collage, borders or unspecified extras. Subject: Sweet Chili Salmon Noodle Salad: large flakes of fully cooked pink salmon over thin white rice vermicelli, cucumber matchsticks, grated carrots and shredded purple cabbage, glossy light sweet-chili-lime dressing and chopped cilantro. Pale bowl, no nuts or sesame seeds.",
+      "note": "AI-generated representative serving image; not a photograph of a kitchen-tested dish."
+    }
+  ]
+}

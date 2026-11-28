@@ -1,0 +1,75 @@
+{
+  "batch": 3,
+  "images": [
+    {
+      "file": "yuzu-honey-gin-sour.jpg",
+      "generated_on": "2026-11-27",
+      "method": "OpenAI built-in image generation",
+      "prompt": "Use case: photorealistic-natural. One square editorial food/cocktail photograph for Relish. Single finished serving, centered full vessel with safe crop margin, soft window side light, realistic cooked textures/condensation, restrained warm kitchen or bar background and shallow depth of field. Three-quarter eye-level for drinks and three-quarter overhead for meals. No people, hands, text, logos, watermark, collage or unspecified extras. Subject: Yuzu Honey Gin Sour: cloudy pale-yellow gin, yuzu and honey-syrup sour served up in a chilled coupe. Exactly one narrow lemon twist. No foam or egg white.",
+      "note": "AI-generated representative serving image; not a photograph of a kitchen-tested dish."
+    },
+    {
+      "file": "chicken-with-creamy-leeks-and-mustard.jpg",
+      "generated_on": "2026-11-27",
+      "method": "OpenAI built-in image generation",
+      "prompt": "Use case: photorealistic-natural. One square editorial food/cocktail photograph for Relish. Single finished serving, centered full vessel with safe crop margin, soft window side light, realistic cooked textures/condensation, restrained warm kitchen or bar background and shallow depth of field. Three-quarter eye-level for drinks and three-quarter overhead for meals. No people, hands, text, logos, watermark, collage or unspecified extras. Subject: Chicken with Creamy Leeks and Mustard: browned boneless chicken breasts sliced into thick pieces in a modest pale cream-and-Dijon sauce with soft ribbons of leek and chopped parsley. Served on a cream ceramic plate, no pasta, rice or potatoes.",
+      "note": "AI-generated representative serving image; not a photograph of a kitchen-tested dish."
+    },
+    {
+      "file": "strawberry-balsamic-bourbon-smash.jpg",
+      "generated_on": "2026-11-27",
+      "method": "OpenAI built-in image generation",
+      "prompt": "Use case: photorealistic-natural. One square editorial food/cocktail photograph for Relish. Single finished serving, centered full vessel with safe crop margin, soft window side light, realistic cooked textures/condensation, restrained warm kitchen or bar background and shallow depth of field. Three-quarter eye-level for drinks and three-quarter overhead for meals. No people, hands, text, logos, watermark, collage or unspecified extras. Subject: Strawberry Balsamic Bourbon Smash: rich natural strawberry-red bourbon smash with tiny fruit flecks over clear ice in a low rocks glass; exactly one halved strawberry garnish. No basil, mint or foam.",
+      "note": "AI-generated representative serving image; not a photograph of a kitchen-tested dish."
+    },
+    {
+      "file": "grapefruit-cardamom-rum-highball.jpg",
+      "generated_on": "2026-11-27",
+      "method": "OpenAI built-in image generation",
+      "prompt": "Use case: photorealistic-natural. One square editorial food/cocktail photograph for Relish. Single finished serving, centered full vessel with safe crop margin, soft window side light, realistic cooked textures/condensation, restrained warm kitchen or bar background and shallow depth of field. Three-quarter eye-level for drinks and three-quarter overhead for meals. No people, hands, text, logos, watermark, collage or unspecified extras. Subject: Grapefruit Cardamom Rum Highball: pale blush-pink grapefruit, white rum, lime and lightly cardamom-infused syrup over clear ice in a tall highball; one thin grapefruit half-wheel. No spice pods or floating herbs.",
+      "note": "AI-generated representative serving image; not a photograph of a kitchen-tested dish."
+    },
+    {
+      "file": "roasted-beet-lentil-goat-cheese-salad.jpg",
+      "generated_on": "2026-11-27",
+      "method": "OpenAI built-in image generation",
+      "prompt": "Use case: photorealistic-natural. One square editorial food/cocktail photograph for Relish. Single finished serving, centered full vessel with safe crop margin, soft window side light, realistic cooked textures/condensation, restrained warm kitchen or bar background and shallow depth of field. Three-quarter eye-level for drinks and three-quarter overhead for meals. No people, hands, text, logos, watermark, collage or unspecified extras. Subject: Roasted Beet Lentil Goat Cheese Salad: wedges of dark-red roasted beet over green-brown lentils and arugula, crumbled white goat cheese and toasted walnut pieces; glossy mustard-lemon dressing. White bowl, no bread or meat.",
+      "note": "AI-generated representative serving image; not a photograph of a kitchen-tested dish."
+    },
+    {
+      "file": "beef-broccoli-udon-skillet.jpg",
+      "generated_on": "2026-11-27",
+      "method": "OpenAI built-in image generation",
+      "prompt": "Use case: photorealistic-natural. One square editorial food/cocktail photograph for Relish. Single finished serving, centered full vessel with safe crop margin, soft window side light, realistic cooked textures/condensation, restrained warm kitchen or bar background and shallow depth of field. Three-quarter eye-level for drinks and three-quarter overhead for meals. No people, hands, text, logos, watermark, collage or unspecified extras. Subject: Beef Broccoli Udon Skillet: thick pale udon noodles tossed with thin fully cooked beef strips and vibrant cooked broccoli florets in a glossy soy-ginger glaze; sliced scallions and sesame seeds. Wide dark shallow bowl, no other vegetables.",
+      "note": "AI-generated representative serving image; not a photograph of a kitchen-tested dish."
+    },
+    {
+      "file": "pear-ginger-apple-brandy-sour.jpg",
+      "generated_on": "2026-11-27",
+      "method": "OpenAI built-in image generation",
+      "prompt": "Use case: photorealistic-natural. One square editorial food/cocktail photograph for Relish. Single finished serving, centered full vessel with safe crop margin, soft window side light, realistic cooked textures/condensation, restrained warm kitchen or bar background and shallow depth of field. Three-quarter eye-level for drinks and three-quarter overhead for meals. No people, hands, text, logos, watermark, collage or unspecified extras. Subject: Pear Ginger Apple Brandy Sour: hazy pale-gold pear nectar, apple brandy, ginger and lemon sour over one large ice cube in a rocks glass. Exactly two thin fresh pear slices in a fan, no foam.",
+      "note": "AI-generated representative serving image; not a photograph of a kitchen-tested dish."
+    },
+    {
+      "file": "crispy-halloumi-couscous-bowls.jpg",
+      "generated_on": "2026-11-27",
+      "method": "OpenAI built-in image generation",
+      "prompt": "Use case: photorealistic-natural. One square editorial food/cocktail photograph for Relish. Single finished serving, centered full vessel with safe crop margin, soft window side light, realistic cooked textures/condensation, restrained warm kitchen or bar background and shallow depth of field. Three-quarter eye-level for drinks and three-quarter overhead for meals. No people, hands, text, logos, watermark, collage or unspecified extras. Subject: Crispy Halloumi Couscous Bowls: golden-browned rectangular halloumi slices over fluffy couscous, diced cucumber, cherry tomato halves and chopped mint, one lemon wedge, in a wide ivory bowl. No meat, nuts or yogurt.",
+      "note": "AI-generated representative serving image; not a photograph of a kitchen-tested dish."
+    },
+    {
+      "file": "green-pea-spinach-risotto.jpg",
+      "generated_on": "2026-11-27",
+      "method": "OpenAI built-in image generation",
+      "prompt": "Use case: photorealistic-natural. One square editorial food/cocktail photograph for Relish. Single finished serving, centered full vessel with safe crop margin, soft window side light, realistic cooked textures/condensation, restrained warm kitchen or bar background and shallow depth of field. Three-quarter eye-level for drinks and three-quarter overhead for meals. No people, hands, text, logos, watermark, collage or unspecified extras. Subject: Green Pea Spinach Risotto: creamy pale-green arborio rice risotto with whole bright-green peas and finely wilted spinach, finished with a little grated vegetarian hard cheese. Wide white bowl, loose flowing rice texture, no meat, mushrooms or pesto.",
+      "note": "AI-generated representative serving image; not a photograph of a kitchen-tested dish."
+    },
+    {
+      "file": "pomegranate-black-tea-vodka-collins.jpg",
+      "generated_on": "2026-11-27",
+      "method": "OpenAI built-in image generation",
+      "prompt": "Use case: photorealistic-natural. One square editorial food/cocktail photograph for Relish. Single finished serving, centered full vessel with safe crop margin, soft window side light, realistic cooked textures/condensation, restrained warm kitchen or bar background and shallow depth of field. Three-quarter eye-level for drinks and three-quarter overhead for meals. No people, hands, text, logos, watermark, collage or unspecified extras. Subject: Pomegranate Black Tea Vodka Collins: garnet-red pomegranate juice, cooled black tea, vodka, lemon and soda over clear ice in a Collins glass. Exactly one lemon wheel, no berries.",
+      "note": "AI-generated representative serving image; not a photograph of a kitchen-tested dish."
+    }
+  ]
+}

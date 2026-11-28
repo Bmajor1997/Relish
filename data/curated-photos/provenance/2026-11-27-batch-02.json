@@ -1,0 +1,75 @@
+{
+  "batch": 2,
+  "images": [
+    {
+      "file": "kiwi-cucumber-tequila-cooler.jpg",
+      "generated_on": "2026-11-27",
+      "method": "OpenAI built-in image generation",
+      "prompt": "Use case: photorealistic-natural. One square photorealistic editorial food or cocktail photograph for Relish's recipe catalog. One finished serving centered with safe crop margins, soft natural side window lighting, real textures, shallow depth of field, warm restrained kitchen/bar background. Use eye-level three-quarter view for glasses and three-quarter overhead for meals. No people, hands, text, logos, watermarks, collage or extra dishes. Do not add unspecified garnish, foods or foam. Subject: Kiwi Cucumber Tequila Cooler: a pale fresh-green tequila, kiwi, cucumber and lime drink, tiny kiwi seeds visible, clear ice cubes in a highball. Exactly a cucumber ribbon and kiwi half-slice garnish.",
+      "note": "AI-generated representative serving image; not a photograph of a kitchen-tested dish."
+    },
+    {
+      "file": "paprika-pork-tenderloin-with-apples.jpg",
+      "generated_on": "2026-11-27",
+      "method": "OpenAI built-in image generation",
+      "prompt": "Use case: photorealistic-natural. One square photorealistic editorial food or cocktail photograph for Relish's recipe catalog. One finished serving centered with safe crop margins, soft natural side window lighting, real textures, shallow depth of field, warm restrained kitchen/bar background. Use eye-level three-quarter view for glasses and three-quarter overhead for meals. No people, hands, text, logos, watermarks, collage or extra dishes. Do not add unspecified garnish, foods or foam. Subject: Paprika Pork Tenderloin with Apples: sliced fully cooked pork tenderloin with a browned paprika crust, roasted apple wedges, sliced onion and small thyme sprigs on a warm beige plate. No potatoes, rice or cream.",
+      "note": "AI-generated representative serving image; not a photograph of a kitchen-tested dish."
+    },
+    {
+      "file": "plum-ginger-brandy-sour.jpg",
+      "generated_on": "2026-11-27",
+      "method": "OpenAI built-in image generation",
+      "prompt": "Use case: photorealistic-natural. One square photorealistic editorial food or cocktail photograph for Relish's recipe catalog. One finished serving centered with safe crop margins, soft natural side window lighting, real textures, shallow depth of field, warm restrained kitchen/bar background. Use eye-level three-quarter view for glasses and three-quarter overhead for meals. No people, hands, text, logos, watermarks, collage or extra dishes. Do not add unspecified garnish, foods or foam. Subject: Plum Ginger Brandy Sour: a deep reddish-purple hazy brandy sour made from ripe red plum, lemon and ginger syrup, strained over a large ice cube in a short rocks glass. One thin red-plum fan garnish. No foam.",
+      "note": "AI-generated representative serving image; not a photograph of a kitchen-tested dish."
+    },
+    {
+      "file": "rhubarb-rose-gin-sour.jpg",
+      "generated_on": "2026-11-27",
+      "method": "OpenAI built-in image generation",
+      "prompt": "Use case: photorealistic-natural. One square photorealistic editorial food or cocktail photograph for Relish's recipe catalog. One finished serving centered with safe crop margins, soft natural side window lighting, real textures, shallow depth of field, warm restrained kitchen/bar background. Use eye-level three-quarter view for glasses and three-quarter overhead for meals. No people, hands, text, logos, watermarks, collage or extra dishes. Do not add unspecified garnish, foods or foam. Subject: Rhubarb Rose Gin Sour: a translucent blush-pink gin, cooked rhubarb syrup, lemon and a restrained drop of rosewater cocktail, served up in a clear coupe, one small lemon twist. No petals, no egg foam.",
+      "note": "AI-generated representative serving image; not a photograph of a kitchen-tested dish."
+    },
+    {
+      "file": "clementine-vanilla-rum-fizz.jpg",
+      "generated_on": "2026-11-27",
+      "method": "OpenAI built-in image generation",
+      "prompt": "Use case: photorealistic-natural. One square photorealistic editorial food or cocktail photograph for Relish's recipe catalog. One finished serving centered with safe crop margins, soft natural side window lighting, real textures, shallow depth of field, warm restrained kitchen/bar background. Use eye-level three-quarter view for glasses and three-quarter overhead for meals. No people, hands, text, logos, watermarks, collage or extra dishes. Do not add unspecified garnish, foods or foam. Subject: Clementine Vanilla Rum Fizz: a golden-orange sparkling white-rum drink with clementine juice, lime and vanilla syrup over ice in a tall glass. One clementine wheel. No cream or foam.",
+      "note": "AI-generated representative serving image; not a photograph of a kitchen-tested dish."
+    },
+    {
+      "file": "grape-basil-vodka-spritz.jpg",
+      "generated_on": "2026-11-27",
+      "method": "OpenAI built-in image generation",
+      "prompt": "Use case: photorealistic-natural. One square photorealistic editorial food or cocktail photograph for Relish's recipe catalog. One finished serving centered with safe crop margins, soft natural side window lighting, real textures, shallow depth of field, warm restrained kitchen/bar background. Use eye-level three-quarter view for glasses and three-quarter overhead for meals. No people, hands, text, logos, watermarks, collage or extra dishes. Do not add unspecified garnish, foods or foam. Subject: Grape Basil Vodka Spritz: ruby-purple red-grape juice and vodka with lemon and soda, over clear ice in a stemmed balloon glass; one skewer of three red grapes and a small basil sprig.",
+      "note": "AI-generated representative serving image; not a photograph of a kitchen-tested dish."
+    },
+    {
+      "file": "coconut-red-lentil-spinach-dal.jpg",
+      "generated_on": "2026-11-27",
+      "method": "OpenAI built-in image generation",
+      "prompt": "Use case: photorealistic-natural. One square photorealistic editorial food or cocktail photograph for Relish's recipe catalog. One finished serving centered with safe crop margins, soft natural side window lighting, real textures, shallow depth of field, warm restrained kitchen/bar background. Use eye-level three-quarter view for glasses and three-quarter overhead for meals. No people, hands, text, logos, watermarks, collage or extra dishes. Do not add unspecified garnish, foods or foam. Subject: Coconut Red Lentil Spinach Dal: thick golden-orange red lentils simmered with coconut milk, tomato, turmeric, cumin and wilted green spinach; chopped cilantro, beside a modest mound of white basmati rice in a wide cream bowl. No yogurt, bread or butter.",
+      "note": "AI-generated representative serving image; not a photograph of a kitchen-tested dish."
+    },
+    {
+      "file": "sheet-pan-tofu-fajita-bowls.jpg",
+      "generated_on": "2026-11-27",
+      "method": "OpenAI built-in image generation",
+      "prompt": "Use case: photorealistic-natural. One square photorealistic editorial food or cocktail photograph for Relish's recipe catalog. One finished serving centered with safe crop margins, soft natural side window lighting, real textures, shallow depth of field, warm restrained kitchen/bar background. Use eye-level three-quarter view for glasses and three-quarter overhead for meals. No people, hands, text, logos, watermarks, collage or extra dishes. Do not add unspecified garnish, foods or foam. Subject: Sheet-Pan Tofu Fajita Bowls: browned paprika-spiced tofu cubes with roasted red and yellow bell pepper strips and red onion, over white rice, with sliced avocado, cilantro and one lime wedge. No meat, tortillas, cheese or sour cream.",
+      "note": "AI-generated representative serving image; not a photograph of a kitchen-tested dish."
+    },
+    {
+      "file": "garlic-shrimp-with-lemony-white-beans.jpg",
+      "generated_on": "2026-11-27",
+      "method": "OpenAI built-in image generation",
+      "prompt": "Use case: photorealistic-natural. One square photorealistic editorial food or cocktail photograph for Relish's recipe catalog. One finished serving centered with safe crop margins, soft natural side window lighting, real textures, shallow depth of field, warm restrained kitchen/bar background. Use eye-level three-quarter view for glasses and three-quarter overhead for meals. No people, hands, text, logos, watermarks, collage or extra dishes. Do not add unspecified garnish, foods or foam. Subject: Garlic Shrimp with Lemony White Beans: fully cooked curled pink shrimp over creamy whole cannellini beans with halved cherry tomatoes, garlic and chopped parsley in a shallow earthenware bowl, glossy olive-oil lemon sauce. No bread or cream.",
+      "note": "AI-generated representative serving image; not a photograph of a kitchen-tested dish."
+    },
+    {
+      "file": "turkey-zucchini-feta-burgers.jpg",
+      "generated_on": "2026-11-27",
+      "method": "OpenAI built-in image generation",
+      "prompt": "Use case: photorealistic-natural. One square photorealistic editorial food or cocktail photograph for Relish's recipe catalog. One finished serving centered with safe crop margins, soft natural side window lighting, real textures, shallow depth of field, warm restrained kitchen/bar background. Use eye-level three-quarter view for glasses and three-quarter overhead for meals. No people, hands, text, logos, watermarks, collage or extra dishes. Do not add unspecified garnish, foods or foam. Subject: Turkey Zucchini Feta Burgers: a split plain wheat burger bun holding a browned turkey patty flecked with grated zucchini and feta, tomato slice and lettuce, with plain yogurt-herb sauce. One assembled burger on a ceramic plate, no fries.",
+      "note": "AI-generated representative serving image; not a photograph of a kitchen-tested dish."
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "batch": 8,
+  "images": [
+    {
+      "file": "apple-fennel-vodka-collins.jpg",
+      "generated_on": "2026-11-27",
+      "method": "OpenAI built-in image generation",
+      "prompt": "Use case: photorealistic-natural. One square editorial recipe photograph for Relish. Single finished serving centered with full vessel and crop margin, soft natural side window light, realistic food textures or glass condensation, restrained warm kitchen/bar background. Eye-level three-quarter view for cocktails, three-quarter overhead for meals. No people, hands, words, logos, watermark, collage or extra foods/garnish. Subject: Apple Fennel Vodka Collins: cloudy light-gold apple juice, vodka, lemon, fennel-seed syrup and soda over ice in a Collins glass, one thin apple slice garnish. No loose seeds or fennel fronds.",
+      "note": "AI-generated representative serving image; not a photograph of a kitchen-tested dish."
+    },
+    {
+      "file": "beef-tomato-butter-bean-stew.jpg",
+      "generated_on": "2026-11-27",
+      "method": "OpenAI built-in image generation",
+      "prompt": "Use case: photorealistic-natural. One square editorial recipe photograph for Relish. Single finished serving centered with full vessel and crop margin, soft natural side window light, realistic food textures or glass condensation, restrained warm kitchen/bar background. Eye-level three-quarter view for cocktails, three-quarter overhead for meals. No people, hands, words, logos, watermark, collage or extra foods/garnish. Subject: Beef Tomato Butter Bean Stew: fully cooked fork-tender beef chuck chunks, large white lima butter beans and carrot pieces in thick red tomato-thyme sauce with chopped parsley, in a rustic deep bowl. No bread, rice or dairy.",
+      "note": "AI-generated representative serving image; not a photograph of a kitchen-tested dish."
+    },
+    {
+      "file": "blueberry-thyme-tequila-smash.jpg",
+      "generated_on": "2026-11-27",
+      "method": "OpenAI built-in image generation",
+      "prompt": "Use case: photorealistic-natural. One square editorial recipe photograph for Relish. Single finished serving centered with full vessel and crop margin, soft natural side window light, realistic food textures or glass condensation, restrained warm kitchen/bar background. Eye-level three-quarter view for cocktails, three-quarter overhead for meals. No people, hands, words, logos, watermark, collage or extra foods/garnish. Subject: Blueberry Thyme Tequila Smash: deep natural blueberry-purple tequila and lime smash over clear ice in a rocks glass, exactly three blueberries on a cocktail pick. No thyme garnish or foam.",
+      "note": "AI-generated representative serving image; not a photograph of a kitchen-tested dish."
+    },
+    {
+      "file": "crispy-tofu-katsu-curry.jpg",
+      "generated_on": "2026-11-27",
+      "method": "OpenAI built-in image generation",
+      "prompt": "Use case: photorealistic-natural. One square editorial recipe photograph for Relish. Single finished serving centered with full vessel and crop margin, soft natural side window light, realistic food textures or glass condensation, restrained warm kitchen/bar background. Eye-level three-quarter view for cocktails, three-quarter overhead for meals. No people, hands, words, logos, watermark, collage or extra foods/garnish. Subject: Crispy Tofu Katsu Curry: golden panko-breaded tofu slab cut into thick slices showing a white tofu interior, beside white rice and a mild golden-brown curry with small carrot and potato cubes. Wide white shallow bowl, no meat, eggs or pickle garnish.",
+      "note": "AI-generated representative serving image; not a photograph of a kitchen-tested dish."
+    },
+    {
+      "file": "harissa-roasted-vegetable-freekeh-bowls.jpg",
+      "generated_on": "2026-11-27",
+      "method": "OpenAI built-in image generation",
+      "prompt": "Use case: photorealistic-natural. One square editorial recipe photograph for Relish. Single finished serving centered with full vessel and crop margin, soft natural side window light, realistic food textures or glass condensation, restrained warm kitchen/bar background. Eye-level three-quarter view for cocktails, three-quarter overhead for meals. No people, hands, words, logos, watermark, collage or extra foods/garnish. Subject: Harissa-Roasted Vegetable Freekeh Bowls: chewy green-tan freekeh wheat grains topped with golden roasted cauliflower, thick carrot slices and chickpeas, lightly coated in red harissa; beige lemon-tahini drizzle and chopped parsley. No meat or cheese.",
+      "note": "AI-generated representative serving image; not a photograph of a kitchen-tested dish."
+    },
+    {
+      "file": "lychee-lime-gin-fizz.jpg",
+      "generated_on": "2026-11-27",
+      "method": "OpenAI built-in image generation",
+      "prompt": "Use case: photorealistic-natural. One square editorial recipe photograph for Relish. Single finished serving centered with full vessel and crop margin, soft natural side window light, realistic food textures or glass condensation, restrained warm kitchen/bar background. Eye-level three-quarter view for cocktails, three-quarter overhead for meals. No people, hands, words, logos, watermark, collage or extra foods/garnish. Subject: Lychee Lime Gin Fizz: pale translucent ivory gin, lychee juice, lime and soda over clear ice in a highball, exactly one peeled white lychee on a cocktail pick. No flowers or foam.",
+      "note": "AI-generated representative serving image; not a photograph of a kitchen-tested dish."
+    },
+    {
+      "file": "moroccan-chicken-apricot-couscous.jpg",
+      "generated_on": "2026-11-27",
+      "method": "OpenAI built-in image generation",
+      "prompt": "Use case: photorealistic-natural. One square editorial recipe photograph for Relish. Single finished serving centered with full vessel and crop margin, soft natural side window light, realistic food textures or glass condensation, restrained warm kitchen/bar background. Eye-level three-quarter view for cocktails, three-quarter overhead for meals. No people, hands, words, logos, watermark, collage or extra foods/garnish. Subject: Moroccan Chicken Apricot Couscous: fully cooked browned chicken thigh pieces with chickpeas, golden dried apricot halves and diced tomatoes in a cumin-cinnamon sauce over fluffy couscous, chopped cilantro. Wide cream bowl, no nuts or yogurt.",
+      "note": "AI-generated representative serving image; not a photograph of a kitchen-tested dish."
+    },
+    {
+      "file": "pineapple-turmeric-rum-cooler.jpg",
+      "generated_on": "2026-11-27",
+      "method": "OpenAI built-in image generation",
+      "prompt": "Use case: photorealistic-natural. One square editorial recipe photograph for Relish. Single finished serving centered with full vessel and crop margin, soft natural side window light, realistic food textures or glass condensation, restrained warm kitchen/bar background. Eye-level three-quarter view for cocktails, three-quarter overhead for meals. No people, hands, words, logos, watermark, collage or extra foods/garnish. Subject: Pineapple Turmeric Rum Cooler: bright natural yellow pineapple, white rum and lime drink with a tiny measure of turmeric, over clear ice in a highball, one small pineapple wedge. No cream or herb garnish.",
+      "note": "AI-generated representative serving image; not a photograph of a kitchen-tested dish."
+    },
+    {
+      "file": "pomegranate-vanilla-brandy-sour.jpg",
+      "generated_on": "2026-11-27",
+      "method": "OpenAI built-in image generation",
+      "prompt": "Use case: photorealistic-natural. One square editorial recipe photograph for Relish. Single finished serving centered with full vessel and crop margin, soft natural side window light, realistic food textures or glass condensation, restrained warm kitchen/bar background. Eye-level three-quarter view for cocktails, three-quarter overhead for meals. No people, hands, words, logos, watermark, collage or extra foods/garnish. Subject: Pomegranate Vanilla Brandy Sour: deep garnet-red brandy, pomegranate, lemon and vanilla drink served up in a coupe, one small lemon twist. No cream, foam or vanilla pod garnish.",
+      "note": "AI-generated representative serving image; not a photograph of a kitchen-tested dish."
+    },
+    {
+      "file": "roasted-cauliflower-red-lentil-soup.jpg",
+      "generated_on": "2026-11-27",
+      "method": "OpenAI built-in image generation",
+      "prompt": "Use case: photorealistic-natural. One square editorial recipe photograph for Relish. Single finished serving centered with full vessel and crop margin, soft natural side window light, realistic food textures or glass condensation, restrained warm kitchen/bar background. Eye-level three-quarter view for cocktails, three-quarter overhead for meals. No people, hands, words, logos, watermark, collage or extra foods/garnish. Subject: Roasted Cauliflower Red Lentil Soup: thick smooth golden-orange pureed cauliflower and red lentil soup topped with a few golden roasted cauliflower florets and chopped parsley, in a deep cream bowl. No cream swirl, cheese or bread.",
+      "note": "AI-generated representative serving image; not a photograph of a kitchen-tested dish."
+    }
+  ]
+}

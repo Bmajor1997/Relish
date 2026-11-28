@@ -1,0 +1,75 @@
+{
+  "batch": 5,
+  "images": [
+    {
+      "file": "blueberry-maple-rye-smash.jpg",
+      "generated_on": "2026-11-27",
+      "method": "OpenAI built-in image generation",
+      "prompt": "Use case: photorealistic-natural. One square editorial food/cocktail photograph for Relish. Single finished serving in a full centered vessel with crop margin, natural side window light, real textures and condensation, restrained warm kitchen or bar background, shallow depth of field. Eye-level three-quarter view for drinks and three-quarter overhead for meals. No people, hands, writing, logos, watermark, collage or unspecified extras. Subject: Blueberry Maple Rye Smash: deep natural purple-red blueberry, rye, maple and lemon drink over clear ice in a short rocks glass; exactly three blueberries on a cocktail pick. No herbs or foam.",
+      "note": "AI-generated representative serving image; not a photograph of a kitchen-tested dish."
+    },
+    {
+      "file": "cod-in-coconut-tomato-broth.jpg",
+      "generated_on": "2026-11-27",
+      "method": "OpenAI built-in image generation",
+      "prompt": "Use case: photorealistic-natural. One square editorial food/cocktail photograph for Relish. Single finished serving in a full centered vessel with crop margin, natural side window light, real textures and condensation, restrained warm kitchen or bar background, shallow depth of field. Eye-level three-quarter view for drinks and three-quarter overhead for meals. No people, hands, writing, logos, watermark, collage or unspecified extras. Subject: Cod in Coconut Tomato Broth: one fully cooked white cod portion in a light coral coconut-tomato broth with diced tomato, onion and chopped cilantro, partly over a modest mound of white rice in a shallow cream bowl. No bread or cream garnish.",
+      "note": "AI-generated representative serving image; not a photograph of a kitchen-tested dish."
+    },
+    {
+      "file": "guava-ginger-vodka-collins.jpg",
+      "generated_on": "2026-11-27",
+      "method": "OpenAI built-in image generation",
+      "prompt": "Use case: photorealistic-natural. One square editorial food/cocktail photograph for Relish. Single finished serving in a full centered vessel with crop margin, natural side window light, real textures and condensation, restrained warm kitchen or bar background, shallow depth of field. Eye-level three-quarter view for drinks and three-quarter overhead for meals. No people, hands, writing, logos, watermark, collage or unspecified extras. Subject: Guava Ginger Vodka Collins: soft coral-pink guava nectar, vodka, lemon, ginger syrup and soda over ice in a Collins glass; one lemon wheel at the rim. No herbs.",
+      "note": "AI-generated representative serving image; not a photograph of a kitchen-tested dish."
+    },
+    {
+      "file": "lemon-garlic-turkey-meatballs-and-bulgur.jpg",
+      "generated_on": "2026-11-27",
+      "method": "OpenAI built-in image generation",
+      "prompt": "Use case: photorealistic-natural. One square editorial food/cocktail photograph for Relish. Single finished serving in a full centered vessel with crop margin, natural side window light, real textures and condensation, restrained warm kitchen or bar background, shallow depth of field. Eye-level three-quarter view for drinks and three-quarter overhead for meals. No people, hands, writing, logos, watermark, collage or unspecified extras. Subject: Lemon Garlic Turkey Meatballs and Bulgur: four browned baked turkey meatballs over fluffy tan bulgur grains, modest glossy lemon-garlic olive-oil sauce and chopped parsley. Shallow pale bowl, no cheese, cream or vegetables.",
+      "note": "AI-generated representative serving image; not a photograph of a kitchen-tested dish."
+    },
+    {
+      "file": "orange-blossom-rum-sour.jpg",
+      "generated_on": "2026-11-27",
+      "method": "OpenAI built-in image generation",
+      "prompt": "Use case: photorealistic-natural. One square editorial food/cocktail photograph for Relish. Single finished serving in a full centered vessel with crop margin, natural side window light, real textures and condensation, restrained warm kitchen or bar background, shallow depth of field. Eye-level three-quarter view for drinks and three-quarter overhead for meals. No people, hands, writing, logos, watermark, collage or unspecified extras. Subject: Orange Blossom Rum Sour: hazy light-orange white-rum sour with orange juice and lime, served up in a coupe; exactly one small orange twist. No flowers, foam or egg.",
+      "note": "AI-generated representative serving image; not a photograph of a kitchen-tested dish."
+    },
+    {
+      "file": "pineapple-coconut-water-tequila-cooler.jpg",
+      "generated_on": "2026-11-27",
+      "method": "OpenAI built-in image generation",
+      "prompt": "Use case: photorealistic-natural. One square editorial food/cocktail photograph for Relish. Single finished serving in a full centered vessel with crop margin, natural side window light, real textures and condensation, restrained warm kitchen or bar background, shallow depth of field. Eye-level three-quarter view for drinks and three-quarter overhead for meals. No people, hands, writing, logos, watermark, collage or unspecified extras. Subject: Pineapple Coconut Water Tequila Cooler: lightly cloudy pale pineapple-yellow tequila drink made with clear coconut water, pineapple and lime, over ice in a highball; one small pineapple triangle garnish. Watery fresh texture, not creamy.",
+      "note": "AI-generated representative serving image; not a photograph of a kitchen-tested dish."
+    },
+    {
+      "file": "plum-rosemary-gin-fizz.jpg",
+      "generated_on": "2026-11-27",
+      "method": "OpenAI built-in image generation",
+      "prompt": "Use case: photorealistic-natural. One square editorial food/cocktail photograph for Relish. Single finished serving in a full centered vessel with crop margin, natural side window light, real textures and condensation, restrained warm kitchen or bar background, shallow depth of field. Eye-level three-quarter view for drinks and three-quarter overhead for meals. No people, hands, writing, logos, watermark, collage or unspecified extras. Subject: Plum Rosemary Gin Fizz: a ruby-red plum, gin, lemon and soda drink over clear ice in a highball; exactly one thin red-plum slice garnish. No floating rosemary garnish.",
+      "note": "AI-generated representative serving image; not a photograph of a kitchen-tested dish."
+    },
+    {
+      "file": "pork-and-cabbage-rice-skillet.jpg",
+      "generated_on": "2026-11-27",
+      "method": "OpenAI built-in image generation",
+      "prompt": "Use case: photorealistic-natural. One square editorial food/cocktail photograph for Relish. Single finished serving in a full centered vessel with crop margin, natural side window light, real textures and condensation, restrained warm kitchen or bar background, shallow depth of field. Eye-level three-quarter view for drinks and three-quarter overhead for meals. No people, hands, writing, logos, watermark, collage or unspecified extras. Subject: Pork and Cabbage Rice Skillet: fully cooked browned crumbled pork tossed with soft shredded green cabbage, grated carrot and white rice, soy-ginger seasoning and sliced scallions. Rustic shallow bowl, no egg or other garnish.",
+      "note": "AI-generated representative serving image; not a photograph of a kitchen-tested dish."
+    },
+    {
+      "file": "roasted-tomato-eggplant-lentil-pasta.jpg",
+      "generated_on": "2026-11-27",
+      "method": "OpenAI built-in image generation",
+      "prompt": "Use case: photorealistic-natural. One square editorial food/cocktail photograph for Relish. Single finished serving in a full centered vessel with crop margin, natural side window light, real textures and condensation, restrained warm kitchen or bar background, shallow depth of field. Eye-level three-quarter view for drinks and three-quarter overhead for meals. No people, hands, writing, logos, watermark, collage or unspecified extras. Subject: Roasted Tomato Eggplant Lentil Pasta: wheat rigatoni with soft browned eggplant cubes, blistered cherry tomatoes, whole green-brown lentils and torn basil in a chunky red sauce. Cream stoneware bowl, no cheese.",
+      "note": "AI-generated representative serving image; not a photograph of a kitchen-tested dish."
+    },
+    {
+      "file": "spicy-peanut-chickpea-noodle-bowls.jpg",
+      "generated_on": "2026-11-27",
+      "method": "OpenAI built-in image generation",
+      "prompt": "Use case: photorealistic-natural. One square editorial food/cocktail photograph for Relish. Single finished serving in a full centered vessel with crop margin, natural side window light, real textures and condensation, restrained warm kitchen or bar background, shallow depth of field. Eye-level three-quarter view for drinks and three-quarter overhead for meals. No people, hands, writing, logos, watermark, collage or unspecified extras. Subject: Spicy Peanut Chickpea Noodle Bowls: wheat noodles coated with creamy tan peanut-lime sauce, whole chickpeas, cucumber matchsticks and grated orange carrot, sliced scallions and chopped roasted peanuts. Wide blue-gray bowl. No sesame seeds or meat.",
+      "note": "AI-generated representative serving image; not a photograph of a kitchen-tested dish."
+    }
+  ]
+}

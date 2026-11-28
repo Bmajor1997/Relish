@@ -1,0 +1,75 @@
+{
+  "batch": 1,
+  "images": [
+    {
+      "file": "apricot-black-tea-whiskey-sour.jpg",
+      "generated_on": "2026-11-27",
+      "method": "OpenAI built-in image generation",
+      "prompt": "Use case: photorealistic-natural. Create one square editorial cocktail photograph for Relish's recipe catalog, matching polished natural food photography. Subject: Apricot Black Tea Whiskey Sour, a hazy tawny gold cocktail made from bourbon, cooled black tea, apricot preserves and fresh lemon juice, shaken and double-strained over one large clear ice cube in a short cut-crystal rocks glass. Garnish exactly one thin fresh apricot wedge at the rim and a small lemon twist. No egg white and no foam cap. Center the complete glass with generous safe crop margin, eye-level three-quarter view on dark walnut bar, soft side window light, subtle warm background bokeh, realistic condensation and liquid texture, shallow depth of field. No people, hands, labels, text, logos, watermarks, borders, collage or extra glasses. Single finished drink, appetizing and credible.",
+      "note": "AI-generated representative serving image; not a photograph of a kitchen-tested dish."
+    },
+    {
+      "file": "tangerine-pink-pepper-gin-collins.jpg",
+      "generated_on": "2026-11-27",
+      "method": "OpenAI built-in image generation",
+      "prompt": "Use case: photorealistic-natural. One square editorial cocktail photograph for the Relish recipe catalog. A single finished drink, full glass centered with safe crop margins; three-quarter eye-level view, soft natural window light, subtle warm bokeh, realistic condensation and texture, shallow depth of field. On a walnut bar or pale stone counter. No people, hands, text, labels, logos, watermarks, borders, collage or extra glasses. No foamy egg-white cap. Tangerine Pink Pepper Gin Collins: translucent pale-orange fizzy gin drink with fresh tangerine and lemon juice, over clear ice cubes in a tall Collins glass. Exactly one tangerine half-wheel and three pink peppercorns resting atop the ice; the peppercorns are a small accent.",
+      "note": "AI-generated representative serving image; not a photograph of a kitchen-tested dish."
+    },
+    {
+      "file": "guava-lime-rum-cooler.jpg",
+      "generated_on": "2026-11-27",
+      "method": "OpenAI built-in image generation",
+      "prompt": "Use case: photorealistic-natural. One square editorial cocktail photograph for the Relish recipe catalog. A single finished drink, full glass centered with safe crop margins; three-quarter eye-level view, soft natural window light, subtle warm bokeh, realistic condensation and texture, shallow depth of field. On a walnut bar or pale stone counter. No people, hands, text, labels, logos, watermarks, borders, collage or extra glasses. No foamy egg-white cap. Guava Lime Rum Cooler: opaque soft coral-pink guava juice, white rum, lime and soda over clear ice in a tall highball. Exactly one lime wheel at the rim. Tropical natural side light and a restrained blurred leafy background.",
+      "note": "AI-generated representative serving image; not a photograph of a kitchen-tested dish."
+    },
+    {
+      "file": "fig-maple-bourbon-old-fashioned.jpg",
+      "generated_on": "2026-11-27",
+      "method": "OpenAI built-in image generation",
+      "prompt": "Use case: photorealistic-natural. One square editorial cocktail photograph for the Relish recipe catalog. A single finished drink, full glass centered with safe crop margins; three-quarter eye-level view, soft natural window light, subtle warm bokeh, realistic condensation and texture, shallow depth of field. On a walnut bar or pale stone counter. No people, hands, text, labels, logos, watermarks, borders, collage or extra glasses. No foamy egg-white cap. Fig Maple Bourbon Old Fashioned: deep amber-brown bourbon drink with fine fig-preserve specks, stirred over one large clear cube in a low heavy rocks glass. Exactly one fresh fig half on a small cocktail pick resting across rim and one short orange peel inside. Moody walnut bar, warm afternoon side light.",
+      "note": "AI-generated representative serving image; not a photograph of a kitchen-tested dish."
+    },
+    {
+      "file": "pineapple-basil-vodka-smash.jpg",
+      "generated_on": "2026-11-27",
+      "method": "OpenAI built-in image generation",
+      "prompt": "Use case: photorealistic-natural. One square editorial cocktail photograph for the Relish recipe catalog. A single finished drink, full glass centered with safe crop margins; three-quarter eye-level view, soft natural window light, subtle warm bokeh, realistic condensation and texture, shallow depth of field. On a walnut bar or pale stone counter. No people, hands, text, labels, logos, watermarks, borders, collage or extra glasses. No foamy egg-white cap. Pineapple Basil Vodka Smash: hazy pineapple-yellow drink with tiny muddled green basil flecks, vodka, lemon and pineapple juice over ice in a short rocks glass. Exactly one small basil sprig garnish, no pineapple chunk.",
+      "note": "AI-generated representative serving image; not a photograph of a kitchen-tested dish."
+    },
+    {
+      "file": "zaatar-chicken-and-cauliflower-traybake.jpg",
+      "generated_on": "2026-11-27",
+      "method": "OpenAI built-in image generation",
+      "prompt": "Use case: photorealistic-natural. One square editorial food photograph for Relish's recipe catalog. Single appetizing plated meal, centered with safe crop margins, three-quarter overhead view on a real kitchen dining table, soft directional window light, realistic cooked textures and natural colors. Polished magazine food photography matching a recipe app. No people, hands, writing, logos, watermarks, collage or borders. Do not add foods or garnish not specified. Za'atar Chicken and Cauliflower Traybake: browned boneless chicken thighs and golden roasted cauliflower florets with thin red-onion wedges, lightly speckled with za'atar and sesame seeds; lemon wedges and chopped parsley. A shallow white ceramic dinner plate, no rice, no bread, no sauce.",
+      "note": "AI-generated representative serving image; not a photograph of a kitchen-tested dish."
+    },
+    {
+      "file": "salmon-with-orange-fennel-salad.jpg",
+      "generated_on": "2026-11-27",
+      "method": "OpenAI built-in image generation",
+      "prompt": "Use case: photorealistic-natural. One square editorial food photograph for Relish's recipe catalog. Single appetizing plated meal, centered with safe crop margins, three-quarter overhead view on a real kitchen dining table, soft directional window light, realistic cooked textures and natural colors. Polished magazine food photography matching a recipe app. No people, hands, writing, logos, watermarks, collage or borders. Do not add foods or garnish not specified. Salmon with Orange-Fennel Salad: one fully cooked browned salmon fillet beside a crisp salad of shaved white fennel, peeled orange segments, arugula leaves and sliced black olives; olive-oil dressing and a few chopped fennel fronds. White oval plate on a light linen tablecloth. No rice, potatoes or cream sauce.",
+      "note": "AI-generated representative serving image; not a photograph of a kitchen-tested dish."
+    },
+    {
+      "file": "miso-mushroom-soba-bowls.jpg",
+      "generated_on": "2026-11-27",
+      "method": "OpenAI built-in image generation",
+      "prompt": "Use case: photorealistic-natural. One square editorial food photograph for Relish's recipe catalog. Single appetizing plated meal, centered with safe crop margins, three-quarter overhead view on a real kitchen dining table, soft directional window light, realistic cooked textures and natural colors. Polished magazine food photography matching a recipe app. No people, hands, writing, logos, watermarks, collage or borders. Do not add foods or garnish not specified. Miso Mushroom Soba Bowls: brown buckwheat-and-wheat soba noodles in a wide charcoal bowl topped with seared shiitake mushroom slices, edamame beans and thin carrot matchsticks; a light miso-soy glaze, sliced scallions and sesame seeds. No meat, eggs or broth.",
+      "note": "AI-generated representative serving image; not a photograph of a kitchen-tested dish."
+    },
+    {
+      "file": "lemon-caper-chickpea-pasta.jpg",
+      "generated_on": "2026-11-27",
+      "method": "OpenAI built-in image generation",
+      "prompt": "Use case: photorealistic-natural. One square editorial food photograph for Relish's recipe catalog. Single appetizing plated meal, centered with safe crop margins, three-quarter overhead view on a real kitchen dining table, soft directional window light, realistic cooked textures and natural colors. Polished magazine food photography matching a recipe app. No people, hands, writing, logos, watermarks, collage or borders. Do not add foods or garnish not specified. Lemon Caper Chickpea Pasta: durum-wheat spaghetti tossed with chickpeas, small capers, olive oil, lemon zest and chopped flat-leaf parsley, glossy but no cream or cheese. Twirled heap on a wide ivory bowl, visible whole chickpeas.",
+      "note": "AI-generated representative serving image; not a photograph of a kitchen-tested dish."
+    },
+    {
+      "file": "smoky-black-bean-and-quinoa-stuffed-peppers.jpg",
+      "generated_on": "2026-11-27",
+      "method": "OpenAI built-in image generation",
+      "prompt": "Use case: photorealistic-natural. One square editorial food photograph for Relish's recipe catalog. Single appetizing plated meal, centered with safe crop margins, three-quarter overhead view on a real kitchen dining table, soft directional window light, realistic cooked textures and natural colors. Polished magazine food photography matching a recipe app. No people, hands, writing, logos, watermarks, collage or borders. Do not add foods or garnish not specified. Smoky Black Bean and Quinoa Stuffed Peppers: two roasted red bell pepper halves filled with visible quinoa grains, black beans, yellow corn, diced tomatoes and smoky spices, topped with chopped cilantro. Lightly charred pepper edges on a pale stoneware plate; no cheese, sour cream, rice or meat.",
+      "note": "AI-generated representative serving image; not a photograph of a kitchen-tested dish."
+    }
+  ]
+}

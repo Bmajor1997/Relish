@@ -1,0 +1,194 @@
+@ lychee-lime-gin-fizz | Lychee Lime Gin Fizz | 1 | 6 | 0 | - | Lychee juice and lime give a light gin fizz a delicate floral sweetness.
+- 1 1/2 | oz | gin
+- 2 | oz | lychee juice
+- 1/2 | oz | fresh lime juice
+- 2 | oz | chilled soda water
+- 1 |  | drained canned lychee, for garnish
+# Shake gin, lychee juice and lime with ice for 12 seconds.
+# Strain into an ice-filled highball glass and top with soda.
+# Stir gently and add one lychee on a cocktail pick.
+G highball glass | one lychee on a pick | y | Shake 3 oz lychee juice and 3/4 oz lime juice with ice; strain over fresh ice and top with 3 oz soda.
+! An original Relish home cocktail. Please drink responsibly.
+T Use lychee juice, not the much sweeter syrup from a can; if using syrup, dilute it and taste first.
+S Prepare to order. Keep juices and brewed teas refrigerated until needed.
+@@ vegetarian = same
+@@ vegan = same
+
+@ pomegranate-vanilla-brandy-sour | Pomegranate Vanilla Brandy Sour | 1 | 6 | 0 | - | Pomegranate and a little vanilla syrup bring a round tart-sweet balance to brandy.
+- 1 1/2 | oz | brandy
+- 1 1/2 | oz | unsweetened pomegranate juice
+- 3/4 | oz | fresh lemon juice
+- 1/2 | oz | vanilla syrup
+- 1 |  | small lemon twist, for garnish
+# Shake brandy, pomegranate juice, lemon and vanilla syrup with ice for 15 seconds.
+# Double-strain into a chilled coupe.
+# Express lemon peel over the glass and add it.
+G coupe | small lemon twist | y | Shake 2 1/2 oz pomegranate juice, 3/4 oz lemon juice and 1/2 oz vanilla syrup with ice; strain into a coupe.
+! An original Relish home cocktail. Please drink responsibly.
+T For quick vanilla syrup, mix 1/4 tsp vanilla extract into 1/2 cup simple syrup and measure the portion needed.
+S Prepare to order. Keep juices and brewed teas refrigerated until needed.
+@@ vegetarian = same
+@@ vegan = same
+
+@ pineapple-turmeric-rum-cooler | Pineapple Turmeric Rum Cooler | 1 | 6 | 0 | - | Pineapple, lime and a tiny measure of turmeric make a sunny rum cooler.
+- 1 1/2 | oz | white rum
+- 3 | oz | unsweetened pineapple juice
+- 1/2 | oz | fresh lime juice
+- 1/4 | oz | simple syrup
+- 1/16 | tsp | ground turmeric
+- 1 | oz | chilled soda water
+- 1 |  | small pineapple wedge, for garnish
+# Whisk the tiny measure of turmeric into pineapple juice in a shaker until dispersed.
+# Add rum, lime, syrup and ice. Shake for 15 seconds and fine-strain into an ice-filled highball.
+# Top with soda, stir gently and add the pineapple wedge.
+G highball glass | small pineapple wedge | y | Shake 4 oz pineapple juice, 1/2 oz lime juice, syrup and the measured turmeric with ice; strain and add 1 oz soda.
+! An original Relish home cocktail. Please drink responsibly.
+T A small pinch, about 1/16 tsp, is enough; excess turmeric tastes earthy and settles out. This is a flavor ingredient, not a health claim.
+S Prepare to order. Keep juices and brewed teas refrigerated until needed.
+@@ vegetarian = same
+@@ vegan = same
+
+@ blueberry-thyme-tequila-smash | Blueberry Thyme Tequila Smash | 1 | 6 | 0 | - | Blueberries, thyme and lime make a deep-purple tequila smash.
+- 1 1/2 | oz | blanco tequila
+- 1/4 | cup | blueberries
+- 3/4 | oz | fresh lime juice
+- 1/2 | oz | agave syrup
+- 1 |  | small thyme sprig
+- 3 |  | blueberries, for garnish
+# Muddle blueberries gently with agave syrup and thyme in a shaker.
+# Add tequila, lime and ice, shake for 15 seconds and fine-strain into a rocks glass over fresh ice.
+# Garnish with three blueberries on a pick.
+G rocks glass | three blueberries on a pick | y | Muddle berries and thyme with agave; shake with 3/4 oz lime juice and 2 oz cooled white tea, then strain over ice.
+! An original Relish home cocktail. Please drink responsibly.
+S Prepare to order. Keep juices and brewed teas refrigerated until needed.
+@@ vegetarian = same
+@@ vegan = same
+
+@ apple-fennel-vodka-collins | Apple Fennel Vodka Collins | 1 | 6 | 0 | - | Cloudy apple juice, fennel-seed syrup and lemon give vodka a crisp orchard flavor.
+- 1 1/2 | oz | vodka
+- 2 | oz | cloudy apple juice
+- 1/2 | oz | fresh lemon juice
+- 1/4 | oz | fennel-seed syrup
+- 2 | oz | chilled soda water
+- 1 |  | thin apple slice, for garnish
+# Shake vodka, apple juice, lemon and fennel-seed syrup with ice for 12 seconds.
+# Strain into an ice-filled Collins glass and top with soda.
+# Stir gently and add the apple slice.
+G Collins glass | thin apple slice | y | Shake 3 oz apple juice, 1/2 oz lemon juice and 1/4 oz fennel syrup with ice; strain and top with 3 oz soda.
+! An original Relish home cocktail. Please drink responsibly.
+T For fennel syrup, steep 1/2 tsp fennel seeds in 1/2 cup hot simple syrup for 10 minutes, strain and cool. Prep assumes cooled syrup is ready.
+S Prepare to order. Keep juices and brewed teas refrigerated until needed.
+@@ vegetarian = same
+@@ vegan = same
+
+@ moroccan-chicken-apricot-couscous | Moroccan Chicken Apricot Couscous | 4 | 15 | 30 | wheat | A Moroccan-inspired chicken and chickpea stew with dried apricots, served over couscous.
+- 1 1/4 | lb | boneless skinless chicken thighs, cut into large pieces
+- 1 | can | chickpeas (15 oz), drained and rinsed
+- 1/3 | cup | dried apricots, halved
+- 1 | can | diced tomatoes (14 oz)
+- 1 |  | onion, diced
+- 2 |  | garlic cloves, minced
+- 1 | tbsp | olive oil
+- 1 | tsp | ground cumin
+- 1 | tsp | ground coriander
+- 1/4 | tsp | ground cinnamon
+- 3/4 | tsp | salt
+- 1/2 | cup | water, for stew
+- 1 | cup | dry wheat couscous
+- 1 | cup | boiling water, for couscous
+- 2 | tbsp | chopped cilantro
+# Heat oil in a deep skillet and brown chicken for 4 minutes. Add onion and cook for 5 minutes, then garlic and spices for 30 seconds.
+# Add tomatoes, chickpeas, apricots, stew water and salt. Cover and simmer for 15 to 20 minutes until chicken reaches 165 F (74 C).
+# Meanwhile cover couscous with boiling water in a heatproof bowl for 5 minutes, or follow its package; fluff with a fork.
+# Serve stew over couscous and finish with cilantro.
+T This is a practical home adaptation using a skillet rather than a traditional tagine. Couscous contains wheat.
+S Refrigerate promptly in shallow containers for up to 3 days. Reheat leftovers to 165 F (74 C).
+
+@ harissa-roasted-vegetable-freekeh-bowls | Harissa-Roasted Vegetable Freekeh Bowls | 4 | 20 | 35 | wheat, sesame | Roasted cauliflower, carrots and chickpeas over freekeh with lemon tahini sauce.
+- 1 | cup | dry freekeh wheat
+- 3 | cups | water, for freekeh
+- 1/2 |  | large cauliflower, cut into florets
+- 3 |  | carrots, cut into thick diagonal slices
+- 1 | can | chickpeas (15 oz), drained and rinsed
+- 2 | tbsp | olive oil
+- 1 | tbsp | harissa paste
+- 1/2 | tsp | salt
+- 2 | tbsp | tahini
+- 2 | tbsp | fresh lemon juice
+- 2 | tbsp | water, for sauce
+- 2 | tbsp | chopped parsley
+# Simmer freekeh in its water for 25 to 35 minutes, or its package time, until chewy and tender. Drain excess water.
+# Meanwhile heat oven to 425 F (220 C). Toss cauliflower, carrots and chickpeas with oil, harissa and salt. Roast for 25 to 30 minutes, turning once, until tender.
+# Whisk tahini, lemon juice and sauce water until smooth.
+# Divide freekeh among bowls, add roasted vegetables and chickpeas, and finish with tahini sauce and parsley.
+T Freekeh is roasted green wheat, not a gluten-free grain. Check harissa labels for added allergens.
+S Refrigerate promptly in shallow containers for up to 3 days. Reheat leftovers to 165 F (74 C).
+@@ vegetarian = same
+@@ vegan = same
+
+@ crispy-tofu-katsu-curry | Crispy Tofu Katsu Curry | 4 | 20 | 35 | soy, wheat | Oven-crisp panko tofu with a mild vegetable curry and rice, inspired by Japanese katsu curry.
+- 14 | oz | extra-firm tofu, pressed
+- 1 | cup | plain wheat panko
+- 3 | tbsp | plain wheat flour, divided
+- 3 | tbsp | neutral oil, divided
+- 1/4 | cup | water, for batter
+- 1 |  | onion, diced
+- 1 |  | carrot, diced small
+- 1 |  | small potato, diced small
+- 1/2 |  | apple, grated
+- 1 | tsp | ground cumin
+- 1 | tsp | ground coriander
+- 1/2 | tsp | ground turmeric
+- 2 1/2 | cups | water, for curry
+- 1 | tbsp | soy sauce
+- 3 | cups | cooked rice, hot
+# Heat oven to 425 F (220 C). Cut tofu into four slabs and pat dry. Mix 1 tbsp flour with batter water; dip tofu in the mixture and press into panko. Place on a lined sheet pan, drizzle with 1 tbsp oil and bake for 25 minutes, turning halfway, until crisp.
+# Heat remaining oil in a saucepan. Soften onion and carrot for 6 minutes. Add potato, apple and spices and stir for 1 minute.
+# Stir in remaining flour for 1 minute, then gradually add curry water and soy sauce. Simmer for 20 minutes, stirring often, until vegetables are tender and sauce is thick; add water if needed.
+# Slice crispy tofu and serve with curry and hot rice.
+T Use plain panko whose label does not add milk or eggs; check tofu and sauce labels too. Start with ready-pressed tofu or allow an extra 15 minutes to press it.
+S Refrigerate promptly in shallow containers for up to 3 days. Reheat leftovers to 165 F (74 C).
+@@ vegetarian = same
+@@ vegan = same
+
+@ beef-tomato-butter-bean-stew | Beef Tomato Butter Bean Stew | 4 | 20 | 110 | - | Fork-tender beef and large white beans in a tomato, carrot and thyme stew.
+- 1 1/2 | lb | beef chuck, cut into 1-inch cubes
+- 1 | can | large white lima beans (15 oz), drained and rinsed
+- 1 | can | crushed tomatoes (28 oz)
+- 2 |  | carrots, cut into chunks
+- 1 |  | onion, diced
+- 3 |  | garlic cloves, minced
+- 2 | tbsp | olive oil
+- 2 | cups | water
+- 1 | tsp | dried thyme
+- 1 | tsp | sweet paprika
+- 3/4 | tsp | salt
+- 1/4 | tsp | black pepper
+- 2 | tbsp | chopped parsley
+# Pat beef dry and season with salt and pepper. Heat oil in a heavy pot and brown beef in batches for 8 to 10 minutes; set aside.
+# Soften onion for 5 minutes, then add garlic, thyme and paprika for 30 seconds. Add tomatoes and water, scraping the pot.
+# Return beef, cover and simmer very gently for 75 minutes. Add carrots and cook for 20 minutes more, until beef is fully cooked and easily pierced with a fork; add water if the sauce gets dry.
+# Stir in beans and simmer for 5 minutes. Finish with parsley.
+T Large white lima beans are also sold as butter beans; they are legumes, not dairy. Tenderness, not merely the minimum meat temperature, determines when the stew is ready.
+S Refrigerate promptly in shallow containers for up to 3 days. Reheat leftovers to 165 F (74 C).
+
+@ roasted-cauliflower-red-lentil-soup | Roasted Cauliflower Red Lentil Soup | 4 | 15 | 35 | - | Roasted cauliflower blended into a thick red lentil soup with lemon and cumin.
+- 1 |  | large cauliflower, cut into small florets
+- 3/4 | cup | dry red lentils, rinsed
+- 1 |  | onion, diced
+- 2 |  | garlic cloves, minced
+- 2 | tbsp | olive oil, divided
+- 1 | tsp | ground cumin
+- 1/2 | tsp | ground turmeric
+- 4 | cups | water
+- 3/4 | tsp | salt
+- 1 | tbsp | fresh lemon juice
+- 2 | tbsp | chopped parsley
+# Heat oven to 425 F (220 C). Toss cauliflower with 1 tbsp oil and half the salt. Roast for 25 minutes, turning once, until golden and soft.
+# Meanwhile soften onion in remaining oil in a saucepan for 5 minutes. Add garlic, cumin and turmeric for 30 seconds.
+# Add lentils, water and remaining salt; simmer for 20 minutes until lentils collapse. Add most of the roasted cauliflower and blend carefully with an immersion blender until smooth.
+# Stir in lemon juice. Divide among bowls and top with reserved cauliflower and parsley.
+T Remove the pan from heat before blending hot soup. Add water to reach your preferred consistency.
+S Refrigerate promptly in shallow containers for up to 3 days. Reheat leftovers to 165 F (74 C).
+@@ vegetarian = same
+@@ vegan = same

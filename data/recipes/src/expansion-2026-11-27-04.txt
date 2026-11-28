@@ -1,0 +1,191 @@
+@ cantaloupe-lime-gin-cooler | Cantaloupe Lime Gin Cooler | 1 | 6 | 0 | - | Fresh cantaloupe and lime soften a lightly sparkling gin cooler.
+- 1 1/2 | oz | gin
+- 1/2 | cup | ripe cantaloupe cubes
+- 3/4 | oz | fresh lime juice
+- 1/4 | oz | simple syrup
+- 2 | oz | chilled soda water
+- 1 |  | small cantaloupe wedge, for garnish
+# Muddle melon cubes with syrup in a shaker until very juicy.
+# Add gin, lime juice and ice; shake for 15 seconds and fine-strain into an ice-filled highball.
+# Top with soda, stir gently and add the melon wedge.
+G highball glass | small cantaloupe wedge | y | Muddle melon with syrup, shake with 3/4 oz lime juice and ice, strain and top with 4 oz soda water.
+! An original Relish home cocktail. Please drink responsibly.
+T Use ripe melon; hard melon produces little juice and needs more sweetener.
+S Prepare to order. Keep juices and brewed teas refrigerated until needed.
+@@ vegetarian = same
+@@ vegan = same
+
+@ cherry-cacao-rye-old-fashioned | Cherry Cacao Rye Old Fashioned | 1 | 6 | 0 | - | Rye, tart cherry and cacao-nib syrup make a dark, gently sweet stirred drink.
+- 2 | oz | rye whiskey
+- 1/4 | oz | cacao nib syrup
+- 1 | tsp | smooth cherry preserves
+- 1 | tsp | water
+- 1 |  | pitted fresh cherry, for garnish
+- 1 |  | short orange peel, for garnish
+# Loosen cherry preserves with water and cacao syrup in a mixing glass.
+# Add rye and ice, stir for 25 seconds, then fine-strain into a rocks glass over one large ice cube.
+# Express orange peel over the drink and add it with a pitted cherry.
+G rocks glass | pitted cherry and orange peel | y | Stir 2 oz cooled black tea, 1/4 oz cacao syrup, 1 tsp cherry preserves and 1/2 oz orange juice with ice; fine-strain over fresh ice.
+! An original Relish home cocktail. Please drink responsibly.
+T For cacao syrup, steep 1 tbsp cacao nibs in 1/2 cup hot simple syrup for 15 minutes; strain and cool. Prep time assumes the syrup is ready.
+S Prepare to order. Keep juices and brewed teas refrigerated until needed.
+@@ vegetarian = same
+@@ vegan = same
+
+@ cranberry-sage-vodka-fizz | Cranberry Sage Vodka Fizz | 1 | 6 | 0 | - | Tart cranberry, sage and lemon lift a sparkling vodka drink.
+- 1 1/2 | oz | vodka
+- 2 | oz | unsweetened cranberry juice
+- 1/2 | oz | fresh lemon juice
+- 1/2 | oz | simple syrup
+- 2 |  | small sage leaves
+- 2 | oz | chilled soda water
+- 1 |  | small sage sprig, for garnish
+# Press the two sage leaves gently with syrup in a shaker.
+# Add vodka, cranberry juice, lemon juice and ice. Shake for 12 seconds and strain into an ice-filled highball.
+# Add soda, stir once and garnish with the small sage sprig.
+G highball glass | small sage sprig | y | Shake cranberry juice, lemon, syrup and sage without vodka; strain over ice and top with 3 oz soda.
+! An original Relish home cocktail. Please drink responsibly.
+T Use unsweetened cranberry juice; sweetened cranberry cocktail needs less syrup.
+S Prepare to order. Keep juices and brewed teas refrigerated until needed.
+@@ vegetarian = same
+@@ vegan = same
+
+@ mango-tamarind-tequila-sour | Mango Tamarind Tequila Sour | 1 | 6 | 0 | - | Mango nectar and unsweetened tamarind sharpen a round tequila sour.
+- 1 1/2 | oz | blanco tequila
+- 2 | oz | mango nectar
+- 1/2 | oz | fresh lime juice
+- 1 | tsp | unsweetened tamarind paste
+- 1/4 | oz | agave syrup
+- 1 |  | lime wheel, for garnish
+# Whisk tamarind paste into mango nectar in a shaker until smooth.
+# Add tequila, lime juice, agave syrup and ice. Shake for 15 seconds.
+# Fine-strain into a rocks glass over fresh ice and garnish with the lime wheel.
+G rocks glass | lime wheel | y | Whisk tamarind into 3 oz mango nectar; shake with 1/2 oz lime juice, 1/4 oz agave and ice, then strain over ice.
+! An original Relish home cocktail. Please drink responsibly.
+T Choose culinary unsweetened tamarind paste rather than a sweetened chutney. Thin very concentrated paste with water before measuring.
+S Prepare to order. Keep juices and brewed teas refrigerated until needed.
+@@ vegetarian = same
+@@ vegan = same
+
+@ apricot-thyme-rum-collins | Apricot Thyme Rum Collins | 1 | 6 | 0 | - | Apricot nectar, thyme and lemon make a fragrant rum Collins.
+- 1 1/2 | oz | white rum
+- 2 | oz | apricot nectar
+- 1/2 | oz | fresh lemon juice
+- 1/4 | oz | simple syrup
+- 1 |  | small thyme sprig
+- 2 | oz | chilled soda water
+- 1 |  | thin apricot slice, for garnish
+- 1 |  | small thyme sprig, for garnish
+# Press one thyme sprig lightly with syrup in a shaker.
+# Add rum, apricot nectar, lemon juice and ice. Shake for 12 seconds and fine-strain into an ice-filled Collins glass.
+# Top with soda and garnish with the apricot slice and reserved thyme sprig.
+G Collins glass | thin apricot slice and small thyme sprig | y | Shake 3 oz apricot nectar, 1/2 oz lemon juice, thyme and syrup with ice; strain and add 3 oz soda.
+! An original Relish home cocktail. Please drink responsibly.
+T Use thyme sparingly so the drink stays fruity rather than medicinal.
+S Prepare to order. Keep juices and brewed teas refrigerated until needed.
+@@ vegetarian = same
+@@ vegan = same
+
+@ baked-trout-with-almond-green-beans | Baked Trout with Almond Green Beans | 4 | 15 | 20 | fish, tree nuts | Lemon-baked trout with green beans, toasted almonds and parsley.
+- 4 |  | trout fillets (5 oz each)
+- 1 | lb | green beans, trimmed
+- 3 | tbsp | olive oil, divided
+- 1/3 | cup | sliced almonds
+- 1 |  | lemon, half juiced and half cut into wedges
+- 2 |  | garlic cloves, minced
+- 3/4 | tsp | salt
+- 1/4 | tsp | black pepper
+- 2 | tbsp | chopped parsley
+# Heat oven to 400 F (200 C). Put trout on a lined sheet pan. Brush with 1 tbsp oil and half the lemon juice; season with half the salt and pepper.
+# Bake for 12 to 16 minutes, until the thickest part reaches 145 F (63 C).
+# Meanwhile boil green beans for 4 to 5 minutes until just tender, then drain. Toast almonds in a dry skillet for 3 minutes; set aside.
+# Warm remaining oil and garlic in the skillet for 30 seconds. Toss in beans, remaining lemon juice and salt. Serve with trout, almonds, parsley and lemon wedges.
+T Check fillets for pin bones. Almonds are intentionally included and cannot be treated as an optional unlisted allergen.
+S Refrigerate fish and beans promptly and use within 2 days. Keep almonds separate to retain crunch.
+
+@ spiced-lamb-and-chickpea-skillet | Spiced Lamb and Chickpea Skillet | 4 | 15 | 25 | - | Ground lamb, chickpeas and tomato simmer with cumin and cinnamon in a quick dinner skillet.
+- 1 | lb | ground lamb
+- 1 | can | chickpeas (15 oz), drained and rinsed
+- 1 | can | diced tomatoes (14 oz)
+- 1 |  | onion, diced
+- 2 |  | garlic cloves, minced
+- 1 | tbsp | olive oil
+- 1 | tsp | ground cumin
+- 1 | tsp | sweet paprika
+- 1/4 | tsp | ground cinnamon
+- 1/2 | tsp | salt
+- 1/4 | tsp | black pepper
+- 1/4 | cup | water
+- 2 | tbsp | chopped parsley
+# Heat oil in a wide skillet over medium heat. Soften onion for 5 minutes, then add garlic and spices for 30 seconds.
+# Add lamb and cook for 6 to 8 minutes, breaking it into small pieces, until browned and fully cooked to 160 F (71 C). Spoon off excess fat.
+# Add chickpeas, tomatoes, water, salt and pepper. Simmer uncovered for 10 minutes, until thickened.
+# Scatter parsley over the skillet and divide among four bowls.
+T Do not use the lower whole-cut temperature for ground lamb; ground meat needs 160 F (71 C).
+S Refrigerate promptly in shallow containers for up to 3 days. Reheat leftovers to 165 F (74 C).
+
+@ sweet-potato-kale-black-bean-chili | Sweet Potato Kale Black Bean Chili | 4 | 15 | 35 | - | Sweet potato, black beans and kale in a smoky tomato chili.
+- 2 |  | medium sweet potatoes, peeled and diced
+- 2 | cans | black beans (15 oz each), drained and rinsed
+- 1 | can | crushed tomatoes (28 oz)
+- 1 |  | onion, diced
+- 2 |  | garlic cloves, minced
+- 1 | tbsp | olive oil
+- 2 | tsp | ground cumin
+- 2 | tsp | smoked paprika
+- 1/2 | tsp | ground chili
+- 2 | cups | water
+- 3 | cups | chopped kale, stems removed
+- 3/4 | tsp | salt
+- 1 |  | lime, cut into wedges
+- 2 | tbsp | chopped cilantro
+# Warm oil in a saucepan and soften onion for 5 minutes. Add garlic, cumin, paprika and chili for 30 seconds.
+# Add sweet potato, beans, tomatoes, water and salt. Simmer partly covered for 25 minutes, stirring occasionally, until sweet potato is tender.
+# Stir in kale and simmer for 5 minutes more. Add water if too thick.
+# Serve in bowls with cilantro and lime wedges.
+T Use plain ground chili rather than an unspecified seasoning blend so the flavor and ingredients stay clear.
+S Refrigerate promptly in shallow containers for up to 3 days. Reheat leftovers to 165 F (74 C).
+@@ vegetarian = same
+@@ vegan = same
+
+@ sesame-tofu-with-snap-peas-and-rice | Sesame Tofu with Snap Peas and Rice | 4 | 20 | 15 | soy, wheat, sesame | Golden tofu and crisp snap peas in a sesame-soy glaze, served over rice.
+- 14 | oz | extra-firm tofu, pressed and cubed
+- 8 | oz | sugar snap peas, strings removed
+- 3 | cups | cooked rice, hot
+- 2 | tbsp | neutral oil
+- 2 | tbsp | soy sauce
+- 1 | tbsp | rice vinegar
+- 1 | tbsp | maple syrup
+- 1 | tsp | grated ginger
+- 1 | tsp | cornstarch
+- 1/4 | cup | water
+- 2 | tsp | toasted sesame oil
+- 1 | tbsp | sesame seeds
+# Whisk soy sauce, vinegar, maple syrup, ginger, cornstarch and water. Pat tofu dry.
+# Brown tofu in neutral oil over medium-high heat for 8 to 10 minutes, turning carefully.
+# Add snap peas and cook for 2 minutes. Add sauce and simmer for 1 to 2 minutes until glossy.
+# Finish with sesame oil and seeds. Serve over hot rice.
+T Press tofu for 15 minutes or use ready-pressed tofu. Soy sauce in this recipe contains wheat.
+S Refrigerate promptly in shallow containers for up to 3 days. Reheat leftovers to 165 F (74 C).
+@@ vegetarian = same
+@@ vegan = same
+
+@ tomato-olive-chicken-with-butter-beans | Tomato Olive Chicken with Butter Beans | 4 | 15 | 30 | - | Chicken thighs, butter beans, tomatoes and olives in an oregano-scented skillet.
+- 1 1/2 | lb | boneless skinless chicken thighs
+- 2 | cans | large white lima beans (15 oz each), drained and rinsed
+- 1 | can | diced tomatoes (14 oz)
+- 1/3 | cup | pitted green olives, sliced
+- 1 |  | onion, diced
+- 2 |  | garlic cloves, minced
+- 1 | tbsp | olive oil
+- 1 | tsp | dried oregano
+- 1/2 | cup | water
+- 1/2 | tsp | salt
+- 1/4 | tsp | black pepper
+- 2 | tbsp | chopped parsley
+# Season chicken with half the salt and pepper. Heat oil in a deep skillet and brown chicken for 3 minutes per side; set aside.
+# Soften onion in the skillet for 5 minutes. Add garlic and oregano for 30 seconds.
+# Add tomatoes, water, beans, olives and remaining salt. Nestle chicken into the sauce, cover and simmer for 15 to 20 minutes until every thigh reaches 165 F (74 C).
+# Stand for 5 minutes and scatter with parsley.
+T Butter beans are a legume, not a dairy ingredient. Olives are salty, so taste the sauce before adding more salt.
+S Refrigerate promptly in shallow containers for up to 3 days. Reheat leftovers to 165 F (74 C).

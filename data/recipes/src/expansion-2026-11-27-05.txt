@@ -1,0 +1,184 @@
+@ plum-rosemary-gin-fizz | Plum Rosemary Gin Fizz | 1 | 6 | 0 | - | Fresh plum, rosemary and lemon make a sparkling ruby gin drink.
+- 1 1/2 | oz | gin
+- 1/2 |  | ripe red plum, pitted and chopped
+- 3/4 | oz | fresh lemon juice
+- 1/2 | oz | simple syrup
+- 1 |  | small rosemary sprig
+- 2 | oz | chilled soda water
+- 1 |  | thin plum slice, for garnish
+# Muddle plum gently with syrup and rosemary in a shaker.
+# Add gin, lemon and ice, shake for 15 seconds and fine-strain into an ice-filled highball.
+# Top with soda, stir gently and garnish with the plum slice.
+G highball glass | thin plum slice | y | Muddle plum and rosemary with syrup; shake with 3/4 oz lemon juice and ice, strain and top with 4 oz soda.
+! An original Relish home cocktail. Please drink responsibly.
+T Use only a small rosemary sprig; a little gives aroma without overwhelming the fruit.
+S Prepare to order. Keep juices and brewed teas refrigerated until needed.
+@@ vegetarian = same
+@@ vegan = same
+
+@ pineapple-coconut-water-tequila-cooler | Pineapple Coconut Water Tequila Cooler | 1 | 6 | 0 | - | Tequila, pineapple and coconut water make a bright, light-bodied tropical cooler.
+- 1 1/2 | oz | blanco tequila
+- 2 | oz | unsweetened pineapple juice
+- 2 | oz | unsweetened coconut water
+- 1/2 | oz | fresh lime juice
+- 1 |  | small pineapple triangle, for garnish
+# Shake tequila, pineapple juice, coconut water and lime with ice for 12 seconds.
+# Strain into an ice-filled highball glass.
+# Garnish with the pineapple triangle and serve immediately.
+G highball glass | small pineapple triangle | y | Shake 3 oz pineapple juice, 2 oz coconut water and 1/2 oz lime juice with ice, then strain over fresh ice.
+! An original Relish home cocktail. Please drink responsibly.
+T Use coconut water, not coconut milk or cream; the finished drink is light and not creamy.
+S Prepare to order. Keep juices and brewed teas refrigerated until needed.
+@@ vegetarian = same
+@@ vegan = same
+
+@ blueberry-maple-rye-smash | Blueberry Maple Rye Smash | 1 | 6 | 0 | - | Blueberries, maple syrup and lemon soften the dry spice of rye whiskey.
+- 1 1/2 | oz | rye whiskey
+- 1/4 | cup | blueberries
+- 3/4 | oz | fresh lemon juice
+- 1/4 | oz | maple syrup
+- 3 |  | blueberries, for garnish
+# Muddle the measured blueberries with maple syrup in a shaker.
+# Add rye, lemon and ice. Shake for 15 seconds and fine-strain into a rocks glass over fresh ice.
+# Add three blueberries on a small cocktail pick.
+G rocks glass | three blueberries on a pick | y | Muddle blueberries with maple syrup; shake with 3/4 oz lemon juice and 2 oz cooled black tea, then fine-strain over ice.
+! An original Relish home cocktail. Please drink responsibly.
+T Fine-straining removes berry skins while retaining their purple color.
+S Prepare to order. Keep juices and brewed teas refrigerated until needed.
+@@ vegetarian = same
+@@ vegan = same
+
+@ guava-ginger-vodka-collins | Guava Ginger Vodka Collins | 1 | 6 | 0 | - | Guava nectar, ginger and lemon give a vodka Collins a soft pink color and warm finish.
+- 1 1/2 | oz | vodka
+- 2 | oz | pink guava nectar
+- 1/2 | oz | fresh lemon juice
+- 1/4 | oz | ginger syrup
+- 2 | oz | chilled soda water
+- 1 |  | lemon wheel, for garnish
+# Shake vodka, guava nectar, lemon and ginger syrup with ice for 12 seconds.
+# Strain into an ice-filled Collins glass and top with soda.
+# Stir gently and garnish with the lemon wheel.
+G Collins glass | lemon wheel | y | Shake 3 oz guava nectar, 1/2 oz lemon juice and 1/4 oz ginger syrup with ice; strain and add 3 oz soda water.
+! An original Relish home cocktail. Please drink responsibly.
+T Guava nectar is sweet; keep the syrup small and adjust only after tasting.
+S Prepare to order. Keep juices and brewed teas refrigerated until needed.
+@@ vegetarian = same
+@@ vegan = same
+
+@ orange-blossom-rum-sour | Orange Blossom Rum Sour | 1 | 6 | 0 | - | Orange juice, lime and one drop of orange blossom water make a fragrant rum sour.
+- 1 1/2 | oz | white rum
+- 1 1/2 | oz | fresh orange juice
+- 3/4 | oz | fresh lime juice
+- 1/4 | oz | simple syrup
+- 1 | drop | food-grade orange blossom water
+- 1 |  | small orange twist, for garnish
+# Add rum, orange juice, lime, syrup and a single drop of orange blossom water to a shaker.
+# Shake with ice for 15 seconds and double-strain into a chilled coupe.
+# Express the orange twist over the glass and add it.
+G coupe | small orange twist | y | Shake 2 1/2 oz orange juice, 3/4 oz lime juice, syrup and one drop orange blossom water with ice, then strain into a coupe.
+! An original Relish home cocktail. Please drink responsibly.
+T Use culinary orange blossom water, not fragrance or essential oil; one drop is enough.
+S Prepare to order. Keep juices and brewed teas refrigerated until needed.
+@@ vegetarian = same
+@@ vegan = same
+
+@ lemon-garlic-turkey-meatballs-and-bulgur | Lemon Garlic Turkey Meatballs and Bulgur | 4 | 20 | 25 | wheat, eggs | Baked turkey meatballs over bulgur with lemon, garlic and parsley.
+- 1 | lb | ground turkey
+- 1 |  | egg
+- 1/4 | cup | plain wheat breadcrumbs
+- 2 |  | garlic cloves, minced
+- 1 |  | lemon, zested and juiced
+- 3 | tbsp | chopped parsley
+- 2 | tbsp | olive oil, divided
+- 3/4 | tsp | salt, divided
+- 1/4 | tsp | black pepper
+- 1 | cup | dry bulgur wheat
+- 2 | cups | water
+- 1/4 | cup | water, for the sauce
+# Heat oven to 425 F (220 C). Mix turkey, egg, breadcrumbs, half the garlic, lemon zest, half the parsley, half the salt and pepper. Form 16 equal meatballs.
+# Brush a lined sheet pan with 1 tbsp oil, add meatballs and bake for 15 to 20 minutes, until every center reaches 165 F (74 C).
+# Meanwhile simmer bulgur with 2 cups water and remaining salt for 12 to 15 minutes, or its package time; rest covered for 5 minutes.
+# Warm remaining oil and garlic for 30 seconds in a small pan, add sauce water and lemon juice and simmer for 1 minute. Spoon over meatballs and bulgur and add remaining parsley.
+T Bulgur is wheat. Check breadcrumbs for additional milk, soy or sesame ingredients.
+S Refrigerate promptly in shallow containers for up to 3 days. Reheat leftovers to 165 F (74 C).
+
+@ pork-and-cabbage-rice-skillet | Pork and Cabbage Rice Skillet | 4 | 15 | 20 | wheat, soy, sesame | Ground pork, cabbage and carrot tossed with rice and a ginger-soy seasoning.
+- 1 | lb | ground pork
+- 1/2 |  | small green cabbage, shredded
+- 2 |  | carrots, grated
+- 3 | cups | cooked rice, chilled
+- 1 | tbsp | neutral oil
+- 1 | tbsp | grated ginger
+- 2 |  | garlic cloves, minced
+- 2 | tbsp | soy sauce
+- 1 | tbsp | rice vinegar
+- 1 | tsp | toasted sesame oil
+- 2 |  | scallions, sliced
+# Heat neutral oil in a wide skillet over medium-high heat. Brown pork for 6 to 8 minutes, breaking it up, until it reaches 160 F (71 C).
+# Add ginger and garlic for 30 seconds, then cabbage and carrots. Stir-fry for 6 to 8 minutes until tender.
+# Add rice, soy sauce and vinegar. Stir-fry for 4 to 5 minutes until the rice is steaming and reaches 165 F (74 C).
+# Finish with sesame oil and scallions. Divide among four bowls.
+T Chill cooked rice promptly, never overnight at room temperature. Break up cold rice clumps before adding to the pan.
+S Refrigerate promptly in shallow containers for up to 3 days. Reheat leftovers to 165 F (74 C).
+
+@ spicy-peanut-chickpea-noodle-bowls | Spicy Peanut Chickpea Noodle Bowls | 4 | 20 | 10 | peanuts, wheat, soy | Wheat noodles, chickpeas and crisp vegetables with a creamy spicy peanut-lime dressing.
+- 10 | oz | wheat noodles
+- 1 | can | chickpeas (15 oz), drained and rinsed
+- 1 |  | cucumber, cut into matchsticks
+- 1 |  | carrot, grated
+- 1/3 | cup | smooth peanut butter
+- 2 | tbsp | soy sauce
+- 3 | tbsp | fresh lime juice
+- 1 | tbsp | maple syrup
+- 1 | tbsp | sriracha
+- 1/3 | cup | warm water
+- 2 |  | scallions, sliced
+- 2 | tbsp | chopped roasted peanuts
+# Cook noodles according to the package and drain. Rinse briefly under cool water.
+# Whisk peanut butter, soy sauce, lime juice, maple syrup, sriracha and warm water into a smooth dressing. Add a spoonful more water if needed.
+# Toss noodles with chickpeas, cucumber, carrot and most of the dressing.
+# Divide among bowls and finish with remaining dressing, scallions and chopped peanuts.
+T This dish intentionally contains peanuts; do not describe it as nut-free. Choose plain peanut butter and check sauce labels.
+S Refrigerate promptly for up to 2 days. Add a little water and lime juice to loosen the dressing before serving cold.
+@@ vegetarian = same
+@@ vegan = same
+
+@ roasted-tomato-eggplant-lentil-pasta | Roasted Tomato Eggplant Lentil Pasta | 4 | 15 | 35 | wheat | Roasted eggplant and tomatoes turn canned lentils into a hearty plant-based pasta sauce.
+- 12 | oz | wheat rigatoni
+- 1 |  | large eggplant, cut into 1-inch cubes
+- 1 | lb | cherry tomatoes
+- 1 | can | green lentils (15 oz), drained and rinsed
+- 3 | tbsp | olive oil
+- 3 |  | garlic cloves, minced
+- 1 | tsp | dried oregano
+- 3/4 | tsp | salt
+- 1/4 | tsp | black pepper
+- 1/4 | cup | torn basil leaves
+# Heat oven to 425 F (220 C). Toss eggplant and tomatoes with oil, garlic, oregano, salt and pepper. Spread over two sheet pans and roast for 25 to 30 minutes, turning once, until eggplant is soft.
+# Meanwhile cook rigatoni according to the package. Reserve 1 cup pasta water and drain.
+# Tip roasted vegetables into the pasta pot, crush some tomatoes with a spoon and add lentils and 1/2 cup pasta water. Simmer for 3 minutes.
+# Toss in pasta and basil, adding more pasta water as needed for a loose sauce.
+T Roast eggplant until fully soft, not merely browned on the outside. No cheese is needed for this sauce.
+S Refrigerate promptly in shallow containers for up to 3 days. Reheat leftovers to 165 F (74 C).
+@@ vegetarian = same
+@@ vegan = same
+
+@ cod-in-coconut-tomato-broth | Cod in Coconut Tomato Broth | 4 | 15 | 20 | fish | Cod gently poached in coconut milk, tomato, ginger and lime, served over rice.
+- 1 1/4 | lb | cod, cut into four portions
+- 1 | can | unsweetened coconut milk (13.5 oz)
+- 1 | can | diced tomatoes (14 oz)
+- 1 |  | small onion, diced
+- 2 |  | garlic cloves, minced
+- 1 | tbsp | grated ginger
+- 1 | tbsp | neutral oil
+- 1/2 | cup | water
+- 1/2 | tsp | salt
+- 1 |  | lime, juiced
+- 3 | cups | cooked rice, hot
+- 2 | tbsp | chopped cilantro
+# Heat oil in a deep skillet over medium heat. Soften onion for 5 minutes; add garlic and ginger for 30 seconds.
+# Add tomatoes, coconut milk, water and salt. Simmer for 8 minutes.
+# Nestle cod in the broth, cover and simmer gently for 7 to 10 minutes until every piece reaches 145 F (63 C).
+# Stir lime juice into the broth without breaking the fish. Serve over hot rice with cilantro.
+T A gentle simmer keeps the fish in large moist flakes. Check that the coconut milk contains only the expected ingredients.
+S Refrigerate promptly in shallow containers and use within 2 days. Reheat leftovers gently to 165 F (74 C).

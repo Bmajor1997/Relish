@@ -1,0 +1,75 @@
+{
+  "batch": 7,
+  "images": [
+    {
+      "file": "broccoli-cheddar-quinoa-bake.jpg",
+      "generated_on": "2026-11-27",
+      "method": "OpenAI built-in image generation",
+      "prompt": "Use case: photorealistic-natural. One square editorial recipe photograph for Relish. Single finished serving in a centered full vessel with crop margin, realistic cooked textures or condensation, natural side window light, restrained warm kitchen/bar background, shallow depth of field. Eye-level three-quarter for drinks and three-quarter overhead for meals. No people, hands, text, logos, watermark, collage, borders or unspecified garnish. Subject: Broccoli Cheddar Quinoa Bake: one generous rectangular scoop of a baked quinoa and broccoli casserole with a golden melted cheddar top, tender quinoa grains and broccoli florets visible in the cut sides. White ceramic plate, no meat or garnish.",
+      "note": "AI-generated representative serving image; not a photograph of a kitchen-tested dish."
+    },
+    {
+      "file": "cucumber-green-tea-tequila-highball.jpg",
+      "generated_on": "2026-11-27",
+      "method": "OpenAI built-in image generation",
+      "prompt": "Use case: photorealistic-natural. One square editorial recipe photograph for Relish. Single finished serving in a centered full vessel with crop margin, realistic cooked textures or condensation, natural side window light, restrained warm kitchen/bar background, shallow depth of field. Eye-level three-quarter for drinks and three-quarter overhead for meals. No people, hands, text, logos, watermark, collage, borders or unspecified garnish. Subject: Cucumber Green Tea Tequila Highball: pale green-gold cooled green tea, cucumber, tequila, lime and soda over clear ice in a tall highball. Exactly one cucumber ribbon garnish, no mint.",
+      "note": "AI-generated representative serving image; not a photograph of a kitchen-tested dish."
+    },
+    {
+      "file": "date-orange-bourbon-sour.jpg",
+      "generated_on": "2026-11-27",
+      "method": "OpenAI built-in image generation",
+      "prompt": "Use case: photorealistic-natural. One square editorial recipe photograph for Relish. Single finished serving in a centered full vessel with crop margin, realistic cooked textures or condensation, natural side window light, restrained warm kitchen/bar background, shallow depth of field. Eye-level three-quarter for drinks and three-quarter overhead for meals. No people, hands, text, logos, watermark, collage, borders or unspecified garnish. Subject: Date Orange Bourbon Sour: hazy amber-gold bourbon, orange, lemon and date drink served over one large clear cube in a rocks glass. Exactly one small orange twist. No date garnish or foam.",
+      "note": "AI-generated representative serving image; not a photograph of a kitchen-tested dish."
+    },
+    {
+      "file": "ginger-lime-chicken-lettuce-cups.jpg",
+      "generated_on": "2026-11-27",
+      "method": "OpenAI built-in image generation",
+      "prompt": "Use case: photorealistic-natural. One square editorial recipe photograph for Relish. Single finished serving in a centered full vessel with crop margin, realistic cooked textures or condensation, natural side window light, restrained warm kitchen/bar background, shallow depth of field. Eye-level three-quarter for drinks and three-quarter overhead for meals. No people, hands, text, logos, watermark, collage, borders or unspecified garnish. Subject: Ginger-Lime Chicken Lettuce Cups: two crisp butter lettuce leaves holding fully cooked browned ground chicken, grated orange carrot, diced cucumber and sliced scallions with a light soy-ginger glaze. White plate, no nuts, seeds or rice.",
+      "note": "AI-generated representative serving image; not a photograph of a kitchen-tested dish."
+    },
+    {
+      "file": "hibiscus-grapefruit-vodka-sour.jpg",
+      "generated_on": "2026-11-27",
+      "method": "OpenAI built-in image generation",
+      "prompt": "Use case: photorealistic-natural. One square editorial recipe photograph for Relish. Single finished serving in a centered full vessel with crop margin, realistic cooked textures or condensation, natural side window light, restrained warm kitchen/bar background, shallow depth of field. Eye-level three-quarter for drinks and three-quarter overhead for meals. No people, hands, text, logos, watermark, collage, borders or unspecified garnish. Subject: Hibiscus Grapefruit Vodka Sour: translucent deep ruby-red hibiscus, grapefruit, vodka and lime cocktail served up in a coupe. Exactly one small grapefruit twist, no flowers or foam.",
+      "note": "AI-generated representative serving image; not a photograph of a kitchen-tested dish."
+    },
+    {
+      "file": "peach-black-pepper-rum-smash.jpg",
+      "generated_on": "2026-11-27",
+      "method": "OpenAI built-in image generation",
+      "prompt": "Use case: photorealistic-natural. One square editorial recipe photograph for Relish. Single finished serving in a centered full vessel with crop margin, realistic cooked textures or condensation, natural side window light, restrained warm kitchen/bar background, shallow depth of field. Eye-level three-quarter for drinks and three-quarter overhead for meals. No people, hands, text, logos, watermark, collage, borders or unspecified garnish. Subject: Peach Black Pepper Rum Smash: hazy peach-gold white-rum sour over ice in a rocks glass with a tiny dusting of black pepper and one fresh peach wedge. No mint or foam.",
+      "note": "AI-generated representative serving image; not a photograph of a kitchen-tested dish."
+    },
+    {
+      "file": "pear-green-tea-gin-collins.jpg",
+      "generated_on": "2026-11-27",
+      "method": "OpenAI built-in image generation",
+      "prompt": "Use case: photorealistic-natural. One square editorial recipe photograph for Relish. Single finished serving in a centered full vessel with crop margin, realistic cooked textures or condensation, natural side window light, restrained warm kitchen/bar background, shallow depth of field. Eye-level three-quarter for drinks and three-quarter overhead for meals. No people, hands, text, logos, watermark, collage, borders or unspecified garnish. Subject: Pear Green Tea Gin Collins: cloudy pale straw-gold pear nectar, cooled green tea, gin, lemon and soda over clear ice in a Collins glass. Exactly one thin fresh pear slice garnish.",
+      "note": "AI-generated representative serving image; not a photograph of a kitchen-tested dish."
+    },
+    {
+      "file": "pork-meatballs-with-ginger-broth.jpg",
+      "generated_on": "2026-11-27",
+      "method": "OpenAI built-in image generation",
+      "prompt": "Use case: photorealistic-natural. One square editorial recipe photograph for Relish. Single finished serving in a centered full vessel with crop margin, realistic cooked textures or condensation, natural side window light, restrained warm kitchen/bar background, shallow depth of field. Eye-level three-quarter for drinks and three-quarter overhead for meals. No people, hands, text, logos, watermark, collage, borders or unspecified garnish. Subject: Pork Meatballs with Ginger Broth: four fully cooked pale pork meatballs in a clear light-brown ginger broth with sliced mushrooms and wilted spinach, over a small portion of white rice, sliced scallions on top. Deep cream bowl, no noodles.",
+      "note": "AI-generated representative serving image; not a photograph of a kitchen-tested dish."
+    },
+    {
+      "file": "seared-tuna-with-sesame-cucumber-rice.jpg",
+      "generated_on": "2026-11-27",
+      "method": "OpenAI built-in image generation",
+      "prompt": "Use case: photorealistic-natural. One square editorial recipe photograph for Relish. Single finished serving in a centered full vessel with crop margin, realistic cooked textures or condensation, natural side window light, restrained warm kitchen/bar background, shallow depth of field. Eye-level three-quarter for drinks and three-quarter overhead for meals. No people, hands, text, logos, watermark, collage, borders or unspecified garnish. Subject: Seared Tuna with Sesame Cucumber Rice: sesame-crusted tuna steak cooked fully through, sliced to show opaque pale beige-gray flesh with no raw red center, over white rice with diced cucumber and sliced scallions, a small soy-lime glaze. Pale plate, no other garnish.",
+      "note": "AI-generated representative serving image; not a photograph of a kitchen-tested dish."
+    },
+    {
+      "file": "white-bean-kale-pesto-soup.jpg",
+      "generated_on": "2026-11-27",
+      "method": "OpenAI built-in image generation",
+      "prompt": "Use case: photorealistic-natural. One square editorial recipe photograph for Relish. Single finished serving in a centered full vessel with crop margin, realistic cooked textures or condensation, natural side window light, restrained warm kitchen/bar background, shallow depth of field. Eye-level three-quarter for drinks and three-quarter overhead for meals. No people, hands, text, logos, watermark, collage, borders or unspecified garnish. Subject: White Bean Kale Pesto Soup: whole white cannellini beans, soft onion and diced orange carrot with wilted chopped kale in a light broth, green basil pesto stirred partly through the surface. Deep stoneware bowl, no bread or extra cheese garnish.",
+      "note": "AI-generated representative serving image; not a photograph of a kitchen-tested dish."
+    }
+  ]
+}

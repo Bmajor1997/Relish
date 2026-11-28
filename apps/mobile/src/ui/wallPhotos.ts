@@ -1,7 +1,7 @@
 // Made by scripts/make_collection.py from data/curated-photos. Do not edit by hand; run the script.
 
 /** How many hand-picked cover photos the app has. */
-export const CURATED_COUNT = 602;
+export const CURATED_COUNT = 702;
 
 /** One photo on the wall: the dish it shows, and the bundled picture. */
 export type WallPhoto = { name: string; kind: "meal" | "cocktail"; source: number };

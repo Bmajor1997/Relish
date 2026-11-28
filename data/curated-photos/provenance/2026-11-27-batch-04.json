@@ -1,0 +1,75 @@
+{
+  "batch": 4,
+  "images": [
+    {
+      "file": "baked-trout-with-almond-green-beans.jpg",
+      "generated_on": "2026-11-27",
+      "method": "OpenAI built-in image generation",
+      "prompt": "Use case: photorealistic-natural. One square editorial food/cocktail photograph for Relish. One finished serving centered with safe crop margins, natural side window light, realistic cooked textures or glass condensation, warm restrained kitchen/bar background. Eye-level three-quarter view for drinks and three-quarter overhead for meals. No people, hands, text, logos, watermark, collage, borders, egg foam or unspecified garnish. Subject: Baked Trout with Almond Green Beans: one fully cooked pale-pink trout fillet with browned edges, beside green beans tossed with sliced toasted almonds and chopped parsley, one lemon wedge, olive oil glint. White plate, no rice or potatoes.",
+      "note": "AI-generated representative serving image; not a photograph of a kitchen-tested dish."
+    },
+    {
+      "file": "tomato-olive-chicken-with-butter-beans.jpg",
+      "generated_on": "2026-11-27",
+      "method": "OpenAI built-in image generation",
+      "prompt": "Use case: photorealistic-natural. One square editorial food/cocktail photograph for Relish. One finished serving centered with safe crop margins, natural side window light, realistic cooked textures or glass condensation, warm restrained kitchen/bar background. Eye-level three-quarter view for drinks and three-quarter overhead for meals. No people, hands, text, logos, watermark, collage, borders, egg foam or unspecified garnish. Subject: Tomato Olive Chicken with Butter Beans: fully cooked browned boneless chicken thighs in chunky red tomato sauce with large white butter beans, sliced green olives, soft onion and chopped parsley, in a shallow cream bowl. No cream, rice or bread.",
+      "note": "AI-generated representative serving image; not a photograph of a kitchen-tested dish."
+    },
+    {
+      "file": "cranberry-sage-vodka-fizz.jpg",
+      "generated_on": "2026-11-27",
+      "method": "OpenAI built-in image generation",
+      "prompt": "Use case: photorealistic-natural. One square editorial food/cocktail photograph for Relish. One finished serving centered with safe crop margins, natural side window light, realistic cooked textures or glass condensation, warm restrained kitchen/bar background. Eye-level three-quarter view for drinks and three-quarter overhead for meals. No people, hands, text, logos, watermark, collage, borders, egg foam or unspecified garnish. Subject: Cranberry Sage Vodka Fizz: bright garnet-red cranberry, lemon, vodka and soda over clear ice in a highball, exactly one small gray-green sage sprig garnish.",
+      "note": "AI-generated representative serving image; not a photograph of a kitchen-tested dish."
+    },
+    {
+      "file": "mango-tamarind-tequila-sour.jpg",
+      "generated_on": "2026-11-27",
+      "method": "OpenAI built-in image generation",
+      "prompt": "Use case: photorealistic-natural. One square editorial food/cocktail photograph for Relish. One finished serving centered with safe crop margins, natural side window light, realistic cooked textures or glass condensation, warm restrained kitchen/bar background. Eye-level three-quarter view for drinks and three-quarter overhead for meals. No people, hands, text, logos, watermark, collage, borders, egg foam or unspecified garnish. Subject: Mango Tamarind Tequila Sour: hazy ochre-orange mango nectar and tamarind tequila sour over clear ice in a short rocks glass. Exactly one lime wheel garnish, no salt rim or foam.",
+      "note": "AI-generated representative serving image; not a photograph of a kitchen-tested dish."
+    },
+    {
+      "file": "sweet-potato-kale-black-bean-chili.jpg",
+      "generated_on": "2026-11-27",
+      "method": "OpenAI built-in image generation",
+      "prompt": "Use case: photorealistic-natural. One square editorial food/cocktail photograph for Relish. One finished serving centered with safe crop margins, natural side window light, realistic cooked textures or glass condensation, warm restrained kitchen/bar background. Eye-level three-quarter view for drinks and three-quarter overhead for meals. No people, hands, text, logos, watermark, collage, borders, egg foam or unspecified garnish. Subject: Sweet Potato Kale Black Bean Chili: a thick red tomato chili with orange sweet-potato cubes, black beans and wilted green kale, chopped cilantro and lime wedges. Rustic deep bowl. No meat, cheese or sour cream.",
+      "note": "AI-generated representative serving image; not a photograph of a kitchen-tested dish."
+    },
+    {
+      "file": "cherry-cacao-rye-old-fashioned.jpg",
+      "generated_on": "2026-11-27",
+      "method": "OpenAI built-in image generation",
+      "prompt": "Use case: photorealistic-natural. One square editorial food/cocktail photograph for Relish. One finished serving centered with safe crop margins, natural side window light, realistic cooked textures or glass condensation, warm restrained kitchen/bar background. Eye-level three-quarter view for drinks and three-quarter overhead for meals. No people, hands, text, logos, watermark, collage, borders, egg foam or unspecified garnish. Subject: Cherry Cacao Rye Old Fashioned: deep dark-amber rye drink with cacao-nib syrup and a little cherry preserve, over one large clear cube in a low heavy rocks glass, a pitted red cherry and short orange peel garnish. Clear stirred appearance, not creamy.",
+      "note": "AI-generated representative serving image; not a photograph of a kitchen-tested dish."
+    },
+    {
+      "file": "sesame-tofu-with-snap-peas-and-rice.jpg",
+      "generated_on": "2026-11-27",
+      "method": "OpenAI built-in image generation",
+      "prompt": "Use case: photorealistic-natural. One square editorial food/cocktail photograph for Relish. One finished serving centered with safe crop margins, natural side window light, realistic cooked textures or glass condensation, warm restrained kitchen/bar background. Eye-level three-quarter view for drinks and three-quarter overhead for meals. No people, hands, text, logos, watermark, collage, borders, egg foam or unspecified garnish. Subject: Sesame Tofu with Snap Peas and Rice: browned firm tofu cubes and crisp bright-green sugar snap peas glazed in soy-sesame sauce, sprinkled with sesame seeds over steamed white rice in a stoneware bowl. No meat or other vegetables.",
+      "note": "AI-generated representative serving image; not a photograph of a kitchen-tested dish."
+    },
+    {
+      "file": "cantaloupe-lime-gin-cooler.jpg",
+      "generated_on": "2026-11-27",
+      "method": "OpenAI built-in image generation",
+      "prompt": "Use case: photorealistic-natural. One square editorial food/cocktail photograph for Relish. One finished serving centered with safe crop margins, natural side window light, realistic cooked textures or glass condensation, warm restrained kitchen/bar background. Eye-level three-quarter view for drinks and three-quarter overhead for meals. No people, hands, text, logos, watermark, collage, borders, egg foam or unspecified garnish. Subject: Cantaloupe Lime Gin Cooler: hazy pale melon-orange gin, fresh cantaloupe, lime and soda over clear ice in a highball, one small cantaloupe wedge garnish.",
+      "note": "AI-generated representative serving image; not a photograph of a kitchen-tested dish."
+    },
+    {
+      "file": "spiced-lamb-and-chickpea-skillet.jpg",
+      "generated_on": "2026-11-27",
+      "method": "OpenAI built-in image generation",
+      "prompt": "Use case: photorealistic-natural. One square editorial food/cocktail photograph for Relish. One finished serving centered with safe crop margins, natural side window light, realistic cooked textures or glass condensation, warm restrained kitchen/bar background. Eye-level three-quarter view for drinks and three-quarter overhead for meals. No people, hands, text, logos, watermark, collage, borders, egg foam or unspecified garnish. Subject: Spiced Lamb and Chickpea Skillet: fully cooked crumbled ground lamb with whole chickpeas and diced tomato in a thick cumin-paprika-cinnamon sauce; chopped parsley in a dark shallow bowl. No rice, yogurt or bread.",
+      "note": "AI-generated representative serving image; not a photograph of a kitchen-tested dish."
+    },
+    {
+      "file": "apricot-thyme-rum-collins.jpg",
+      "generated_on": "2026-11-27",
+      "method": "OpenAI built-in image generation",
+      "prompt": "Use case: photorealistic-natural. One square editorial food/cocktail photograph for Relish. One finished serving centered with safe crop margins, natural side window light, realistic cooked textures or glass condensation, warm restrained kitchen/bar background. Eye-level three-quarter view for drinks and three-quarter overhead for meals. No people, hands, text, logos, watermark, collage, borders, egg foam or unspecified garnish. Subject: Apricot Thyme Rum Collins: soft orange apricot nectar, white rum, lemon and soda over ice in a tall Collins glass; one thin apricot slice and small thyme sprig garnish.",
+      "note": "AI-generated representative serving image; not a photograph of a kitchen-tested dish."
+    }
+  ]
+}

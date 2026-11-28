@@ -106,5 +106,95 @@
   "reason": "Checked side by side: different photos that share the studio style.",
   "reviewed_by": "Claude, recipe and image audit",
   "expires": "2028-11-27"
+ },
+ {
+  "photos": [
+   "beef-tomato-butter-bean-stew.jpg",
+   "pork-meatballs-with-ginger-broth.jpg"
+  ],
+  "reason": "Checked side by side: different dishes in the same generated studio style.",
+  "reviewed_by": "Claude, recipe and image audit",
+  "expires": "2028-11-27"
+ },
+ {
+  "photos": [
+   "clementine-vanilla-rum-fizz.jpg",
+   "guava-ginger-vodka-collins.jpg"
+  ],
+  "reason": "Checked side by side: different dishes in the same generated studio style.",
+  "reviewed_by": "Claude, recipe and image audit",
+  "expires": "2028-11-27"
+ },
+ {
+  "photos": [
+   "crispy-halloumi-couscous-bowls.jpg",
+   "tomato-olive-chicken-with-butter-beans.jpg"
+  ],
+  "reason": "Checked side by side: different dishes in the same generated studio style.",
+  "reviewed_by": "Claude, recipe and image audit",
+  "expires": "2028-11-27"
+ },
+ {
+  "photos": [
+   "garlic-shrimp-with-lemony-white-beans.jpg",
+   "roasted-cauliflower-red-lentil-soup.jpg"
+  ],
+  "reason": "Checked side by side: different dishes in the same generated studio style.",
+  "reviewed_by": "Claude, recipe and image audit",
+  "expires": "2028-11-27"
+ },
+ {
+  "photos": [
+   "harissa-roasted-vegetable-freekeh-bowls.jpg",
+   "moroccan-chicken-apricot-couscous.jpg"
+  ],
+  "reason": "Checked side by side: different dishes in the same generated studio style.",
+  "reviewed_by": "Claude, recipe and image audit",
+  "expires": "2028-11-27"
+ },
+ {
+  "photos": [
+   "harissa-roasted-vegetable-freekeh-bowls.jpg",
+   "roasted-cauliflower-red-lentil-soup.jpg"
+  ],
+  "reason": "Checked side by side: different dishes in the same generated studio style.",
+  "reviewed_by": "Claude, recipe and image audit",
+  "expires": "2028-11-27"
+ },
+ {
+  "photos": [
+   "harissa-roasted-vegetable-freekeh-bowls.jpg",
+   "tomato-olive-chicken-with-butter-beans.jpg"
+  ],
+  "reason": "Checked side by side: different dishes in the same generated studio style.",
+  "reviewed_by": "Claude, recipe and image audit",
+  "expires": "2028-11-27"
+ },
+ {
+  "photos": [
+   "honeydew-basil-vodka-cooler.jpg",
+   "tangerine-ginger-bourbon-highball.jpg"
+  ],
+  "reason": "Checked side by side: different dishes in the same generated studio style.",
+  "reviewed_by": "Claude, recipe and image audit",
+  "expires": "2028-11-27"
+ },
+ {
+  "photos": [
+   "moroccan-chicken-apricot-couscous.jpg",
+   "pork-meatballs-with-ginger-broth.jpg"
+  ],
+  "reason": "Checked side by side: different dishes in the same generated studio style.",
+  "reviewed_by": "Claude, recipe and image audit",
+  "expires": "2028-11-27"
+ },
+ {
+  "photos": [
+   "roasted-beet-lentil-goat-cheese-salad.jpg",
+   "roasted-tomato-eggplant-lentil-pasta.jpg"
+  ],
+  "reason": "Checked side by side: different dishes in the same generated studio style.",
+  "reviewed_by": "Claude, recipe and image audit",
+  "expires": "2028-11-27"
  }
 ]

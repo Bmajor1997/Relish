@@ -56,7 +56,7 @@ NOT_VEGETARIAN = ["chicken", "beef", "pork", "lamb", "mutton", "goat", "bacon", 
 NOT_VEGAN = NOT_VEGETARIAN + ["egg", "milk", "butter", "cream", "cheese", "yogurt", "yoghurt", "honey", "ghee", "ricotta",
                               "parmesan", "pecorino", "feta", "paneer", "sour cream", "crème", "mayonnaise", "whey"]
 PLANT_OK = ["coconut milk", "coconut cream", "oat milk", "soy milk", "almond milk", "vegan butter", "vegan cheese", "vegan",
-            "plant-based", "aquafaba", "eggplant", "butternut", "butter beans", "peanut butter", "cocoa butter", "cream of coconut",
+            "plant-based", "aquafaba", "eggplant", "butternut", "butter beans", "butter lettuce", "peanut butter", "cocoa butter", "cream of coconut",
             "egg-free", "no egg", "vegan irish cream", "cashew cream", "oat cream", "soy cream", "dairy-free yogurt", "dairy-free", "nutritional yeast", "mushroom", "creamy", "honeydew", "agave",
             "cheesecloth", "crème de", "creme de", "kombu dashi", "mushroom dashi", "butterfly pea", "buttery", "fish-free", "fishless",
             "chicken-style", "vegetable", "jackfruit", "tofu", "seitan", "tempeh", "vegetarian parmesan-style", "vegetarian pecorino-style",
@@ -226,13 +226,14 @@ def diet_problems(r, diet):
     return [w for w in banned if re.search(r"\b" + re.escape(w), text)]
 
 
-def inherited_problems(base, made, v, diet):
-    """Tips, make-ahead and notes a version copies word for word from the regular recipe must not still talk about meat or
-    dairy. Lines the version rewrote with a ~ swap were written for it on purpose, so comparisons like "flakes like fish" pass."""
-    kept = set(base["tips"]) | {base["make_ahead"] or "", base["note"] or ""}
-    copied = ([] if "T" in v["parts"] else made["tips"]) + ([] if "S" in v["parts"] else [made["make_ahead"] or ""]) \
-        + ([] if "!" in v["parts"] else [made["note"] or ""])
-    return diet_problems({"ingredients": [], "steps": [x for x in copied if x and x in kept], "cocktail": None}, diet)
+def inherited_problems(base, v, diet):
+    """Tips, make-ahead and notes a version takes from the regular recipe must not still talk about meat, dairy or honey.
+    Only the words left over from the regular recipe are checked: text a ~ swap put in was written for the version on
+    purpose, so "flakes like fish" passes, but "For agave syrup, stir equal volumes honey and warm water" doesn't."""
+    blanked = [(old, " ") for old, _ in v["swaps"]]
+    taken = ([] if "T" in v["parts"] else base["tips"]) + ([] if "S" in v["parts"] else [base["make_ahead"] or ""]) \
+        + ([] if "!" in v["parts"] else [base["note"] or ""])
+    return diet_problems({"ingredients": [], "steps": [swap(x, blanked) for x in taken if x], "cocktail": None}, diet)
 
 
 out = {}
@@ -266,7 +267,7 @@ for stem, r in recipes.items():
             left = diet_problems(made, diet)
             if left:
                 fail(f"{stem}~{diet}", f"still has {', '.join(left)}" + (" (marked same)" if v == "same" else ""))
-            copied = [] if v == "same" else inherited_problems(r, made, v, diet)
+            copied = [] if v == "same" else inherited_problems(r, v, diet)
             if copied:
                 fail(f"{stem}~{diet}", f"a tip, note or make-ahead line copied from the regular recipe still names {', '.join(copied)};"
                                        " swap it with a ~ line or give the version its own T, S or ! lines")

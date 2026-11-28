@@ -1,0 +1,75 @@
+{
+  "batch": 9,
+  "images": [
+    {
+      "file": "baked-cod-with-tomato-chickpeas.jpg",
+      "generated_on": "2026-11-27",
+      "method": "OpenAI built-in image generation",
+      "prompt": "Use case: photorealistic-natural. One square editorial recipe photograph for Relish. Single finished serving centered with safe crop margins, natural side window light, realistic cooked textures or condensation, restrained warm kitchen/bar background and shallow depth of field. Eye-level three-quarter view for drinks and three-quarter overhead for meals. No people, hands, text, logos, watermark, collage, borders or unspecified extras. Subject: Baked Cod with Tomato Chickpeas: a fully cooked white cod portion with browned edges over whole chickpeas and blistered cherry tomatoes in a glossy garlic-olive-oil sauce, chopped parsley and one lemon wedge. Shallow cream bowl, no rice or bread.",
+      "note": "AI-generated representative serving image; not a photograph of a kitchen-tested dish."
+    },
+    {
+      "file": "blood-orange-black-tea-rum-highball.jpg",
+      "generated_on": "2026-11-27",
+      "method": "OpenAI built-in image generation",
+      "prompt": "Use case: photorealistic-natural. One square editorial recipe photograph for Relish. Single finished serving centered with safe crop margins, natural side window light, realistic cooked textures or condensation, restrained warm kitchen/bar background and shallow depth of field. Eye-level three-quarter view for drinks and three-quarter overhead for meals. No people, hands, text, logos, watermark, collage, borders or unspecified extras. Subject: Blood Orange Black Tea Rum Highball: deep red-orange blood orange, black tea, white rum and lime over clear ice in a highball with light fizz; exactly one blood orange half-wheel.",
+      "note": "AI-generated representative serving image; not a photograph of a kitchen-tested dish."
+    },
+    {
+      "file": "chicken-poblano-corn-rice-bake.jpg",
+      "generated_on": "2026-11-27",
+      "method": "OpenAI built-in image generation",
+      "prompt": "Use case: photorealistic-natural. One square editorial recipe photograph for Relish. Single finished serving centered with safe crop margins, natural side window light, realistic cooked textures or condensation, restrained warm kitchen/bar background and shallow depth of field. Eye-level three-quarter view for drinks and three-quarter overhead for meals. No people, hands, text, logos, watermark, collage, borders or unspecified extras. Subject: Chicken Poblano Corn Rice Bake: a scoop of a golden rice casserole with fully cooked crumbled chicken, diced green poblano, yellow corn and diced tomato, modest melted cheddar top and chopped cilantro. White plate, no cream or bread.",
+      "note": "AI-generated representative serving image; not a photograph of a kitchen-tested dish."
+    },
+    {
+      "file": "chickpea-spinach-shakshuka.jpg",
+      "generated_on": "2026-11-27",
+      "method": "OpenAI built-in image generation",
+      "prompt": "Use case: photorealistic-natural. One square editorial recipe photograph for Relish. Single finished serving centered with safe crop margins, natural side window light, realistic cooked textures or condensation, restrained warm kitchen/bar background and shallow depth of field. Eye-level three-quarter view for drinks and three-quarter overhead for meals. No people, hands, text, logos, watermark, collage, borders or unspecified extras. Subject: Chickpea Spinach Shakshuka: two fully set eggs with opaque cooked yolks and whites nestled in thick red tomato sauce with whole chickpeas, wilted spinach and diced red pepper, chopped parsley. Small cast-iron serving skillet with one plain wheat pita beside it. No cheese.",
+      "note": "AI-generated representative serving image; not a photograph of a kitchen-tested dish."
+    },
+    {
+      "file": "five-spice-pork-with-bok-choy-and-rice.jpg",
+      "generated_on": "2026-11-27",
+      "method": "OpenAI built-in image generation",
+      "prompt": "Use case: photorealistic-natural. One square editorial recipe photograph for Relish. Single finished serving centered with safe crop margins, natural side window light, realistic cooked textures or condensation, restrained warm kitchen/bar background and shallow depth of field. Eye-level three-quarter view for drinks and three-quarter overhead for meals. No people, hands, text, logos, watermark, collage, borders or unspecified extras. Subject: Five-Spice Pork with Bok Choy and Rice: thin fully cooked pork tenderloin strips and quartered green baby bok choy in a glossy brown soy-five-spice glaze over white rice, sliced scallions. Wide stoneware bowl, no sesame-seed garnish.",
+      "note": "AI-generated representative serving image; not a photograph of a kitchen-tested dish."
+    },
+    {
+      "file": "grapefruit-ginger-rye-sour.jpg",
+      "generated_on": "2026-11-27",
+      "method": "OpenAI built-in image generation",
+      "prompt": "Use case: photorealistic-natural. One square editorial recipe photograph for Relish. Single finished serving centered with safe crop margins, natural side window light, realistic cooked textures or condensation, restrained warm kitchen/bar background and shallow depth of field. Eye-level three-quarter view for drinks and three-quarter overhead for meals. No people, hands, text, logos, watermark, collage, borders or unspecified extras. Subject: Grapefruit Ginger Rye Sour: hazy pale amber-pink rye whiskey, grapefruit, lemon and ginger sour served up in a coupe; one small grapefruit twist. No foam.",
+      "note": "AI-generated representative serving image; not a photograph of a kitchen-tested dish."
+    },
+    {
+      "file": "lemony-orzo-with-roasted-broccoli-and-walnuts.jpg",
+      "generated_on": "2026-11-27",
+      "method": "OpenAI built-in image generation",
+      "prompt": "Use case: photorealistic-natural. One square editorial recipe photograph for Relish. Single finished serving centered with safe crop margins, natural side window light, realistic cooked textures or condensation, restrained warm kitchen/bar background and shallow depth of field. Eye-level three-quarter view for drinks and three-quarter overhead for meals. No people, hands, text, logos, watermark, collage, borders or unspecified extras. Subject: Lemony Orzo with Roasted Broccoli and Walnuts: glossy lemon-olive-oil orzo pasta with browned roasted broccoli florets, toasted walnut pieces and chopped parsley. Pale ceramic bowl. No cheese, meat or beans.",
+      "note": "AI-generated representative serving image; not a photograph of a kitchen-tested dish."
+    },
+    {
+      "file": "mango-lime-brandy-punch.jpg",
+      "generated_on": "2026-11-27",
+      "method": "OpenAI built-in image generation",
+      "prompt": "Use case: photorealistic-natural. One square editorial recipe photograph for Relish. Single finished serving centered with safe crop margins, natural side window light, realistic cooked textures or condensation, restrained warm kitchen/bar background and shallow depth of field. Eye-level three-quarter view for drinks and three-quarter overhead for meals. No people, hands, text, logos, watermark, collage, borders or unspecified extras. Subject: Mango Lime Brandy Punch: opaque rich mango-orange brandy and lime punch over clear ice in a short rocks glass; exactly one small mango slice garnish. No foam, mint or citrus wheel.",
+      "note": "AI-generated representative serving image; not a photograph of a kitchen-tested dish."
+    },
+    {
+      "file": "plum-basil-vodka-sour.jpg",
+      "generated_on": "2026-11-27",
+      "method": "OpenAI built-in image generation",
+      "prompt": "Use case: photorealistic-natural. One square editorial recipe photograph for Relish. Single finished serving centered with safe crop margins, natural side window light, realistic cooked textures or condensation, restrained warm kitchen/bar background and shallow depth of field. Eye-level three-quarter view for drinks and three-quarter overhead for meals. No people, hands, text, logos, watermark, collage, borders or unspecified extras. Subject: Plum Basil Vodka Sour: deep violet-red plum, vodka and lemon sour served up in a coupe, one thin red-plum slice and one small basil leaf at the rim. No foam.",
+      "note": "AI-generated representative serving image; not a photograph of a kitchen-tested dish."
+    },
+    {
+      "file": "strawberry-chamomile-gin-cooler.jpg",
+      "generated_on": "2026-11-27",
+      "method": "OpenAI built-in image generation",
+      "prompt": "Use case: photorealistic-natural. One square editorial recipe photograph for Relish. Single finished serving centered with safe crop margins, natural side window light, realistic cooked textures or condensation, restrained warm kitchen/bar background and shallow depth of field. Eye-level three-quarter view for drinks and three-quarter overhead for meals. No people, hands, text, logos, watermark, collage, borders or unspecified extras. Subject: Strawberry Chamomile Gin Cooler: soft strawberry-pink gin drink with cooled chamomile tea, lemon and soda over ice in a highball; exactly one strawberry half garnish. No flowers or herbs.",
+      "note": "AI-generated representative serving image; not a photograph of a kitchen-tested dish."
+    }
+  ]
+}

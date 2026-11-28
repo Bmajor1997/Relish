@@ -1,0 +1,15 @@
+Catalog expansion: 2026-11-27
+
+Scope: 50 new cocktail recipes and 50 new meals, with one separately generated representative cover for each. Published as ten batches of five cocktails and five meals. These are original home recipes, not attributed restaurant recipes. They have been reviewed for ingredient/method consistency and checked with repository validators; they have not been kitchen-tested.
+
+Image provenance: individual prompts and generation dates are recorded in data/curated-photos/provenance/. Images are AI-generated representations, not photographs of prepared dishes. Each source JPEG is metadata-stripped and its phone-size counterpart is produced by scripts/make_collection.py.
+
+Food handling references consulted:
+https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures
+https://www.cdc.gov/food-safety/prevention/
+https://www.fda.gov/food/buy-store-serve-safe-food/safe-food-handling
+
+Ingredient-specific review:
+Tangerine Pink Pepper Gin Collins is not verified nut-free. Pink peppercorn cross-reactivity with cashew/pistachio is documented in the primary study at https://pmc.ncbi.nlm.nih.gov/articles/PMC6676063/. Its nut-free label is set to review rather than fits in dietReview.json.
+
+Packaged ingredients and alcohol formulations vary. Declared allergens describe the specified ingredients and cannot rule out cross-contact. Check product labels. Non-alcoholic suggestions are separate measured preparations; no alcohol-free claim is made about ordinary spirits or bitters.

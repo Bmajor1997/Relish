@@ -1,0 +1,177 @@
+@ pear-green-tea-gin-collins | Pear Green Tea Gin Collins | 1 | 6 | 0 | - | Pear nectar and cooled green tea make a mellow gin Collins with a clean lemon finish.
+- 1 1/2 | oz | gin
+- 1 1/2 | oz | pear nectar
+- 1 | oz | brewed green tea, cooled
+- 1/2 | oz | fresh lemon juice
+- 1/4 | oz | simple syrup
+- 2 | oz | chilled soda water
+- 1 |  | thin pear slice, for garnish
+# Shake gin, pear nectar, cooled tea, lemon and syrup with ice for 12 seconds.
+# Strain into an ice-filled Collins glass and top with soda.
+# Stir once and garnish with the pear slice.
+G Collins glass | thin pear slice | y | Shake 2 oz pear nectar, 2 oz cooled green tea, 1/2 oz lemon juice and 1/4 oz syrup with ice; strain and add 2 oz soda.
+! An original Relish home cocktail. Please drink responsibly.
+T Brew green tea gently and cool it before mixing; overbrewed tea becomes bitter.
+S Prepare to order. Keep juices and brewed teas refrigerated until needed.
+@@ vegetarian = same
+@@ vegan = same
+
+@ peach-black-pepper-rum-smash | Peach Black Pepper Rum Smash | 1 | 6 | 0 | - | Ripe peach and a tiny pinch of black pepper give a white-rum smash a gentle savory edge.
+- 1 1/2 | oz | white rum
+- 1/2 |  | ripe peach, pitted and chopped
+- 3/4 | oz | fresh lemon juice
+- 1/2 | oz | simple syrup
+- 1 | small pinch | freshly ground black pepper
+- 1 |  | thin peach wedge, for garnish
+# Muddle chopped peach with syrup in a shaker.
+# Add rum, lemon, black pepper and ice. Shake for 15 seconds and fine-strain into a rocks glass over fresh ice.
+# Garnish with the peach wedge.
+G rocks glass | thin peach wedge | y | Muddle peach with syrup, then shake with 3/4 oz lemon juice, a tiny pinch of pepper and 2 oz cooled white tea; strain over ice.
+! An original Relish home cocktail. Please drink responsibly.
+T Use black pepper sparingly; it should add aroma rather than make the drink hot.
+S Prepare to order. Keep juices and brewed teas refrigerated until needed.
+@@ vegetarian = same
+@@ vegan = same
+
+@ hibiscus-grapefruit-vodka-sour | Hibiscus Grapefruit Vodka Sour | 1 | 6 | 0 | - | Ruby hibiscus tea and grapefruit make a tart vodka sour with a floral edge.
+- 1 1/2 | oz | vodka
+- 1 1/2 | oz | strong brewed hibiscus tea, cooled
+- 1 | oz | pink grapefruit juice
+- 1/2 | oz | fresh lime juice
+- 1/2 | oz | simple syrup
+- 1 |  | small grapefruit twist, for garnish
+# Combine vodka, cooled hibiscus tea, grapefruit juice, lime and syrup in a shaker.
+# Shake with ice for 15 seconds and double-strain into a chilled coupe.
+# Express the grapefruit twist over the glass and add it.
+G coupe | small grapefruit twist | y | Shake 2 oz cooled hibiscus tea, 1 1/2 oz grapefruit juice, 1/2 oz lime juice and 1/2 oz syrup with ice; strain into a coupe.
+! An original Relish home cocktail. Please drink responsibly.
+T Brew tea from a plain food-grade hibiscus infusion and cool fully before mixing.
+S Prepare to order. Keep juices and brewed teas refrigerated until needed.
+@@ vegetarian = same
+@@ vegan = same
+
+@ cucumber-green-tea-tequila-highball | Cucumber Green Tea Tequila Highball | 1 | 6 | 0 | - | Fresh cucumber, green tea and lime make a restrained sparkling tequila highball.
+- 1 1/2 | oz | blanco tequila
+- 2 | oz | brewed green tea, cooled
+- 3 |  | thin cucumber slices
+- 1/2 | oz | fresh lime juice
+- 1/4 | oz | agave syrup
+- 2 | oz | chilled soda water
+- 1 |  | cucumber ribbon, for garnish
+# Press cucumber slices gently with agave syrup in a shaker.
+# Add tequila, cooled tea, lime and ice; shake briefly and strain into an ice-filled highball.
+# Top with soda, stir gently and garnish with the cucumber ribbon.
+G highball glass | cucumber ribbon | y | Shake cucumber, 3 oz cooled green tea, 1/2 oz lime juice and 1/4 oz agave syrup with ice; strain and add 2 oz soda.
+! An original Relish home cocktail. Please drink responsibly.
+S Prepare to order. Keep juices and brewed teas refrigerated until needed.
+@@ vegetarian = same
+@@ vegan = same
+
+@ date-orange-bourbon-sour | Date Orange Bourbon Sour | 1 | 6 | 0 | - | Soft dates, fresh orange and lemon give bourbon a rounded fruit-sour finish.
+- 1 1/2 | oz | bourbon
+- 1 |  | soft pitted Medjool date, chopped
+- 1 | tbsp | warm water
+- 1 | oz | fresh orange juice
+- 3/4 | oz | fresh lemon juice
+- 1 |  | small orange twist, for garnish
+# Mash the chopped date with warm water in a shaker until loosened; stand for 2 minutes.
+# Add bourbon, orange juice, lemon juice and plenty of ice. Shake firmly for 15 seconds and double-strain into a rocks glass over fresh ice.
+# Express the orange twist over the drink and add it.
+G rocks glass | small orange twist | y | Mash the date with water; shake with 2 oz orange juice and 3/4 oz lemon juice and ice, then double-strain over fresh ice.
+! An original Relish home cocktail. Please drink responsibly.
+T Remove the date stone completely before mixing. Fine-straining catches fibrous pieces.
+S Prepare to order. Keep juices and brewed teas refrigerated until needed.
+@@ vegetarian = same
+@@ vegan = same
+
+@ ginger-lime-chicken-lettuce-cups | Ginger-Lime Chicken Lettuce Cups | 4 | 20 | 15 | soy, wheat, sesame | Ground chicken with ginger, lime and crisp vegetables spooned into butter lettuce leaves.
+- 1 | lb | ground chicken
+- 8 |  | large butter lettuce leaves, washed and dried
+- 1 |  | carrot, grated
+- 1/2 |  | cucumber, diced
+- 2 |  | scallions, sliced
+- 1 | tbsp | neutral oil
+- 1 | tbsp | grated ginger
+- 2 |  | garlic cloves, minced
+- 2 | tbsp | soy sauce
+- 1 | tbsp | fresh lime juice
+- 1 | tsp | maple syrup
+- 1 | tsp | toasted sesame oil
+# Heat neutral oil in a wide skillet over medium-high heat. Cook chicken for 6 to 8 minutes, breaking it up, until fully cooked to 165 F (74 C).
+# Add ginger and garlic for 1 minute. Stir in soy sauce, maple syrup and sesame oil and cook for 1 minute more.
+# Take off the heat and stir in lime juice.
+# Spoon into lettuce leaves and top with carrot, cucumber and scallions; serve two filled leaves per person.
+T Butter lettuce is not dairy. Keep washed leaves dry so the cups remain crisp.
+S Refrigerate chicken and vegetables separately for up to 3 days. Reheat chicken to 165 F (74 C) before filling fresh lettuce leaves.
+
+@ seared-tuna-with-sesame-cucumber-rice | Seared Tuna with Sesame Cucumber Rice | 4 | 15 | 15 | fish, wheat, soy, sesame | Fully cooked sesame-crusted tuna with cucumber rice and a soy-lime dressing.
+- 4 |  | tuna steaks (4 to 5 oz each), about 3/4 inch thick
+- 2 | tbsp | sesame seeds
+- 1 | tbsp | neutral oil
+- 3 | cups | cooked rice, hot
+- 1 |  | cucumber, diced
+- 1 | tbsp | soy sauce
+- 1 | tbsp | fresh lime juice
+- 1 | tsp | rice vinegar
+- 2 |  | scallions, sliced
+# Pat tuna dry and press sesame seeds onto both faces. Heat oil in a nonstick skillet over medium heat.
+# Cook steaks for about 4 to 6 minutes per side, lowering heat if seeds brown too fast, until the centers reach 145 F (63 C). This recipe serves tuna fully cooked, not rare.
+# Mix soy sauce, lime juice and vinegar. Toss hot rice with cucumber and scallions.
+# Slice the tuna and serve over rice with the dressing spooned on top.
+T Cooking time depends on thickness. Use a thermometer and avoid burning the sesame coating.
+S Refrigerate promptly and use within 2 days. Reheat leftovers to 165 F (74 C).
+
+@ pork-meatballs-with-ginger-broth | Pork Meatballs with Ginger Broth | 4 | 20 | 25 | eggs, wheat, soy | Tender pork meatballs, mushrooms and spinach in a light ginger broth with rice.
+- 1 | lb | ground pork
+- 1 |  | egg
+- 1/4 | cup | plain wheat breadcrumbs
+- 1 | tbsp | grated ginger, divided
+- 2 | tbsp | soy sauce, divided
+- 4 | cups | water
+- 8 | oz | mushrooms, sliced
+- 2 | cups | baby spinach
+- 2 |  | scallions, sliced
+- 3 | cups | cooked rice, hot
+- 1/4 | tsp | black pepper
+# Mix pork, egg, breadcrumbs, half the ginger, half the soy sauce and black pepper. Form 16 small meatballs.
+# Bring water, remaining ginger, remaining soy sauce and mushrooms to a gentle simmer in a wide saucepan. Cook for 5 minutes.
+# Lower meatballs into the broth. Cover partly and simmer gently for 12 to 15 minutes, until the center of every meatball reaches 160 F (71 C).
+# Stir in spinach to wilt. Divide hot rice among bowls and ladle meatballs and broth over it; scatter with scallions.
+T Keep the broth at a gentle simmer so the meatballs hold their shape. Check breadcrumbs for additional allergens.
+S Refrigerate promptly in shallow containers for up to 3 days. Reheat leftovers to 165 F (74 C).
+
+@ white-bean-kale-pesto-soup | White Bean Kale Pesto Soup | 4 | 15 | 20 | milk, tree nuts | White beans and kale in a light vegetable soup finished with basil pesto containing cheese and pine nuts.
+- 2 | cans | cannellini beans (15 oz each), drained and rinsed
+- 3 | cups | chopped kale, stems removed
+- 1 |  | onion, diced
+- 1 |  | carrot, diced
+- 2 |  | garlic cloves, minced
+- 1 | tbsp | olive oil
+- 4 | cups | water
+- 1/4 | cup | basil pesto made with vegetarian hard cheese and pine nuts
+- 1/2 | tsp | salt
+- 1/4 | tsp | black pepper
+- 1 | tbsp | fresh lemon juice
+# Heat oil in a saucepan over medium heat. Soften onion and carrot for 6 minutes; add garlic for 30 seconds.
+# Add beans, water, salt and pepper. Simmer for 10 minutes, then mash a small scoop of beans against the pan to thicken the broth.
+# Stir in kale and cook for 4 minutes. Take off heat and stir in pesto and lemon juice.
+# Divide among bowls and serve hot.
+T Pesto here intentionally contains milk and tree nuts; do not use a generic unverified pesto while retaining these exact labels.
+S Refrigerate promptly in shallow containers for up to 3 days. Reheat leftovers to 165 F (74 C).
+
+@ broccoli-cheddar-quinoa-bake | Broccoli Cheddar Quinoa Bake | 4 | 15 | 45 | milk, eggs | Tender quinoa and broccoli baked with cheddar and a light egg custard.
+- 1 | cup | dry quinoa, rinsed
+- 2 | cups | water
+- 4 | cups | small broccoli florets
+- 1 | cup | milk
+- 2 |  | eggs
+- 1 1/2 | cups | grated cheddar
+- 1 | tbsp | olive oil
+- 1/2 | tsp | salt
+- 1/4 | tsp | black pepper
+# Heat oven to 375 F (190 C). Simmer quinoa in water, covered, for 15 minutes or until tender; rest for 5 minutes.
+# Steam broccoli for 3 minutes until bright green but still firm. Brush a 9-inch baking dish with oil.
+# Whisk milk, eggs, salt and pepper. Fold in quinoa, broccoli and 1 cup cheddar. Transfer to the dish and top with remaining cheese.
+# Bake for 25 to 30 minutes until golden and the center reaches 165 F (74 C). Rest for 5 minutes before serving.
+T Drain steamed broccoli well. The center should be set rather than wet when the casserole is ready.
+S Refrigerate promptly in shallow containers for up to 3 days. Reheat leftovers to 165 F (74 C).

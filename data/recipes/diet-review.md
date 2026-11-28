@@ -8,17 +8,17 @@ or add a decision for it to `dietReview.json` (`fits`, `option` or `none`, with 
 
 ## Totals
 
-Options shown before the audit: 3528 (every diet on every recipe). Now: 1269.
+Options shown before the audit: 4568 (every diet on every recipe). Now: 1564.
 
 | Diet | Already fits | Option | Can't be adapted | Needs review |
 |---|---|---|---|---|
-| vegetarian | 330 | 212 | 0 | 0 |
-| vegan | 242 | 297 | 0 | 3 |
-| gluten-free | 375 | 164 | 0 | 3 |
-| dairy-free | 386 | 143 | 0 | 13 |
-| nut-free | 494 | 47 | 0 | 1 |
-| low-carb | 31 | 130 | 381 | 0 |
-| non-alcoholic | 0 | 276 | 0 | 0 |
+| vegetarian | 444 | 258 | 0 | 0 |
+| vegan | 343 | 355 | 0 | 4 |
+| gluten-free | 495 | 202 | 0 | 5 |
+| dairy-free | 518 | 166 | 0 | 18 |
+| nut-free | 629 | 63 | 0 | 10 |
+| low-carb | 42 | 164 | 496 | 0 |
+| non-alcoholic | 0 | 356 | 0 | 0 |
 
 ## Rules used
 
@@ -58,34 +58,51 @@ Options shown before the audit: 3528 (every diet on every recipe). Now: 1269.
 | Ibarra Mexican chocolate | dairy-free | ingredients: sugar, cacao, soy lecithin, cinnamon |
 | Kikkoman panko (plain) | dairy-free | Kikkoman ingredients: wheat flour, sugar, yeast, salt |
 
-## Still to check: Vegan (3)
+## Still to check: Vegan (4)
 
 - **Fried Spring Rolls**: check "spring roll wrappers"
 - **Hummus**: check "warm pita bread, to serve"
+- **Shawarma-Spiced Chickpea Pitas**: check "wheat pita breads"
 - **Zaza**: check "Dubonnet Rouge"
 
-## Still to check: Gluten-free (3)
+## Still to check: Gluten-free (5)
 
 - **Brazilian Feijoada**: check "smoked sausage (linguiça), sliced"
 - **Idli Sambar**: check "sambar powder"
+- **Miso Soup**: check "miso paste (white or red), plus more to taste"
+- **Miso-Glazed Eggplant Rice Bowls**: check "white miso"
 - **Oven-Baked BBQ Ribs**: check "barbecue sauce"
 
-## Still to check: Dairy-free (13)
+## Still to check: Dairy-free (18)
 
 - **BLT Sandwich**: check "sandwich bread, toasted"
 - **Beef Empanadas**: check "empanada dough rounds"
 - **Bigos (Polish Hunter's Stew)**: check "rye bread or boiled potatoes, to serve"
 - **Caldo Verde (Portuguese Kale Soup)**: check "black pepper and crusty cornbread (broa), to serve"
+- **Chickpea Spinach Shakshuka**: check "wheat pita breads"
 - **Choripán**: check "crusty rolls"
+- **Crispy Coconut Fish with Mango Salsa**: check "panko breadcrumbs"
 - **Hummus**: check "warm pita bread, to serve"
+- **Lemon Garlic Turkey Meatballs and Bulgur**: check "plain wheat breadcrumbs"
 - **Mole Poblano**: check "bread, torn"
 - **Pork Banh Mi**: check "Vietnamese baguettes or soft French rolls"
+- **Pork Meatballs with Ginger Broth**: check "plain wheat breadcrumbs"
 - **Pork Schnitzel**: check "fine dry breadcrumbs"
 - **Pulled Pork Sandwich**: check "soft buns"
 - **Sauerbraten**: check "gingersnap cookies, crushed"
+- **Shawarma-Spiced Chickpea Pitas**: check "wheat pita breads"
 - **Sri Lankan Kottu Roti**: check "paratha or roti, cut into thin strips"
 - **Turkey Club Sandwich**: check "sandwich bread, toasted"
 
-## Still to check: Nut-free (1)
+## Still to check: Nut-free (10)
 
+- **Chartreuse Swizzle**: check "falernum"
+- **Corn 'n' Oil**: check "falernum"
+- **Illegal**: check "falernum"
+- **Pearl Diver**: check "falernum"
 - **Pink Squirrel**: check "crème de noyaux"
+- **Royal Bermuda Yacht Club**: check "falernum"
+- **Tangerine Pink Pepper Gin Collins**: pink peppercorn can cross-react with cashew or pistachio allergy; this recipe is not verified nut-free
+- **Test Pilot**: check "velvet falernum"
+- **Three Dots and a Dash**: check "velvet falernum"
+- **Zombie**: check "falernum"

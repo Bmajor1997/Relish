@@ -1,0 +1,186 @@
+@ kiwi-cucumber-tequila-cooler | Kiwi Cucumber Tequila Cooler | 1 | 6 | 0 | - | Kiwi and cucumber bring a fresh green edge to a light tequila-lime highball.
+- 1 1/2 | oz | blanco tequila
+- 1/2 | | ripe kiwi, peeled and chopped
+- 3 | | thin cucumber slices
+- 1/2 | oz | fresh lime juice
+- 1/2 | oz | agave syrup
+- 2 | oz | chilled soda water
+- 1 | | cucumber ribbon and kiwi half-slice, for garnish
+# Gently muddle the chopped kiwi and cucumber slices with agave syrup in a shaker.
+# Add tequila, lime juice and ice. Shake for 12 seconds and strain into an ice-filled highball glass.
+# Top with soda, stir gently and garnish with the cucumber ribbon and kiwi half-slice.
+G highball glass | cucumber ribbon and kiwi half-slice | y | Muddle kiwi and cucumber with 1/2 oz agave syrup, shake with 3/4 oz lime juice and ice, then strain and top with 4 oz soda water.
+! An original Relish home cocktail. Please drink responsibly.
+T Use ripe kiwi for sweetness. A fine sieve removes most seeds if you prefer a smoother drink.
+S Prepare to order; kiwi and cucumber lose their fresh flavor after standing.
+@@ vegetarian = same
+@@ vegan = same
+
+@ plum-ginger-brandy-sour | Plum Ginger Brandy Sour | 1 | 6 | 0 | - | Ripe plum, lemon and ginger give brandy a tart, warming fruit-sour finish.
+- 1 1/2 | oz | brandy
+- 1/2 | | ripe red plum, pitted and chopped
+- 3/4 | oz | fresh lemon juice
+- 1/2 | oz | ginger syrup
+- 1 | | thin red-plum fan, for garnish
+# Muddle chopped plum with ginger syrup in a shaker until juicy.
+# Add brandy, lemon juice and ice. Shake firmly for 15 seconds.
+# Double-strain into a rocks glass over a large ice cube. Garnish with the thin plum fan.
+G rocks glass | thin red-plum fan | y | Muddle half a pitted plum with 1/2 oz ginger syrup; shake with 3/4 oz lemon juice and 2 oz cooled black tea, then double-strain over ice.
+! An original Relish home cocktail. Please drink responsibly.
+T Remove the plum stone completely before muddling; fine-straining catches skin fragments.
+S Refrigerate cut plum for up to 1 day. Shake the drink just before serving.
+@@ vegetarian = same
+@@ vegan = same
+
+@ clementine-vanilla-rum-fizz | Clementine Vanilla Rum Fizz | 1 | 5 | 0 | - | Clementine juice and vanilla soften a bright white-rum fizz with fresh lime and soda.
+- 1 1/2 | oz | white rum
+- 2 | oz | fresh clementine juice
+- 1/2 | oz | fresh lime juice
+- 1/2 | oz | vanilla syrup
+- 2 | oz | chilled soda water
+- 1 | | clementine wheel, for garnish
+# Shake rum, clementine juice, lime juice and vanilla syrup with ice for 12 seconds.
+# Strain into an ice-filled tall glass. Top with soda and stir once.
+# Garnish with the clementine wheel and serve immediately.
+G tall glass | clementine wheel | y | Shake 3 oz clementine juice, 1/2 oz lime juice and 1/4 oz vanilla syrup with ice; strain over ice and add 2 oz soda water.
+! An original Relish home cocktail. Please drink responsibly.
+T For quick vanilla syrup, add 1/4 tsp vanilla extract to 1/2 cup plain simple syrup; measure the portion needed.
+S Juice clementines up to 1 day ahead and refrigerate. Add soda only when serving.
+@@ vegetarian = same
+@@ vegan = same
+
+@ rhubarb-rose-gin-sour | Rhubarb Rose Gin Sour | 1 | 5 | 0 | - | A pale pink gin sour combining tart rhubarb, lemon and a single restrained drop of rosewater.
+- 1 1/2 | oz | gin
+- 3/4 | oz | rhubarb syrup
+- 3/4 | oz | fresh lemon juice
+- 1 | drop | food-grade rosewater
+- 1 | | small lemon twist, for garnish
+# Add gin, rhubarb syrup, lemon juice and one drop of rosewater to a shaker.
+# Shake with plenty of ice for 15 seconds. Double-strain into a chilled coupe.
+# Express the lemon twist over the glass and add it. This sour has no egg-white foam.
+G coupe | small lemon twist | y | Shake 1 oz rhubarb syrup, 3/4 oz lemon juice, one drop rosewater and 2 oz cooled white tea with ice; strain into a coupe.
+! An original Relish home cocktail. Please drink responsibly. Use culinary rosewater, never fragrance or essential oil.
+T For syrup, simmer 1 cup chopped rhubarb stalks with 1/2 cup each sugar and water for 8 minutes; strain and cool. Discard leaves; they are not edible. This preparation adds about 20 minutes if starting from scratch.
+S Refrigerate homemade rhubarb syrup for up to 5 days. Shake each drink to order.
+@@ vegetarian = same
+@@ vegan = same
+
+@ grape-basil-vodka-spritz | Grape Basil Vodka Spritz | 1 | 5 | 0 | - | Red grape juice, basil and lemon make a sparkling vodka drink with a ruby-purple color.
+- 1 1/2 | oz | vodka
+- 2 | oz | unsweetened red grape juice
+- 1/2 | oz | fresh lemon juice
+- 3 | oz | chilled soda water
+- 3 | | basil leaves
+- 3 | | red grapes, for garnish
+- 1 | | small basil sprig, for garnish
+# Gently press basil leaves with grape juice in a shaker. Add vodka, lemon juice and ice, then shake briefly.
+# Strain into an ice-filled balloon glass. Top with soda and stir gently.
+# Thread the three grapes on a cocktail pick. Add the pick and basil sprig.
+G balloon glass | three red grapes on a pick and small basil sprig | y | Press basil with 3 oz red grape juice, add 1/2 oz lemon juice and ice, strain over fresh ice and top with 3 oz soda water.
+! An original Relish home cocktail. Please drink responsibly.
+T Unsweetened grape juice provides enough sweetness; added syrup is not needed.
+S Chill grape juice and soda ahead. Add basil only when making the drink.
+@@ vegetarian = same
+@@ vegan = same
+
+@ paprika-pork-tenderloin-with-apples | Paprika Pork Tenderloin with Apples | 4 | 15 | 25 | - | Paprika-crusted pork tenderloin roasted with apple wedges, onion and thyme.
+- 1 1/4 | lb | pork tenderloin
+- 2 | | firm apples, cored and cut into wedges
+- 1 | | onion, thinly sliced
+- 2 | tbsp | olive oil, divided
+- 1 1/2 | tsp | sweet paprika
+- 3/4 | tsp | salt, divided
+- 1/4 | tsp | black pepper
+- 4 | | thyme sprigs
+- 1/4 | cup | water
+# Heat oven to 400 F (200 C). Rub pork with paprika, half the salt and black pepper.
+# Heat 1 tbsp oil in an ovenproof skillet over medium-high heat. Brown pork on all sides for about 5 minutes; transfer briefly to a plate.
+# Add remaining oil, apples and onion to the skillet. Cook for 3 minutes, then add water, thyme and remaining salt. Place pork on top.
+# Roast for 15 to 20 minutes or until pork reaches 145 F (63 C). Rest for at least 3 minutes before slicing. Return apples to the oven if they need longer to soften.
+T Tenderloin tapers; tuck the thin end underneath so it cooks evenly. Use a thermometer rather than judging by color.
+S Refrigerate promptly for up to 3 days. Reheat leftovers to 165 F (74 C), adding water to keep the slices moist.
+
+@ turkey-zucchini-feta-burgers | Turkey Zucchini Feta Burgers | 4 | 20 | 15 | milk, eggs, wheat | Juicy turkey burgers with squeezed zucchini and feta, served with tomato, lettuce and dill yogurt in plain buns.
+- 1 | lb | ground turkey
+- 3/4 | cup | grated zucchini, squeezed very dry
+- 1/3 | cup | plain wheat breadcrumbs
+- 1 | | egg
+- 3 | oz | crumbled feta
+- 3/4 | tsp | salt
+- 1/4 | tsp | black pepper
+- 1 | tbsp | olive oil
+- 1/4 | cup | plain yogurt
+- 1 | tbsp | chopped dill
+- 4 | | plain wheat burger buns
+- 4 | | tomato slices
+- 4 | | lettuce leaves
+# Mix turkey, squeezed zucchini, breadcrumbs, egg, feta, salt and pepper gently. Form four equal patties about 3/4 inch thick.
+# Heat oil in a wide skillet over medium heat. Cook patties for 5 to 7 minutes per side, until every center reaches 165 F (74 C). Lower the heat if browning too quickly.
+# Mix yogurt with dill. Toast the buns if desired.
+# Spread yogurt sauce on buns and add lettuce, a cooked patty and tomato. Serve immediately.
+T Squeezing the zucchini prevents loose patties. Read bun and breadcrumb labels for additional ingredients and allergens.
+S Refrigerate cooked patties promptly for up to 3 days. Reheat to 165 F (74 C); assemble burgers only when serving.
+
+@ coconut-red-lentil-spinach-dal | Coconut Red Lentil Spinach Dal | 4 | 10 | 30 | - | A home-style red lentil dal with coconut milk, tomato and spinach, served over basmati rice.
+- 1 | cup | dry red lentils, rinsed
+- 1 | tbsp | neutral oil
+- 1 | | onion, diced
+- 2 | | garlic cloves, minced
+- 1 | tbsp | grated ginger
+- 1 | tsp | ground cumin
+- 1/2 | tsp | ground turmeric
+- 1 | can | diced tomatoes (14 oz)
+- 2 | cups | water
+- 1 | cup | unsweetened coconut milk
+- 4 | cups | baby spinach
+- 3/4 | tsp | salt
+- 3 | cups | cooked basmati rice, hot
+- 2 | tbsp | chopped cilantro
+# Heat oil in a saucepan over medium heat. Soften onion for 5 minutes. Add garlic, ginger, cumin and turmeric and stir for 30 seconds.
+# Add lentils, tomatoes and water. Bring to a boil, then cover partly and simmer for 20 minutes, stirring often, until lentils collapse; add water if thickening too fast.
+# Stir in coconut milk and salt. Simmer for 5 minutes, then fold in spinach until wilted.
+# Serve over hot basmati rice and scatter with cilantro.
+T This is a flexible home-style dal rather than a claim to one regional preparation. The lentils thicken as they cool.
+S Refrigerate dal and rice promptly in shallow containers and use within 3 days. Reheat once until steaming throughout, at least 165 F (74 C).
+@@ vegetarian = same
+@@ vegan = same
+
+@ sheet-pan-tofu-fajita-bowls | Sheet-Pan Tofu Fajita Bowls | 4 | 20 | 25 | soy | Roasted spiced tofu, bell peppers and red onion over rice with avocado, cilantro and lime.
+- 14 | oz | extra-firm tofu, drained and pressed
+- 2 | | bell peppers, cut into strips
+- 1 | | red onion, cut into wedges
+- 2 | tbsp | olive oil
+- 2 | tsp | smoked paprika
+- 1 | tsp | ground cumin
+- 1/2 | tsp | garlic powder
+- 3/4 | tsp | salt
+- 3 | cups | cooked rice, hot
+- 1 | | avocado, sliced
+- 1 | | lime, cut into wedges
+- 2 | tbsp | chopped cilantro
+# Heat oven to 425 F (220 C). Pat tofu dry and cut into 1-inch cubes.
+# Toss tofu, peppers and onion with oil, paprika, cumin, garlic powder and salt. Spread over two sheet pans in one layer.
+# Roast for 22 to 25 minutes, turning halfway, until tofu edges are golden and the vegetables are tender.
+# Divide hot rice among bowls. Add roasted tofu and vegetables, avocado, cilantro and lime wedges.
+T Start with tofu pressed for 15 minutes or ready-pressed tofu; pressing time is included in prep. Keep avocado fresh until serving.
+S Refrigerate tofu, vegetables and rice promptly for up to 3 days. Reheat to 165 F (74 C) and add fresh avocado afterward.
+@@ vegetarian = same
+@@ vegan = same
+
+@ garlic-shrimp-with-lemony-white-beans | Garlic Shrimp with Lemony White Beans | 4 | 15 | 15 | shellfish | Garlic shrimp, cannellini beans and cherry tomatoes simmer briefly in a bright olive-oil lemon sauce.
+- 1 | lb | raw shrimp, peeled and deveined
+- 2 | cans | cannellini beans (15 oz each), drained and rinsed
+- 1 | cup | cherry tomatoes, halved
+- 3 | | garlic cloves, thinly sliced
+- 2 | tbsp | olive oil
+- 1/2 | cup | water
+- 1 | | lemon, zested and juiced
+- 1/2 | tsp | salt
+- 1/4 | tsp | black pepper
+- 2 | tbsp | chopped parsley
+# Pat shrimp dry. Heat oil over medium heat in a wide skillet and soften garlic for 30 seconds without browning.
+# Add tomatoes and cook for 3 minutes. Add beans, water, lemon zest, salt and pepper; simmer for 5 minutes.
+# Nestle shrimp into the beans. Cover and cook for 4 to 6 minutes, turning once, until shrimp are opaque and fully cooked. Do not leave raw centers.
+# Stir in lemon juice and parsley. Serve immediately in shallow bowls.
+T Canned beans are already cooked; a short simmer warms them without breaking them apart. Add water if the pan becomes dry.
+S Refrigerate promptly and use within 2 days. Reheat gently to 165 F (74 C); shrimp may firm up as they reheat.

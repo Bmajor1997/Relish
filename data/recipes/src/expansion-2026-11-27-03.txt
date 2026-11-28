@@ -1,0 +1,178 @@
+@ yuzu-honey-gin-sour | Yuzu Honey Gin Sour | 1 | 6 | 0 | - | Floral honey rounds out the sharp citrus of yuzu in a gin sour served without egg foam.
+- 1 1/2 | oz | gin
+- 3/4 | oz | unsweetened yuzu juice
+- 1/2 | oz | honey syrup
+- 1 |  | narrow lemon twist, for garnish
+# Combine gin, yuzu juice and honey syrup in a shaker.
+# Shake with ice for 15 seconds, then double-strain into a chilled coupe.
+# Express the lemon twist over the drink and add it.
+G coupe | narrow lemon twist | y | Shake 2 oz cooled green tea, 3/4 oz yuzu juice and 1/2 oz honey syrup with ice; strain into a coupe.
+! An original Relish home cocktail. Please drink responsibly.
+T For honey syrup, stir equal volumes honey and warm water until dissolved, then cool. Use food-grade yuzu juice rather than a sweetened concentrate.
+S Prepare to order. Keep juices and brewed teas refrigerated until needed.
+@@ vegetarian = same
+@@ vegan | Yuzu Agave Gin Sour | 6 | 0 | - | A yuzu gin sour sweetened with agave instead of honey.
+~ honey syrup => agave syrup
+G coupe | narrow lemon twist | y | Shake 2 oz cooled green tea, 3/4 oz yuzu juice and 1/2 oz agave syrup with ice; strain into a coupe.
+T For agave syrup, stir equal volumes agave nectar and warm water until combined, then cool. Use food-grade yuzu juice rather than a sweetened concentrate.
+
+@ pomegranate-black-tea-vodka-collins | Pomegranate Black Tea Vodka Collins | 1 | 6 | 0 | - | A long vodka drink with tart pomegranate, black tea and a lemon-soda finish.
+- 1 1/2 | oz | vodka
+- 1 1/2 | oz | unsweetened pomegranate juice
+- 1 | oz | strong brewed black tea, cooled
+- 1/2 | oz | fresh lemon juice
+- 1/2 | oz | simple syrup
+- 2 | oz | chilled soda water
+- 1 |  | lemon wheel, for garnish
+# Shake vodka, pomegranate juice, cooled tea, lemon juice and syrup with ice for 12 seconds.
+# Strain into an ice-filled Collins glass, top with soda and stir gently.
+# Garnish with the lemon wheel.
+G Collins glass | lemon wheel | y | Shake 2 oz pomegranate juice, 2 oz cooled black tea, 1/2 oz lemon juice and 1/4 oz syrup with ice; strain and add 2 oz soda water.
+! An original Relish home cocktail. Please drink responsibly.
+S Prepare to order. Keep juices and brewed teas refrigerated until needed.
+@@ vegetarian = same
+@@ vegan = same
+
+@ pear-ginger-apple-brandy-sour | Pear Ginger Apple Brandy Sour | 1 | 6 | 0 | - | Pear nectar and ginger bring orchard fruit and warmth to an apple-brandy sour.
+- 1 1/2 | oz | apple brandy
+- 2 | oz | pear nectar
+- 3/4 | oz | fresh lemon juice
+- 1/2 | oz | ginger syrup
+- 2 |  | thin pear slices, for garnish
+# Shake apple brandy, pear nectar, lemon juice and ginger syrup with ice for 15 seconds.
+# Strain into a rocks glass over one large ice cube.
+# Fan the two pear slices at the rim.
+G rocks glass | two thin pear slices | y | Shake 3 oz pear nectar, 3/4 oz lemon juice and 1/4 oz ginger syrup with ice; strain over fresh ice.
+! An original Relish home cocktail. Please drink responsibly.
+T Pear nectar varies in sweetness. Start with a little less syrup if the nectar is heavily sweetened.
+S Prepare to order. Keep juices and brewed teas refrigerated until needed.
+@@ vegetarian = same
+@@ vegan = same
+
+@ strawberry-balsamic-bourbon-smash | Strawberry Balsamic Bourbon Smash | 1 | 6 | 0 | - | A splash of balsamic vinegar sharpens ripe strawberries in this bourbon smash.
+- 1 1/2 | oz | bourbon
+- 3 |  | ripe strawberries, hulled and chopped
+- 1/2 | oz | fresh lemon juice
+- 1/4 | oz | simple syrup
+- 1 | tsp | balsamic vinegar
+- 1/2 |  | strawberry, for garnish
+# Muddle the chopped strawberries with syrup and balsamic vinegar in a shaker.
+# Add bourbon, lemon juice and ice. Shake for 15 seconds, then strain into a rocks glass over fresh ice.
+# Garnish with the strawberry half.
+G rocks glass | strawberry half | y | Muddle strawberries with syrup and vinegar; shake with 3/4 oz lemon juice and 2 oz cooled black tea, then strain over ice.
+! An original Relish home cocktail. Please drink responsibly.
+T Use ordinary balsamic vinegar, not a thick sweet glaze.
+S Prepare to order. Keep juices and brewed teas refrigerated until needed.
+@@ vegetarian = same
+@@ vegan = same
+
+@ grapefruit-cardamom-rum-highball | Grapefruit Cardamom Rum Highball | 1 | 6 | 0 | - | White rum, fresh grapefruit and a subtle cardamom syrup make a fragrant highball.
+- 1 1/2 | oz | white rum
+- 2 | oz | pink grapefruit juice
+- 1/2 | oz | fresh lime juice
+- 1/2 | oz | cardamom syrup
+- 2 | oz | chilled soda water
+- 1 |  | grapefruit half-wheel, for garnish
+# Shake rum, grapefruit juice, lime juice and cardamom syrup with ice for 12 seconds.
+# Strain into an ice-filled highball glass and top with soda.
+# Stir gently and add the grapefruit half-wheel.
+G highball glass | grapefruit half-wheel | y | Shake 3 oz grapefruit juice, 1/2 oz lime juice and 1/4 oz cardamom syrup with ice; strain and top with 2 oz soda.
+! An original Relish home cocktail. Please drink responsibly.
+T For syrup, warm 1/2 cup simple syrup with 3 cracked cardamom pods, cover off heat for 15 minutes, strain and cool. Preparation time assumes cooled syrup is ready.
+S Prepare to order. Keep juices and brewed teas refrigerated until needed.
+@@ vegetarian = same
+@@ vegan = same
+
+@ chicken-with-creamy-leeks-and-mustard | Chicken with Creamy Leeks and Mustard | 4 | 15 | 25 | milk | Browned chicken breasts in a modest creamy leek and Dijon sauce.
+- 4 |  | boneless skinless chicken breasts (5 oz each)
+- 2 |  | leeks, white and light-green parts sliced and washed
+- 1 | tbsp | olive oil
+- 1 | tbsp | butter
+- 1/2 | cup | water
+- 1/3 | cup | heavy cream
+- 1 | tbsp | Dijon mustard
+- 3/4 | tsp | salt
+- 1/4 | tsp | black pepper
+- 2 | tbsp | chopped parsley
+# Season chicken with half the salt and all the pepper. Heat oil in a skillet over medium-high heat and brown chicken for 3 minutes per side; set aside.
+# Lower heat, add butter and leeks, and soften for 6 minutes. Add water and scrape up browned bits.
+# Stir in cream, Dijon and remaining salt. Return chicken, cover partly and simmer gently for 8 to 12 minutes, until every breast reaches 165 F (74 C).
+# Rest for 5 minutes. Slice and serve with the leeks, sauce and parsley.
+T Wash between leek layers to remove grit. Keep the sauce at a gentle simmer so it does not split.
+S Refrigerate promptly in shallow containers for up to 3 days. Reheat leftovers to 165 F (74 C).
+
+@ beef-broccoli-udon-skillet | Beef Broccoli Udon Skillet | 4 | 20 | 15 | wheat, soy, sesame | Thick udon noodles with beef strips, broccoli and a glossy ginger-soy glaze.
+- 12 | oz | fresh wheat udon noodles
+- 1 | lb | beef sirloin, thinly sliced across the grain
+- 12 | oz | broccoli florets
+- 2 | tbsp | neutral oil
+- 3 | tbsp | soy sauce
+- 1 | tbsp | rice vinegar
+- 1 | tbsp | brown sugar
+- 1 | tbsp | grated ginger
+- 2 |  | garlic cloves, minced
+- 1 | tsp | cornstarch
+- 1/3 | cup | water
+- 1 | tsp | toasted sesame oil
+- 2 |  | scallions, sliced
+- 1 | tsp | sesame seeds
+# Cook udon according to its package and drain. Whisk soy sauce, vinegar, sugar, ginger, garlic, cornstarch and water.
+# Heat half the neutral oil in a wide skillet over high heat. Sear beef in batches for 2 to 3 minutes, until cooked through; transfer to a plate.
+# Add remaining oil, broccoli and 2 tbsp water. Cover for 3 minutes, then uncover and stir-fry for 2 minutes.
+# Return beef with udon and sauce. Toss over medium heat for 2 minutes until the glaze thickens and beef is fully cooked. Finish with sesame oil, scallions and seeds.
+T Use thin slices cut from a whole sirloin steak, not ground beef. Cook the meat fully; avoid crowding the skillet.
+S Refrigerate promptly in shallow containers for up to 3 days. Reheat leftovers to 165 F (74 C).
+
+@ roasted-beet-lentil-goat-cheese-salad | Roasted Beet Lentil Goat Cheese Salad | 4 | 15 | 40 | milk, tree nuts | Sweet roasted beets, lentils and arugula with goat cheese, walnuts and lemon-mustard dressing.
+- 4 |  | medium beets, peeled and cut into wedges
+- 3 | tbsp | olive oil, divided
+- 2 | cans | green lentils (15 oz each), drained and rinsed
+- 3 | cups | arugula
+- 3 | oz | soft goat cheese, crumbled
+- 1/3 | cup | walnut pieces
+- 1 | tbsp | fresh lemon juice
+- 1 | tsp | Dijon mustard
+- 1/2 | tsp | salt
+- 1/4 | tsp | black pepper
+# Heat oven to 400 F (200 C). Toss beets with 1 tbsp oil and half the salt. Roast for 35 to 40 minutes, turning halfway, until tender.
+# Toast walnuts in a dry skillet over medium-low heat for 3 minutes. Cool.
+# Whisk remaining oil, lemon juice, Dijon, remaining salt and pepper. Toss half the dressing with lentils.
+# Arrange arugula, lentils and warm beets in bowls. Add cheese and walnuts, then drizzle with remaining dressing.
+T Use goat cheese labeled suitable for vegetarians if that matters to you; rennet varies by producer.
+S Refrigerate beets and lentils promptly for up to 3 days. Keep arugula, cheese, walnuts and dressing separate and assemble just before serving.
+
+@ crispy-halloumi-couscous-bowls | Crispy Halloumi Couscous Bowls | 4 | 15 | 10 | milk, wheat | Golden halloumi slices over couscous with cucumber, tomato, mint and lemon.
+- 1 | cup | dry wheat couscous
+- 1 | cup | boiling water
+- 8 | oz | halloumi, cut into 8 slices
+- 2 | tbsp | olive oil, divided
+- 1 |  | cucumber, diced
+- 1 | cup | cherry tomatoes, halved
+- 2 | tbsp | chopped mint
+- 1 |  | lemon, half juiced and half cut into wedges
+- 1/4 | tsp | salt
+- 1/4 | tsp | black pepper
+# Put couscous in a heatproof bowl with salt and boiling water. Cover for 5 minutes, or follow package directions, then fluff.
+# Pat halloumi dry. Heat 1 tbsp oil in a nonstick skillet over medium-high heat and brown slices for 1 to 2 minutes per side.
+# Toss couscous with remaining oil, lemon juice, cucumber, tomatoes, mint and black pepper.
+# Divide among bowls and top each with two hot halloumi slices and a lemon wedge.
+T Halloumi is salty; season the couscous lightly. Select vegetarian-rennet halloumi if required.
+S Keep couscous salad refrigerated for up to 2 days. Halloumi is best cooked just before serving; refrigerate leftovers promptly.
+
+@ green-pea-spinach-risotto | Green Pea Spinach Risotto | 4 | 10 | 30 | milk | Soft arborio rice, green peas and spinach finished with butter and vegetarian hard cheese.
+- 1 | cup | arborio rice
+- 1 | tbsp | olive oil
+- 1 |  | small onion, finely diced
+- 4 | cups | hot vegetable broth
+- 1 1/2 | cups | frozen peas
+- 3 | cups | baby spinach, chopped
+- 1 | tbsp | butter
+- 1/3 | cup | grated vegetarian hard cheese
+- 1/4 | tsp | salt
+- 1/4 | tsp | black pepper
+# Keep broth hot in a small pan. Heat oil in a saucepan over medium heat and soften onion for 5 minutes.
+# Add rice and stir for 1 minute. Add hot broth a ladle at a time, stirring often and letting most absorb before adding more. Cook for 18 to 22 minutes, until tender with a slight bite.
+# Add peas with the last ladle of broth and cook for 3 minutes. Stir in spinach to wilt, then butter and cheese.
+# Season with pepper and salt to taste. Add a little hot water if needed so the risotto flows rather than standing in a mound.
+T Choose a hard cheese labeled vegetarian; traditional Parmesan uses animal rennet. Broth salt levels vary, so season at the end.
+S Refrigerate promptly in shallow containers for up to 3 days. Reheat leftovers to 165 F (74 C).

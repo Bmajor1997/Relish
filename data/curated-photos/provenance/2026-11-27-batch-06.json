@@ -1,0 +1,75 @@
+{
+  "batch": 6,
+  "images": [
+    {
+      "file": "blackberry-balsamic-gin-sour.jpg",
+      "generated_on": "2026-11-27",
+      "method": "OpenAI built-in image generation",
+      "prompt": "Use case: photorealistic-natural. One square editorial food/cocktail photograph for Relish. Single finished serving centered with safe crop margins, realistic textures or condensation, natural side window light, restrained warm kitchen/bar background, shallow depth of field. Eye-level three-quarter for drinks, three-quarter overhead for meals. No people, hands, text, logos, watermark, collage, borders, egg foam or unspecified extras. Subject: Blackberry Balsamic Gin Sour: deep blackberry-purple gin sour served up in a coupe, smooth liquid surface without foam; one blackberry on a cocktail pick across the rim.",
+      "note": "AI-generated representative serving image; not a photograph of a kitchen-tested dish."
+    },
+    {
+      "file": "chicken-artichoke-sun-dried-tomato-rice.jpg",
+      "generated_on": "2026-11-27",
+      "method": "OpenAI built-in image generation",
+      "prompt": "Use case: photorealistic-natural. One square editorial food/cocktail photograph for Relish. Single finished serving centered with safe crop margins, realistic textures or condensation, natural side window light, restrained warm kitchen/bar background, shallow depth of field. Eye-level three-quarter for drinks, three-quarter overhead for meals. No people, hands, text, logos, watermark, collage, borders, egg foam or unspecified extras. Subject: Chicken Artichoke Sun-Dried Tomato Rice: browned boneless chicken thigh over golden long-grain rice with quartered artichoke hearts, chopped sun-dried tomato, onion and wilted green spinach. Rustic ceramic bowl, no cheese or cream.",
+      "note": "AI-generated representative serving image; not a photograph of a kitchen-tested dish."
+    },
+    {
+      "file": "creamy-polenta-with-mushroom-ragout.jpg",
+      "generated_on": "2026-11-27",
+      "method": "OpenAI built-in image generation",
+      "prompt": "Use case: photorealistic-natural. One square editorial food/cocktail photograph for Relish. Single finished serving centered with safe crop margins, realistic textures or condensation, natural side window light, restrained warm kitchen/bar background, shallow depth of field. Eye-level three-quarter for drinks, three-quarter overhead for meals. No people, hands, text, logos, watermark, collage, borders, egg foam or unspecified extras. Subject: Creamy Polenta with Mushroom Ragout: flowing soft yellow polenta with a mound of browned sliced cremini mushrooms, onion and chunky tomato thyme sauce, in a wide shallow white bowl. No bread, meat or herbs beyond tiny thyme flecks.",
+      "note": "AI-generated representative serving image; not a photograph of a kitchen-tested dish."
+    },
+    {
+      "file": "honeydew-basil-vodka-cooler.jpg",
+      "generated_on": "2026-11-27",
+      "method": "OpenAI built-in image generation",
+      "prompt": "Use case: photorealistic-natural. One square editorial food/cocktail photograph for Relish. Single finished serving centered with safe crop margins, realistic textures or condensation, natural side window light, restrained warm kitchen/bar background, shallow depth of field. Eye-level three-quarter for drinks, three-quarter overhead for meals. No people, hands, text, logos, watermark, collage, borders, egg foam or unspecified extras. Subject: Honeydew Basil Vodka Cooler: pale green cloudy honeydew, vodka, lime and soda in an ice-filled highball, exactly one small basil sprig garnish.",
+      "note": "AI-generated representative serving image; not a photograph of a kitchen-tested dish."
+    },
+    {
+      "file": "maple-dijon-salmon-with-brussels-sprouts.jpg",
+      "generated_on": "2026-11-27",
+      "method": "OpenAI built-in image generation",
+      "prompt": "Use case: photorealistic-natural. One square editorial food/cocktail photograph for Relish. Single finished serving centered with safe crop margins, realistic textures or condensation, natural side window light, restrained warm kitchen/bar background, shallow depth of field. Eye-level three-quarter for drinks, three-quarter overhead for meals. No people, hands, text, logos, watermark, collage, borders, egg foam or unspecified extras. Subject: Maple Dijon Salmon with Brussels Sprouts: fully cooked roasted salmon fillet with a thin glossy maple-mustard glaze, beside deeply browned Brussels sprout halves on a pale plate. No rice, lemon garnish or cream.",
+      "note": "AI-generated representative serving image; not a photograph of a kitchen-tested dish."
+    },
+    {
+      "file": "passion-fruit-rosemary-tequila-fizz.jpg",
+      "generated_on": "2026-11-27",
+      "method": "OpenAI built-in image generation",
+      "prompt": "Use case: photorealistic-natural. One square editorial food/cocktail photograph for Relish. Single finished serving centered with safe crop margins, realistic textures or condensation, natural side window light, restrained warm kitchen/bar background, shallow depth of field. Eye-level three-quarter for drinks, three-quarter overhead for meals. No people, hands, text, logos, watermark, collage, borders, egg foam or unspecified extras. Subject: Passion Fruit Rosemary Tequila Fizz: golden yellow passion fruit, tequila, lime and soda over clear ice in a highball; one passion fruit half resting at the rim, no rosemary garnish.",
+      "note": "AI-generated representative serving image; not a photograph of a kitchen-tested dish."
+    },
+    {
+      "file": "raspberry-mint-brandy-sour.jpg",
+      "generated_on": "2026-11-27",
+      "method": "OpenAI built-in image generation",
+      "prompt": "Use case: photorealistic-natural. One square editorial food/cocktail photograph for Relish. Single finished serving centered with safe crop margins, realistic textures or condensation, natural side window light, restrained warm kitchen/bar background, shallow depth of field. Eye-level three-quarter for drinks, three-quarter overhead for meals. No people, hands, text, logos, watermark, collage, borders, egg foam or unspecified extras. Subject: Raspberry Mint Brandy Sour: reddish-pink raspberry, brandy and lemon sour over clear ice in a rocks glass; one small mint sprig and exactly two raspberries on a cocktail pick.",
+      "note": "AI-generated representative serving image; not a photograph of a kitchen-tested dish."
+    },
+    {
+      "file": "shawarma-spiced-chickpea-pitas.jpg",
+      "generated_on": "2026-11-27",
+      "method": "OpenAI built-in image generation",
+      "prompt": "Use case: photorealistic-natural. One square editorial food/cocktail photograph for Relish. Single finished serving centered with safe crop margins, realistic textures or condensation, natural side window light, restrained warm kitchen/bar background, shallow depth of field. Eye-level three-quarter for drinks, three-quarter overhead for meals. No people, hands, text, logos, watermark, collage, borders, egg foam or unspecified extras. Subject: Shawarma-Spiced Chickpea Pitas: two halves of a soft wheat pita pocket filled with roasted cumin-paprika chickpeas, shredded lettuce, diced cucumber and quartered cherry tomatoes, a modest beige lemon-tahini drizzle. White plate, no meat, cheese or fries.",
+      "note": "AI-generated representative serving image; not a photograph of a kitchen-tested dish."
+    },
+    {
+      "file": "tangerine-ginger-bourbon-highball.jpg",
+      "generated_on": "2026-11-27",
+      "method": "OpenAI built-in image generation",
+      "prompt": "Use case: photorealistic-natural. One square editorial food/cocktail photograph for Relish. Single finished serving centered with safe crop margins, realistic textures or condensation, natural side window light, restrained warm kitchen/bar background, shallow depth of field. Eye-level three-quarter for drinks, three-quarter overhead for meals. No people, hands, text, logos, watermark, collage, borders, egg foam or unspecified extras. Subject: Tangerine Ginger Bourbon Highball: natural orange-gold bourbon, tangerine juice, lemon, ginger syrup and soda in an ice-filled highball; one thin tangerine wheel.",
+      "note": "AI-generated representative serving image; not a photograph of a kitchen-tested dish."
+    },
+    {
+      "file": "warm-farro-squash-cranberry-salad.jpg",
+      "generated_on": "2026-11-27",
+      "method": "OpenAI built-in image generation",
+      "prompt": "Use case: photorealistic-natural. One square editorial food/cocktail photograph for Relish. Single finished serving centered with safe crop margins, realistic textures or condensation, natural side window light, restrained warm kitchen/bar background, shallow depth of field. Eye-level three-quarter for drinks, three-quarter overhead for meals. No people, hands, text, logos, watermark, collage, borders, egg foam or unspecified extras. Subject: Warm Farro Squash Cranberry Salad: chewy tan farro grains with orange roasted butternut squash cubes, dark-red dried cranberries and toasted pecan pieces over fresh arugula, lightly dressed. Wide cream bowl, no cheese or meat.",
+      "note": "AI-generated representative serving image; not a photograph of a kitchen-tested dish."
+    }
+  ]
+}

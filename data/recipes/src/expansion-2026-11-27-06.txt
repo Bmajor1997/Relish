@@ -1,0 +1,189 @@
+@ raspberry-mint-brandy-sour | Raspberry Mint Brandy Sour | 1 | 6 | 0 | - | Raspberries and gently pressed mint brighten a lemon-brandy sour.
+- 1 1/2 | oz | brandy
+- 6 |  | raspberries
+- 4 |  | mint leaves
+- 3/4 | oz | fresh lemon juice
+- 1/2 | oz | simple syrup
+- 1 |  | small mint sprig, for garnish
+- 2 |  | raspberries, for garnish
+# Press raspberries and mint gently with syrup in a shaker.
+# Add brandy, lemon and ice; shake for 15 seconds and fine-strain into a rocks glass over fresh ice.
+# Garnish with the mint sprig and two raspberries on a pick.
+G rocks glass | small mint sprig and two raspberries | y | Muddle raspberries and mint with syrup; shake with 3/4 oz lemon juice and 2 oz cooled black tea, then strain over ice.
+! An original Relish home cocktail. Please drink responsibly.
+T Use a gentle press for mint and a fine sieve for raspberry seeds.
+S Prepare to order. Keep juices and brewed teas refrigerated until needed.
+@@ vegetarian = same
+@@ vegan = same
+
+@ honeydew-basil-vodka-cooler | Honeydew Basil Vodka Cooler | 1 | 6 | 0 | - | Pale green honeydew, basil and lime make a light vodka cooler.
+- 1 1/2 | oz | vodka
+- 1/2 | cup | ripe honeydew melon cubes
+- 4 |  | basil leaves
+- 1/2 | oz | fresh lime juice
+- 1/4 | oz | simple syrup
+- 2 | oz | chilled soda water
+- 1 |  | small basil sprig, for garnish
+# Muddle honeydew and basil with syrup until juicy.
+# Add vodka, lime and ice, shake for 15 seconds and fine-strain into an ice-filled highball.
+# Top with soda and add the basil sprig.
+G highball glass | small basil sprig | y | Muddle honeydew and basil with syrup; shake with 3/4 oz lime juice and ice, strain and top with 4 oz soda.
+! An original Relish home cocktail. Please drink responsibly.
+T Choose sweet ripe honeydew; firm unripe melon makes a weak-flavored drink.
+S Prepare to order. Keep juices and brewed teas refrigerated until needed.
+@@ vegetarian = same
+@@ vegan = same
+
+@ blackberry-balsamic-gin-sour | Blackberry Balsamic Gin Sour | 1 | 6 | 0 | - | Blackberries and a little balsamic vinegar give a gin sour a deep berry color.
+- 1 1/2 | oz | gin
+- 5 |  | blackberries
+- 3/4 | oz | fresh lemon juice
+- 1/2 | oz | simple syrup
+- 1 | tsp | balsamic vinegar
+- 1 |  | blackberry, for garnish
+# Muddle five blackberries with syrup and vinegar.
+# Add gin, lemon and ice, shake firmly for 15 seconds and double-strain into a chilled coupe.
+# Add one blackberry on a cocktail pick.
+G coupe | one blackberry on a pick | y | Muddle blackberries with syrup and vinegar, shake with 3/4 oz lemon juice and 2 oz cooled white tea, then double-strain into a coupe.
+! An original Relish home cocktail. Please drink responsibly.
+T Use ordinary balsamic vinegar rather than a thick glaze. The drink is served without a foam cap.
+S Prepare to order. Keep juices and brewed teas refrigerated until needed.
+@@ vegetarian = same
+@@ vegan = same
+
+@ tangerine-ginger-bourbon-highball | Tangerine Ginger Bourbon Highball | 1 | 6 | 0 | - | Bourbon, tangerine and ginger make a bright, lightly sparkling highball.
+- 1 1/2 | oz | bourbon
+- 2 | oz | fresh tangerine juice
+- 1/2 | oz | fresh lemon juice
+- 1/4 | oz | ginger syrup
+- 2 | oz | chilled soda water
+- 1 |  | tangerine wheel, for garnish
+# Shake bourbon, tangerine juice, lemon and ginger syrup with ice for 12 seconds.
+# Strain into an ice-filled highball glass and top with soda.
+# Stir gently and add the tangerine wheel.
+G highball glass | tangerine wheel | y | Shake 3 oz tangerine juice, 1/2 oz lemon juice and 1/4 oz ginger syrup with ice; strain and add 3 oz soda.
+! An original Relish home cocktail. Please drink responsibly.
+S Prepare to order. Keep juices and brewed teas refrigerated until needed.
+@@ vegetarian = same
+@@ vegan = same
+
+@ passion-fruit-rosemary-tequila-fizz | Passion Fruit Rosemary Tequila Fizz | 1 | 6 | 0 | - | Passion fruit, rosemary and lime give a tequila fizz a sharp tropical finish.
+- 1 1/2 | oz | blanco tequila
+- 1 | oz | unsweetened passion fruit puree
+- 3/4 | oz | fresh lime juice
+- 1/2 | oz | simple syrup
+- 1 |  | small rosemary sprig
+- 2 | oz | chilled soda water
+- 1/2 |  | passion fruit, for garnish
+# Press rosemary lightly with syrup in a shaker.
+# Add tequila, passion fruit puree, lime and ice. Shake for 15 seconds and fine-strain into an ice-filled highball.
+# Top with soda and garnish with the passion fruit half resting at the rim.
+G highball glass | passion fruit half | y | Shake passion fruit puree, lime, syrup and rosemary without tequila; strain and top with 4 oz soda.
+! An original Relish home cocktail. Please drink responsibly.
+T Puree means unsweetened fruit, not a premixed cocktail syrup; adjust sweetness only after tasting.
+S Prepare to order. Keep juices and brewed teas refrigerated until needed.
+@@ vegetarian = same
+@@ vegan = same
+
+@ chicken-artichoke-sun-dried-tomato-rice | Chicken Artichoke Sun-Dried Tomato Rice | 4 | 15 | 40 | - | Chicken thighs and rice cook together with artichokes, sun-dried tomatoes and spinach.
+- 1 1/2 | lb | boneless skinless chicken thighs
+- 1 | cup | long-grain white rice, rinsed
+- 1 | can | artichoke hearts (14 oz), drained and quartered
+- 1/4 | cup | oil-packed sun-dried tomatoes, drained and chopped
+- 1 |  | onion, diced
+- 2 |  | garlic cloves, minced
+- 1 | tbsp | olive oil
+- 2 | cups | water
+- 2 | cups | baby spinach
+- 1 | tsp | dried oregano
+- 3/4 | tsp | salt
+- 1/4 | tsp | black pepper
+# Season chicken with half the salt and pepper. Brown in oil in a deep lidded skillet over medium-high heat for 3 minutes per side; set aside.
+# Soften onion for 5 minutes. Add garlic, oregano and rice and stir for 1 minute. Add water, artichokes, tomatoes and remaining salt.
+# Place chicken on top, bring to a simmer, cover tightly and cook over low heat for 20 minutes, until rice is tender and chicken reaches 165 F (74 C). Add a splash of water and cook longer if needed.
+# Rest covered off heat for 5 minutes, then fold spinach gently into the hot rice to wilt.
+T Use a skillet with a tight lid. Resist lifting it repeatedly while the rice cooks.
+S Refrigerate promptly in shallow containers for up to 3 days. Reheat leftovers to 165 F (74 C).
+
+@ maple-dijon-salmon-with-brussels-sprouts | Maple Dijon Salmon with Brussels Sprouts | 4 | 15 | 30 | fish | Roasted salmon glazed with maple and mustard, served with browned Brussels sprouts.
+- 4 |  | salmon fillets (5 oz each)
+- 1 | lb | Brussels sprouts, trimmed and halved
+- 2 | tbsp | olive oil
+- 2 | tbsp | maple syrup
+- 1 | tbsp | Dijon mustard
+- 1 | tbsp | fresh lemon juice
+- 1/2 | tsp | salt
+- 1/4 | tsp | black pepper
+# Heat oven to 425 F (220 C). Toss sprouts with oil, half the salt and pepper. Spread on a sheet pan cut-side down and roast for 15 minutes.
+# Whisk maple syrup, Dijon and lemon juice. Season salmon with remaining salt and brush with the glaze.
+# Move sprouts to the sides, add salmon and roast for 10 to 15 minutes, until fish reaches 145 F (63 C) and sprouts are tender.
+# Divide fish and sprouts among plates and spoon over the cooked pan juices.
+T Use a separate brush or spoon for raw fish; do not serve uncooked glaze that has touched it.
+S Refrigerate promptly and use within 2 days. Reheat leftovers to 165 F (74 C).
+
+@ warm-farro-squash-cranberry-salad | Warm Farro Squash Cranberry Salad | 4 | 15 | 35 | wheat, tree nuts | Chewy farro, roasted butternut squash, dried cranberries and pecans over arugula.
+- 1 | cup | dry farro wheat
+- 3 | cups | water
+- 1 |  | small butternut squash (about 2 lb), peeled and cubed
+- 3 | tbsp | olive oil, divided
+- 1/3 | cup | dried cranberries
+- 1/3 | cup | pecan pieces
+- 3 | cups | arugula
+- 2 | tbsp | apple cider vinegar
+- 1 | tsp | maple syrup
+- 3/4 | tsp | salt
+- 1/4 | tsp | black pepper
+# Heat oven to 425 F (220 C). Toss squash with 1 tbsp oil and half the salt. Roast for 25 to 30 minutes, turning once, until tender.
+# Simmer farro in water for 25 to 35 minutes, or according to its package, until tender but chewy. Drain.
+# Toast pecans in a dry skillet for 3 minutes. Whisk remaining oil with vinegar, maple syrup, remaining salt and pepper.
+# Toss warm farro and squash with dressing and cranberries. Serve over arugula with pecans.
+T Farro is wheat and is not gluten-free. Toast nuts gently and keep them moving to avoid scorching.
+S Refrigerate farro and squash promptly for up to 3 days. Store arugula and pecans separately and assemble just before serving.
+@@ vegetarian = same
+@@ vegan = same
+
+@ creamy-polenta-with-mushroom-ragout | Creamy Polenta with Mushroom Ragout | 4 | 15 | 35 | milk | Soft polenta topped with mushrooms simmered in a thyme-tomato ragout.
+- 1 | cup | coarse polenta cornmeal
+- 2 | cups | milk
+- 2 | cups | water
+- 1 | tbsp | butter
+- 1/3 | cup | grated vegetarian hard cheese
+- 1 | lb | cremini mushrooms, sliced
+- 1 |  | onion, diced
+- 2 |  | garlic cloves, minced
+- 1 | can | diced tomatoes (14 oz)
+- 1 | tbsp | olive oil
+- 1 | tsp | dried thyme
+- 3/4 | tsp | salt
+- 1/4 | tsp | black pepper
+# Bring milk and water just to a simmer in a heavy pan. Whisk in polenta and half the salt. Cook over low heat, stirring often, for 25 to 35 minutes or its package time until soft; add water if needed.
+# Meanwhile brown mushrooms in oil in a wide skillet over medium-high heat for 8 minutes. Add onion for 5 minutes, then garlic and thyme for 30 seconds.
+# Add tomatoes, remaining salt and pepper and simmer for 10 minutes.
+# Stir butter and cheese into polenta. Divide among bowls and spoon mushroom ragout over the top.
+T Use coarse cornmeal labeled polenta and follow its cooking time. Choose a hard cheese labeled vegetarian if needed.
+S Refrigerate promptly in shallow containers for up to 3 days. Reheat leftovers to 165 F (74 C).
+
+@ shawarma-spiced-chickpea-pitas | Shawarma-Spiced Chickpea Pitas | 4 | 15 | 25 | wheat, sesame | Roasted spiced chickpeas in warm pitas with crisp vegetables and lemon tahini sauce.
+- 2 | cans | chickpeas (15 oz each), drained and rinsed
+- 2 | tbsp | olive oil
+- 1 | tsp | ground cumin
+- 1 | tsp | ground coriander
+- 1 | tsp | sweet paprika
+- 1/4 | tsp | ground cinnamon
+- 1/2 | tsp | salt
+- 4 |  | wheat pita breads
+- 1 |  | cucumber, diced
+- 1 | cup | cherry tomatoes, quartered
+- 2 | cups | shredded lettuce
+- 2 | tbsp | tahini
+- 2 | tbsp | fresh lemon juice
+- 2 | tbsp | water
+- 1/2 |  | small garlic clove, finely grated
+# Heat oven to 425 F (220 C). Pat chickpeas dry and toss with oil, cumin, coriander, paprika, cinnamon and salt. Roast for 20 to 25 minutes, shaking once.
+# Whisk tahini, lemon juice, water and garlic until smooth; add water a teaspoon at a time if too thick.
+# Warm pitas according to the package and split them to form pockets.
+# Fill with lettuce, cucumber, tomatoes and chickpeas, then drizzle with tahini sauce.
+T These are chickpea-filled home pitas using a shawarma-inspired spice mix, rather than meat shawarma. Tahini contains sesame.
+S Refrigerate chickpeas and cut vegetables promptly for up to 3 days; store separately from pitas and sauce. Reheat chickpeas to 165 F (74 C).
+@@ vegetarian = same
+@@ vegan = same

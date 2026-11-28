@@ -459,6 +459,12 @@
       "why": "the meat or fish is the dish itself; a meat-free version would be a different dish"
     }
   },
+  "tangerine-pink-pepper-gin-collins": {
+    "nut-free": {
+      "status": "review",
+      "why": "pink peppercorn can cross-react with cashew or pistachio allergy; this recipe is not verified nut-free"
+    }
+  },
   "thai-green-curry": {
     "nut-free": {
       "status": "none",
