@@ -150,6 +150,14 @@ class RecipeQualityTests(unittest.TestCase):
         meal = make_recipe(cook_minutes=60, steps=["Roast 1 hour 10 minutes to 1 hour 20 minutes, until 165°F."])
         self.assertTrue(any("cook time" in p for p in self.problems(meal)))
 
+    def test_waiting_words_only_cover_their_own_time(self):
+        self.assertEqual(quality.active_minutes("Bake for 30 to 35 minutes and cool completely."), [35])
+        self.assertEqual(quality.active_minutes("Bake 50 minutes, add the rest of the glaze and bake 10 minutes more."), [50, 10])
+        self.assertEqual(quality.active_minutes("Let it sit for at least 30 minutes, or up to 2 hours."), [])
+        self.assertEqual(quality.active_minutes("Marinate the chicken in soy and 1/4 cup coconut milk for 1 hour."), [])
+        cake = make_recipe(cook_minutes=10, steps=["Bake for 30 to 35 minutes and cool completely."])
+        self.assertTrue(any("cook time" in p for p in self.problems(cake)))
+
     def test_step_longer_than_the_cook_time(self):
         meal = make_recipe(cook_minutes=75, steps=["Marinate overnight.", "Cover and bake at 350°F for 1 1/2 hours."])
         self.assertTrue(any("cook time" in p for p in self.problems(meal)))

@@ -28,8 +28,11 @@ GROUND = r"\b(ground|minced)\s+(beef|pork|lamb|veal|goat|meat|chicken|turkey|chu
 POULTRY_STEP = r"\b(chicken|turkey|duck|hens?|quail|thighs?|breasts?|drumsticks?|wings?|legs?|meat|bird)\b"
 MEAT_STEP = r"\b(beef|pork|lamb|veal|goat|turkey|chicken|meat|meats|chuck|meatballs?|patties|filling|kofta|kibbeh)\b"
 LONG_COOK = r"\b(simmer|braise|bake|roast|stew|steam|slow cooker|cook on low|smoke)\w*"
-WAITING = r"\b(marinat|soak|chill|refrigerat|rest|stand|cool|overnight|rise|proof|freez|sit|steep|room temperature|heat the oven|" \
-          r"preheat|heat a smoker|drain|thaw|brine|cure|set aside)"
+WAITING = r"\b(marinat\w*|soak\w*|chill\w*|refrigerat\w*|rest(?:s|ing)?\b(?! of)|stand\w*|cool\w*|overnight|rise|rising|" \
+          r"proof\w*|freez\w*|sit|sits|sitting|steep\w*|room temperature|heat the oven|preheat\w*|heat a smoker|drain\w*|" \
+          r"thaw\w*|brine|brining|cure|curing|set aside|let it|let them)"
+COOKING = r"\b(bake|roast|simmer|cook|boil|fry|grill|broil|steam|braise|smoke|toast|sear|brown|poach|stew|stir-fry|blend|" \
+          r"shake|stir|whisk|heat|warm|reduce)\w*"
 WORDS = {"one": 1, "two": 2, "three": 3, "four": 4}
 
 
@@ -42,8 +45,8 @@ def versions(recipes):
                 yield f"{stem}~{diet}", entry["kind"], recipe
 
 
-def minutes(text):
-    """Every duration in a sentence, in minutes, taking the top of a range ("15 to 20 minutes" -> 20)."""
+def timed(text):
+    """Every duration in a sentence as (minutes, start, end), taking the top of a range ("15 to 20 minutes" -> 20)."""
     found = []
     # "1 hour 10 minutes" is one duration of 70 minutes, not 60 and 10.
     text = re.sub(r"\b(\d+) hours? (?:and )?(\d+) minutes?\b", lambda m: f"{int(m.group(1)) * 60 + int(m.group(2))} minutes", text)
@@ -57,8 +60,12 @@ def minutes(text):
             if "/" in whole:
                 frac, whole = whole, "0"
             value = int(whole) + (int(frac.split("/")[0]) / int(frac.split("/")[1]) if frac else 0)
-        found.append(value * 60 if m.group(3).lower().startswith("h") else value)
+        found.append((value * 60 if m.group(3).lower().startswith("h") else value, m.start(), m.end(), text))
     return found
+
+
+def minutes(text):
+    return [value for value, *_ in timed(text)]
 
 
 def sentences(steps):
@@ -118,8 +125,24 @@ def safety_problems(name, kind, r):
     return problems
 
 
+def active_minutes(sentence):
+    """Durations of cooking, not waiting. Each duration is judged by the words since the previous one, so "Bake for 30
+    minutes and cool completely" counts 30, while "Marinate ... for 1 hour" and "sit 30 minutes, or up to 2 hours" don't."""
+    out, waiting, last = [], False, 0
+    for value, start, end, text in timed(sentence):
+        context = text[last:end]
+        if re.search(WAITING, context, re.I):
+            waiting = True
+        elif re.search(COOKING, context, re.I):
+            waiting = False
+        if not waiting:
+            out.append(value)
+        last = end
+    return out
+
+
 def time_problems(name, r):
-    longest = max([max(minutes(s)) for s in sentences(r["steps"]) if minutes(s) and not re.search(WAITING, s, re.I)] or [0])
+    longest = max([max(active_minutes(s) or [0]) for s in sentences(r["steps"])] or [0])
     allowed = r["cook_minutes"] * 1.1 + 5
     if longest > allowed:
         return [f"{name}: a step takes {longest:g} minutes but the cook time is {r['cook_minutes']} minutes"]
