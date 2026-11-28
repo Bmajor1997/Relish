@@ -546,7 +546,7 @@
     "tips": [
      "The three potatoes each do a job: russets dissolve to thicken, red potatoes hold their shape, and the little yellow ones add buttery flavor.",
      "Guascas gives ajiaco its signature taste. Look for it dried in Latin markets; dried oregano is a distant but workable stand-in.",
-     "Keep the chicken at a gentle simmer so it stays tender enough to shred."
+     "Keep the soup at a gentle simmer so the beans stay whole while the russets melt."
     ],
     "make_ahead": "Keeps 3 days in the fridge and thickens as it sits; thin it with water when reheating. Add the cream, capers and avocado only when serving.",
     "variations": []
@@ -649,9 +649,9 @@
     "tips": [
      "The three potatoes each do a job: russets dissolve to thicken, red potatoes hold their shape, and the little yellow ones add buttery flavor.",
      "Guascas gives ajiaco its signature taste. Look for it dried in Latin markets; dried oregano is a distant but workable stand-in.",
-     "Keep the chicken at a gentle simmer so it stays tender enough to shred."
+     "Keep the soup at a gentle simmer so the beans stay whole while the russets melt."
     ],
-    "make_ahead": "Keeps 3 days in the fridge and thickens as it sits; thin it with water when reheating. Add the cream, capers and avocado only when serving.",
+    "make_ahead": "Keeps 3 days in the fridge and thickens as it sits; thin it with water when reheating. Add the cashew cream, capers and avocado only when serving.",
     "variations": []
    }
   }
@@ -2152,7 +2152,7 @@
    ],
    "steps": [
     "Heat the oven to 375°F. Cook the ziti 2 minutes less than the package says.",
-    "Brown the sausage and stir in the marinara and oregano.",
+    "Brown the sausage until cooked through (160°F) and stir in the marinara and oregano.",
     "Toss the pasta with the sauce and dollop half into a baking dish. Add spoonfuls of ricotta and half the mozzarella.",
     "Add the rest of the pasta and top with the remaining mozzarella and Parmesan.",
     "Cover with foil and bake 20 minutes, uncover and bake 10 minutes more. Top with basil."
@@ -2915,7 +2915,7 @@
     }
    ],
    "steps": [
-    "Brown the beef, drain the fat, then stir in the taco seasoning and 1/3 cup water and simmer 5 minutes.",
+    "Brown the beef until cooked through (160°F), drain the fat, then stir in the taco seasoning and 1/3 cup water and simmer 5 minutes.",
     "Warm the beans and the tortillas.",
     "Fill each tortilla with rice, beef, beans, cheese, salsa, sour cream and lettuce.",
     "Fold in the sides and roll up tightly. Toast seam side down in a dry skillet for 1 minute if you like."
@@ -2987,7 +2987,7 @@
     }
    ],
    "steps": [
-    "Cook the onion and pepper until soft, add the beef and spices and cook through. Stir in the olives and cool.",
+    "Cook the onion and pepper until soft, add the beef and spices and cook through (160°F). Stir in the olives and cool.",
     "Heat the oven to 400°F.",
     "Fill each round with beef and a little egg, fold over and crimp the edges.",
     "Brush with beaten egg and bake 20 to 25 minutes until golden."
@@ -3066,7 +3066,7 @@
    "steps": [
     "Knead the meat with the onion, parsley, garlic, spices and salt until sticky.",
     "Shape around skewers into long sausages.",
-    "Grill over medium-high heat 10 to 12 minutes, turning, until cooked.",
+    "Grill over medium-high heat 10 to 12 minutes, turning, until cooked through (160°F).",
     "Serve with the yogurt sauce, flatbread and salad."
    ],
    "allergens": [
@@ -3404,7 +3404,7 @@
     }
    ],
    "steps": [
-    "Brown the beef and onion and drain the fat.",
+    "Brown the beef and onion until cooked through (160°F) and drain the fat.",
     "Add the spices, salt and tomato sauce and simmer 5 minutes.",
     "Warm the shells and fill with beef, lettuce, cheese, salsa and sour cream."
    ],
@@ -3487,7 +3487,9 @@
    ],
    "cocktail": null,
    "note": "A representative home version. Restaurants and regions make it in many ways, and this isn't any one restaurant's recipe.",
-   "tips": [],
+   "tips": [
+    "USDA's safe minimum for beef roasts is 145°F with a 3-minute rest. 125°F out of the oven gives medium-rare after resting."
+   ],
    "make_ahead": "",
    "variations": []
   }
@@ -3866,7 +3868,9 @@
    ],
    "cocktail": null,
    "note": "A representative home version. Restaurants and regions make it in many ways, and this isn't any one restaurant's recipe.",
-   "tips": [],
+   "tips": [
+    "Sunny-side-up eggs have runny yolks. For anyone pregnant, older or with a weakened immune system, cook them until firm or use pasteurized eggs."
+   ],
    "make_ahead": "",
    "variations": []
   }
@@ -4370,7 +4374,7 @@
     "Add the chicken to the pot with the remaining onions and cook 15 minutes until almost done.",
     "Boil the rice in salted water with the cardamom and bay leaf for 5 minutes, until 70 percent cooked, then drain.",
     "Layer the rice over the chicken, top with the reserved onions, herbs and saffron milk.",
-    "Cover tightly and cook on very low heat for 25 minutes. Gently mix before serving."
+    "Cover tightly and cook on very low heat for 25 minutes, until the chicken reaches 165°F. Gently mix before serving."
    ],
    "allergens": [
     "milk"
@@ -4650,7 +4654,7 @@
    "cook_minutes": 0,
    "ingredients": [
     {
-     "amount": "1½",
+     "amount": "1 1/2",
      "unit": "oz",
      "item": "vodka"
     },
@@ -4660,12 +4664,12 @@
      "item": "blackberries"
     },
     {
-     "amount": "¾",
+     "amount": "3/4",
      "unit": "oz",
      "item": "lemon juice"
     },
     {
-     "amount": "½",
+     "amount": "1/2",
      "unit": "oz",
      "item": "lavender syrup"
     },
@@ -4688,7 +4692,7 @@
    "steps": [
     "Muddle blackberries with syrup.",
     "Shake with vodka, lemon and ice; fine-strain into a tall ice-filled glass, top with soda and garnish.",
-    "For syrup, steep ½ tsp culinary lavender in ½ cup hot simple syrup for 5 minutes; strain and cool."
+    "For syrup, steep 1/2 tsp culinary lavender in 1/2 cup hot simple syrup for 5 minutes; strain and cool."
    ],
    "allergens": [],
    "cocktail": {
@@ -4917,7 +4921,7 @@
    "cook_minutes": 0,
    "ingredients": [
     {
-     "amount": "1½",
+     "amount": "1 1/2",
      "unit": "oz",
      "item": "vodka"
     },
@@ -4927,12 +4931,12 @@
      "item": "blood orange juice"
     },
     {
-     "amount": "½",
+     "amount": "1/2",
      "unit": "oz",
      "item": "lemon juice"
     },
     {
-     "amount": "¼",
+     "amount": "1/4",
      "unit": "oz",
      "item": "simple syrup"
     },
@@ -5486,7 +5490,7 @@
    "cook_minutes": 0,
    "ingredients": [
     {
-     "amount": "1½",
+     "amount": "1 1/2",
      "unit": "oz",
      "item": "whiskey"
     },
@@ -5496,12 +5500,12 @@
      "item": "blueberries"
     },
     {
-     "amount": "¾",
+     "amount": "3/4",
      "unit": "oz",
      "item": "lemon juice"
     },
     {
-     "amount": "½",
+     "amount": "1/2",
      "unit": "oz",
      "item": "simple syrup"
     },
@@ -6015,6 +6019,11 @@
      "amount": "1",
      "unit": "dash",
      "item": "Angostura bitters"
+    },
+    {
+     "amount": "",
+     "unit": "",
+     "item": "sugar, for the rim"
     }
    ],
    "steps": [
@@ -6671,7 +6680,7 @@
    "steps": [
     "Make the blue cheese dip: mix the mayonnaise, sour cream, blue cheese, lemon juice and garlic with a pinch of salt and pepper. Chill until needed.",
     "Pat the wings very dry with paper towels and season with the salt.",
-    "Heat 2 inches of oil in a heavy pot to 375°F. Fry the wings in batches for 10 to 12 minutes, until golden, very crisp and cooked through. Drain on a rack.",
+    "Heat 2 inches of oil in a heavy pot to 375°F. Fry the wings in batches for 10 to 12 minutes, until golden, very crisp and cooked through (165°F). Drain on a rack.",
     "Meanwhile, melt the butter with the hot sauce in a small pan, whisking to combine. Keep it warm.",
     "Toss the hot wings in a large bowl with the sauce until well coated.",
     "Serve right away with the celery sticks and blue cheese dip."
@@ -6753,7 +6762,7 @@
    ],
    "steps": [
     "Mix the pork with 1 tbsp fish sauce, 1 tbsp sugar, shallots, half the garlic and the pepper. Shape into small patties.",
-    "Grill or broil the patties until charred and cooked, about 4 minutes per side.",
+    "Grill or broil the patties until charred and cooked through (160°F), about 4 minutes per side.",
     "Stir the remaining fish sauce, sugar and garlic with the lime juice and warm water for the dipping broth.",
     "Put the patties in bowls of the broth and serve with noodles, herbs and pickles to dip."
    ],
@@ -6841,7 +6850,7 @@
     "Marinate the chicken in the yogurt, ginger-garlic paste, 1 tsp garam masala and the chile powder for 30 minutes.",
     "Sear the chicken in 1 tbsp butter until browned. Set aside.",
     "Melt the remaining butter and cook the onion until soft. Add the tomato puree and simmer 10 minutes.",
-    "Blend the sauce smooth if you like, then add the chicken and simmer 10 minutes.",
+    "Blend the sauce smooth if you like, then add the chicken and simmer 10 minutes, until it reaches 165°F.",
     "Stir in the cream, remaining garam masala, crushed fenugreek, sugar and salt. Top with cilantro and serve with rice or naan."
    ],
    "allergens": [
@@ -7000,7 +7009,7 @@
    "description": "Cabbage leaves rolled around beef and rice, baked in a sweet-sour tomato sauce.",
    "servings": 6,
    "prep_minutes": 40,
-   "cook_minutes": 75,
+   "cook_minutes": 105,
    "ingredients": [
     {
      "amount": "1",
@@ -7101,6 +7110,11 @@
      "amount": "1/2",
      "unit": "oz",
      "item": "simple syrup"
+    },
+    {
+     "amount": "",
+     "unit": "",
+     "item": "cinnamon sugar, for the rim"
     }
    ],
    "steps": [
@@ -7442,12 +7456,12 @@
      "item": "salt-free Cajun seasoning"
     },
     {
-     "amount": "½",
+     "amount": "1/2",
      "unit": "tsp",
      "item": "salt, divided"
     },
     {
-     "amount": "1½",
+     "amount": "1 1/2",
      "unit": "cups",
      "item": "corn kernels"
     },
@@ -7631,7 +7645,7 @@
     "tips": [
      "The smoked paprika oil brings the smoky, rosy flavor that the sausage normally gives."
     ],
-    "make_ahead": "The potato base keeps 3 days in the fridge or 3 months frozen. Add freshly cut greens and the sausage when reheating.",
+    "make_ahead": "The potato base keeps 3 days in the fridge or 3 months frozen. Add freshly cut greens and the white beans when reheating.",
     "variations": []
    },
    "vegan": {
@@ -7705,7 +7719,7 @@
     "tips": [
      "The smoked paprika oil brings the smoky, rosy flavor that the sausage normally gives."
     ],
-    "make_ahead": "The potato base keeps 3 days in the fridge or 3 months frozen. Add freshly cut greens and the sausage when reheating.",
+    "make_ahead": "The potato base keeps 3 days in the fridge or 3 months frozen. Add freshly cut greens and the white beans when reheating.",
     "variations": []
    }
   }
@@ -9242,7 +9256,7 @@
    "steps": [
     "Shape the beef into 4 patties slightly wider than the buns, with a dimple in the middle.",
     "Heat a skillet or grill until very hot and season the patties.",
-    "Cook 3 to 4 minutes, flip, add the cheese and cook 2 to 3 minutes more.",
+    "Cook 3 to 4 minutes, flip, add the cheese and cook 2 to 3 minutes more, until 160°F in the center.",
     "Serve on the toasted buns with your toppings."
    ],
    "allergens": [
@@ -9365,7 +9379,7 @@
    "cook_minutes": 0,
    "ingredients": [
     {
-     "amount": "1½",
+     "amount": "1 1/2",
      "unit": "oz",
      "item": "bourbon"
     },
@@ -9375,12 +9389,12 @@
      "item": "unsweetened cherry juice"
     },
     {
-     "amount": "¾",
+     "amount": "3/4",
      "unit": "oz",
      "item": "lemon juice"
     },
     {
-     "amount": "½",
+     "amount": "1/2",
      "unit": "oz",
      "item": "vanilla syrup"
     },
@@ -9440,10 +9454,15 @@
      "amount": "1",
      "unit": "oz",
      "item": "vegan Champagne (such as Moët & Chandon Impérial)"
+    },
+    {
+     "amount": "",
+     "unit": "",
+     "item": "sugar, for the rim (optional)"
     }
    ],
    "steps": [
-    "Rim a coupe with sugar.",
+    "Rim a coupe with sugar, if you like.",
     "Stir the brandy, curaçao and bitters with ice, strain into the glass and top with Champagne."
    ],
    "allergens": [],
@@ -9582,18 +9601,19 @@
     }
    ],
    "steps": [
-    "Season the chicken with salt, pepper and Italian seasoning and sear in the oil 6 to 7 minutes per side. Rest and slice.",
+    "Season the chicken with salt, pepper and Italian seasoning and sear in the oil 6 to 7 minutes per side, until 165°F inside. Rest and slice.",
     "Cook the fettuccine and save some pasta water.",
     "Melt the butter, cook the garlic 30 seconds, add the cream and simmer 4 minutes.",
     "Stir in the Parmesan, then toss with the pasta, loosening with pasta water.",
     "Top with the chicken and parsley."
    ],
    "allergens": [
+    "eggs",
     "milk",
     "wheat"
    ],
    "cocktail": null,
-   "note": "A representative home version. Restaurants and regions make it in many ways, and this isn't any one restaurant's recipe.",
+   "note": "Fresh egg fettuccine contains eggs; most dried fettuccine does not.",
    "tips": [],
    "make_ahead": "",
    "variations": []
@@ -9664,7 +9684,9 @@
    ],
    "cocktail": null,
    "note": "A representative home version. Restaurants and regions make it in many ways, and this isn't any one restaurant's recipe.",
-   "tips": [],
+   "tips": [
+    "Check the enchilada sauce label if you avoid wheat: some brands thicken it with flour."
+   ],
    "make_ahead": "",
    "variations": []
   }
@@ -9676,10 +9698,10 @@
    "description": "A soothing rice porridge with shredded chicken, ginger and scallions.",
    "servings": 4,
    "prep_minutes": 10,
-   "cook_minutes": 60,
+   "cook_minutes": 75,
    "ingredients": [
     {
-     "amount": "¾",
+     "amount": "3/4",
      "unit": "cup",
      "item": "jasmine rice, rinsed"
     },
@@ -9932,7 +9954,9 @@
    ],
    "cocktail": null,
    "note": "A representative home version. Restaurants and regions make it in many ways, and this isn't any one restaurant's recipe.",
-   "tips": [],
+   "tips": [
+    "Check the enchilada sauce label if you avoid wheat: some brands thicken it with flour."
+   ],
    "make_ahead": "",
    "variations": []
   }
@@ -10009,7 +10033,7 @@
    ],
    "steps": [
     "Toss the chicken with half the oil, the spices, salt and lime juice.",
-    "Heat a cast-iron skillet over high heat and cook the chicken 5 to 6 minutes until charred and cooked. Remove.",
+    "Heat a cast-iron skillet over high heat and cook the chicken 5 to 6 minutes until charred and cooked through (165°F). Remove.",
     "Add the remaining oil, peppers and onion and cook 5 minutes until tender and charred.",
     "Return the chicken to the pan and toss together.",
     "Serve in warm tortillas with salsa, guacamole and sour cream."
@@ -10082,7 +10106,7 @@
    ],
    "steps": [
     "Season the chicken and dredge in flour.",
-    "Brown in the oil and 1 tbsp butter 3 to 4 minutes per side. Remove.",
+    "Brown in the oil and 1 tbsp butter 3 to 4 minutes per side, until 165°F inside. Remove.",
     "Add 1 tbsp butter and the mushrooms and cook until browned, then the garlic.",
     "Add the Marsala and broth and simmer until reduced by half. Swirl in the last of the butter.",
     "Return the chicken to warm through and top with parsley."
@@ -10165,7 +10189,7 @@
    ],
    "steps": [
     "Cook the onion, carrots and celery in the oil for 6 minutes, then add the garlic.",
-    "Add the broth, chicken, thyme and bay leaf and simmer 25 minutes.",
+    "Add the broth, chicken, thyme and bay leaf and simmer 25 minutes, until the chicken reaches 165°F.",
     "Shred the chicken and return it to the pot.",
     "Add the noodles and cook 6 to 8 minutes until tender. Season and add parsley."
    ],
@@ -10565,7 +10589,7 @@
     "Dredge in flour, dip in egg, then press into the breadcrumbs mixed with half the Parmesan.",
     "Fry in oil 3 minutes per side until golden.",
     "Place in a baking dish, top with marinara, mozzarella and the remaining Parmesan.",
-    "Bake 10 to 15 minutes until bubbling. Top with basil and serve with spaghetti."
+    "Bake 10 to 15 minutes, until bubbling and the chicken reaches 165°F. Top with basil and serve with spaghetti."
    ],
    "allergens": [
     "eggs",
@@ -10636,7 +10660,7 @@
    ],
    "steps": [
     "Season the chicken and dredge in flour.",
-    "Brown in the oil and 1 tbsp butter 3 minutes per side. Remove.",
+    "Brown in the oil and 1 tbsp butter 3 minutes per side, until 165°F inside. Remove.",
     "Add the broth, wine, lemon and capers and simmer until reduced by half.",
     "Swirl in the remaining butter, return the chicken and top with parsley."
    ],
@@ -10871,7 +10895,7 @@
     "Marinate the chicken in the soy sauce, sugar, turmeric, coriander and 1/4 cup coconut milk for 1 hour.",
     "Thread onto skewers.",
     "Simmer the remaining coconut milk with the peanut butter, curry paste and lime juice until smooth.",
-    "Grill the skewers 3 to 4 minutes per side until charred and cooked.",
+    "Grill the skewers 3 to 4 minutes per side until charred and cooked through (165°F).",
     "Serve with the peanut sauce."
    ],
    "allergens": [
@@ -10953,7 +10977,7 @@
    ],
    "steps": [
     "Marinate the chicken in the yogurt, lemon, spices, garlic and salt for at least 2 hours.",
-    "Roast at 425°F or grill 20 minutes until charred and cooked. Rest and slice thinly.",
+    "Roast at 425°F or grill 20 minutes until charred and cooked through (165°F). Rest and slice thinly.",
     "Warm the pitas.",
     "Fill with chicken, vegetables, pickles and sauce, and roll up."
    ],
@@ -11036,7 +11060,7 @@
    ],
    "steps": [
     "Toss the chicken with the oil, spices, salt and the juice of 1 lime.",
-    "Cook in a hot skillet or grill 5 to 6 minutes per side until charred and cooked. Rest and chop.",
+    "Cook in a hot skillet or grill 5 to 6 minutes per side until charred and cooked through (165°F). Rest and chop.",
     "Fill the tortillas with chicken, onion and cilantro.",
     "Serve with lime wedges and salsa verde."
    ],
@@ -11060,7 +11084,7 @@
     {
      "amount": "1 1/2",
      "unit": "lb",
-     "item": "boneless chicken thighs"
+     "item": "boneless, skin-on chicken thighs"
     },
     {
      "amount": "1/3",
@@ -11105,7 +11129,7 @@
    ],
    "steps": [
     "Stir together the soy sauce, mirin, sake, brown sugar and ginger.",
-    "Heat the oil and cook the chicken skin side down for 6 to 7 minutes until crisp, then flip and cook 4 minutes.",
+    "Heat the oil and cook the chicken skin side down for 6 to 7 minutes until crisp, then flip and cook 4 minutes, until 165°F inside.",
     "Pour off the fat, add the sauce and simmer, turning the chicken, until the sauce is thick and glossy.",
     "Slice and serve over rice, topped with sesame seeds and green onions."
    ],
@@ -11331,7 +11355,7 @@
    ],
    "steps": [
     "Cook the onion, garlic and jalapeño in oil until soft. Add the spices for 1 minute.",
-    "Add the tomatoes, broth and chicken and simmer 20 minutes.",
+    "Add the tomatoes, broth and chicken and simmer 20 minutes, until the chicken reaches 165°F.",
     "Shred the chicken and return it with the beans and corn. Simmer 5 minutes and add the lime juice.",
     "Serve topped with tortilla strips, avocado, cheese and cilantro."
    ],
@@ -11540,7 +11564,7 @@
     "cocktail": null,
     "note": "A representative home version. Restaurants and regions make it in many ways, and this isn't any one restaurant's recipe.",
     "tips": [
-     "The onions are the star. Give them time to soften and turn sweet before the chicken goes back in.",
+     "The onions are the star. Give them time to soften and turn sweet before the tofu goes in.",
      "Grilling the tofu first adds a smoky char and helps it hold together.",
      "Keep the chili whole for flavor and gentle heat; break it open if you like it fiery."
     ],
@@ -11639,7 +11663,7 @@
     "cocktail": null,
     "note": "A representative home version. Restaurants and regions make it in many ways, and this isn't any one restaurant's recipe.",
     "tips": [
-     "The onions are the star. Give them time to soften and turn sweet before the chicken goes back in.",
+     "The onions are the star. Give them time to soften and turn sweet before the tofu goes in.",
      "Grilling the tofu first adds a smoky char and helps it hold together.",
      "Keep the chili whole for flavor and gentle heat; break it open if you like it fiery."
     ],
@@ -12005,7 +12029,7 @@
    ],
    "steps": [
     "Simmer the tofu in salted water 2 minutes and drain.",
-    "Fry the pork in oil until crisp, then add the doubanjiang, black beans, garlic and ginger.",
+    "Fry the pork in oil until cooked through (160°F) and crisp, then add the doubanjiang, black beans, garlic and ginger.",
     "Add the stock and soy sauce, then slide in the tofu and simmer 5 minutes.",
     "Thicken with the cornstarch mixture, shaking the pan gently.",
     "Sprinkle with Sichuan pepper and green onions and serve with rice."
@@ -12606,10 +12630,12 @@
     "glass": "coupe",
     "garnish": "raspberries on a pick",
     "alcoholic": true,
-    "non_alcoholic_version": "Shake raspberry syrup, lemon and egg white and top with sparkling lemonade."
+    "non_alcoholic_version": "Shake raspberry syrup, lemon and pasteurized egg white or aquafaba and top with sparkling lemonade."
    },
    "note": "A classic home version. Bars vary the proportions, and this isn't any one bar's recipe. Please drink responsibly.",
-   "tips": [],
+   "tips": [
+    "This drink uses raw egg white. Use pasteurized egg white if you prefer, and always for anyone pregnant, older or with a weakened immune system."
+   ],
    "make_ahead": "",
    "variations": []
   }
@@ -12831,7 +12857,7 @@
    "cook_minutes": 0,
    "ingredients": [
     {
-     "amount": "1½",
+     "amount": "1 1/2",
      "unit": "oz",
      "item": "white rum"
     },
@@ -12841,12 +12867,12 @@
      "item": "coconut water"
     },
     {
-     "amount": "½",
+     "amount": "1/2",
      "unit": "oz",
      "item": "lime juice"
     },
     {
-     "amount": "½",
+     "amount": "1/2",
      "unit": "oz",
      "item": "lemongrass syrup"
     },
@@ -12869,7 +12895,7 @@
    "steps": [
     "Shake rum, coconut water, lime and syrup with ice.",
     "Strain into a tall glass over fresh ice, top with soda and garnish.",
-    "For syrup, simmer ½ cup water, ½ cup sugar and one bruised lemongrass stalk for 5 minutes; cool and strain."
+    "For syrup, simmer 1/2 cup water, 1/2 cup sugar and one bruised lemongrass stalk for 5 minutes; cool and strain."
    ],
    "allergens": [],
    "cocktail": {
@@ -13003,7 +13029,7 @@
     "glass": "highball glass",
     "garnish": "",
     "alcoholic": true,
-    "non_alcoholic_version": "replace rum with 1½ oz coconut water."
+    "non_alcoholic_version": "replace rum with 1 1/2 oz coconut water."
    },
    "note": "A classic home version. Bars vary the proportions, and this isn't any one bar's recipe. Please drink responsibly.",
    "tips": [],
@@ -13172,7 +13198,9 @@
     "non_alcoholic_version": null
    },
    "note": "A classic home version. Bars vary the proportions, and this isn't any one bar's recipe. Please drink responsibly.",
-   "tips": [],
+   "tips": [
+    "This drink uses raw egg white. Use pasteurized egg white if you prefer, and always for anyone pregnant, older or with a weakened immune system."
+   ],
    "make_ahead": "",
    "variations": []
   }
@@ -13653,7 +13681,7 @@
      "Soaking the cornmeal in cold water first stops it from clumping when it hits the hot liquid.",
      "Browning the eggplant first helps it hold its shape in the sauce."
     ],
-    "make_ahead": "The sauce keeps 3 days; cook the fish in it fresh. Cou-cou firms up as it cools; slice and fry leftovers in butter.",
+    "make_ahead": "The sauce keeps 3 days; cook the eggplant in it fresh. Cou-cou firms up as it cools; slice and fry leftovers in butter.",
     "variations": []
    },
    "vegan": {
@@ -14120,7 +14148,7 @@
      {
       "amount": "",
       "unit": "",
-      "item": "French fries, coleslaw or peas and rice, to serve"
+      "item": "French fries, vinegar slaw or peas and rice, to serve"
      }
     ],
     "steps": [
@@ -14239,7 +14267,7 @@
      "item": "celery stalks, diced"
     },
     {
-     "amount": "¾",
+     "amount": "3/4",
      "unit": "cup",
      "item": "uncooked wild-rice blend"
     },
@@ -14254,12 +14282,12 @@
      "item": "cooked shredded chicken"
     },
     {
-     "amount": "½",
+     "amount": "1/2",
      "unit": "cup",
      "item": "heavy cream"
     },
     {
-     "amount": "½",
+     "amount": "1/2",
      "unit": "tsp",
      "item": "dried thyme"
     },
@@ -14515,7 +14543,7 @@
      "item": "firm white-fish fillets (about 5 oz each)"
     },
     {
-     "amount": "¼",
+     "amount": "1/4",
      "unit": "cup",
      "item": "flour"
     },
@@ -14525,17 +14553,17 @@
      "item": "egg, beaten"
     },
     {
-     "amount": "½",
+     "amount": "1/2",
      "unit": "cup",
      "item": "unsweetened shredded coconut"
     },
     {
-     "amount": "½",
+     "amount": "1/2",
      "unit": "cup",
      "item": "panko breadcrumbs"
     },
     {
-     "amount": "½",
+     "amount": "1/2",
      "unit": "tsp",
      "item": "salt"
     },
@@ -14550,7 +14578,7 @@
      "item": "ripe mango, diced"
     },
     {
-     "amount": "¼",
+     "amount": "1/4",
      "unit": "",
      "item": "red onion, finely diced"
     },
@@ -14776,7 +14804,7 @@
    "cook_minutes": 0,
    "ingredients": [
     {
-     "amount": "1½",
+     "amount": "1 1/2",
      "unit": "oz",
      "item": "gin"
     },
@@ -14791,12 +14819,12 @@
      "item": "cucumber slices"
     },
     {
-     "amount": "½",
+     "amount": "1/2",
      "unit": "oz",
      "item": "lime juice"
     },
     {
-     "amount": "¼",
+     "amount": "1/4",
      "unit": "oz",
      "item": "simple syrup"
     },
@@ -15111,7 +15139,7 @@
     }
    ],
    "steps": [
-    "Heat the oil in a wok and stir-fry the pork over medium-high heat for 5 to 7 minutes, breaking it up, until browned and slightly crisp.",
+    "Heat the oil in a wok and stir-fry the pork over medium-high heat for 5 to 7 minutes, breaking it up, until browned, slightly crisp and cooked through (160°F).",
     "Add the Shaoxing wine, sweet bean sauce and dark soy sauce and cook 1 minute. Push the pork aside, add the ya cai and stir for 30 seconds, then mix it in.",
     "Whisk the sesame paste, light soy sauce, chili oil, vinegar, sugar, Sichuan pepper and garlic in a bowl, then loosen with the hot noodle water or broth.",
     "Cook the noodles according to the package. Add the bok choy for the last minute, then drain.",
@@ -16065,7 +16093,7 @@
     "Mix the pork, cabbage, green onions, ginger, soy sauce, sesame oil and wine.",
     "Place a teaspoon of filling on each wrapper, wet the edge, fold in half and pleat to seal.",
     "Heat the oil in a nonstick skillet, add dumplings flat side down and fry 2 minutes until golden.",
-    "Add 1/2 cup water, cover and steam 6 to 8 minutes until the water is gone and the filling is cooked.",
+    "Add 1/2 cup water, cover and steam 6 to 8 minutes until the water is gone and the filling is cooked through (160°F).",
     "Serve with the soy and vinegar dipping sauce."
    ],
    "allergens": [
@@ -16514,7 +16542,9 @@
    ],
    "cocktail": null,
    "note": "A representative home version. Restaurants and regions make it in many ways, and this isn't any one restaurant's recipe.",
-   "tips": [],
+   "tips": [
+    "The hollandaise yolks and the poached eggs are only lightly cooked. Use pasteurized eggs if you prefer, and always for anyone pregnant, older or with a weakened immune system."
+   ],
    "make_ahead": "",
    "variations": []
   }
@@ -17104,7 +17134,7 @@
      "Frozen yuca is already peeled and cooks more evenly than fresh, and it works perfectly here.",
      "The curtido is half the dish: the sharp, crunchy onions cut the rich broth."
     ],
-    "make_ahead": "The broth and yuca keep 3 days in the fridge; add the tuna when reheating if you can. The curtido keeps 3 days.",
+    "make_ahead": "The broth and yuca keep 3 days in the fridge; add the mushrooms and hearts of palm when reheating. The curtido keeps 3 days.",
     "variations": []
    },
    "vegan": {
@@ -17205,7 +17235,7 @@
      "Frozen yuca is already peeled and cooks more evenly than fresh, and it works perfectly here.",
      "The curtido is half the dish: the sharp, crunchy onions cut the rich broth."
     ],
-    "make_ahead": "The broth and yuca keep 3 days in the fridge; add the tuna when reheating if you can. The curtido keeps 3 days.",
+    "make_ahead": "The broth and yuca keep 3 days in the fridge; add the mushrooms and hearts of palm when reheating. The curtido keeps 3 days.",
     "variations": []
    }
   }
@@ -17445,7 +17475,9 @@
     "non_alcoholic_version": null
    },
    "note": "A classic home version. Bars vary the proportions, and this isn't any one bar's recipe. Please drink responsibly.",
-   "tips": [],
+   "tips": [
+    "This drink uses raw egg white. Use pasteurized egg white if you prefer, and always for anyone pregnant, older or with a weakened immune system."
+   ],
    "make_ahead": "",
    "variations": []
   }
@@ -17880,7 +17912,7 @@
     }
    ],
    "steps": [
-    "Cook the garlic and onion in the oil, then the chicken until cooked, then the shrimp.",
+    "Cook the garlic and onion in the oil, then the chicken until cooked through (165°F), then the shrimp.",
     "Add the vegetables and cook 2 minutes.",
     "Add the broth, soy sauce and oyster sauce and bring to a boil.",
     "Add the noodles and toss until they absorb the liquid.",
@@ -19284,7 +19316,7 @@
     {
      "amount": "1",
      "unit": "tbsp",
-     "item": "soy sauce"
+     "item": "soy sauce, for the marinade"
     },
     {
      "amount": "1",
@@ -19299,7 +19331,7 @@
     {
      "amount": "3/4",
      "unit": "cup",
-     "item": "cornstarch"
+     "item": "cornstarch, for coating"
     },
     {
      "amount": "1",
@@ -19314,7 +19346,7 @@
     {
      "amount": "2",
      "unit": "tbsp",
-     "item": "soy sauce"
+     "item": "soy sauce, for the sauce"
     },
     {
      "amount": "1",
@@ -19339,7 +19371,7 @@
     {
      "amount": "1",
      "unit": "tbsp",
-     "item": "cornstarch"
+     "item": "cornstarch, for the sauce"
     },
     {
      "amount": "3",
@@ -19381,7 +19413,7 @@
     "Toss the chicken with 1 tablespoon soy sauce, the Shaoxing wine and egg white. Let it sit for 15 minutes.",
     "Whisk the broth, 2 tablespoons soy sauce, dark soy sauce, rice vinegar, hoisin, sugar and 1 tablespoon cornstarch in a bowl.",
     "Toss the chicken in the 3/4 cup cornstarch, pressing to coat.",
-    "Heat 2 inches of oil in a wok or heavy pot to 350°F. Fry the chicken in batches for 4 to 5 minutes, until golden and cooked through. Drain on a rack.",
+    "Heat 2 inches of oil in a wok or heavy pot to 350°F. Fry the chicken in batches for 4 to 5 minutes, until golden and cooked through (165°F). Drain on a rack.",
     "Pour off all but 1 tablespoon of oil. Over medium heat, add the dried chilies and fry for 10 seconds, then add the garlic and ginger and stir for 20 seconds.",
     "Stir the sauce, pour it in and cook, stirring, until thick and glossy, about 1 minute.",
     "Add the chicken and sesame oil and toss to coat. Top with the scallions and sesame seeds and serve with rice."
@@ -19453,7 +19485,9 @@
    ],
    "cocktail": null,
    "note": "A representative home version. Restaurants and regions make it in many ways, and this isn't any one restaurant's recipe.",
-   "tips": [],
+   "tips": [
+    "The yolks stay runny. Use pasteurized eggs if you prefer, and always for anyone pregnant, older or with a weakened immune system."
+   ],
    "make_ahead": "",
    "variations": []
   }
@@ -19522,7 +19556,7 @@
     "Knead the flour, warm water and salt into a firm dough. Rest 30 minutes.",
     "Mix the meats, onion, herbs, spices and salt, then work in the cold water until loose.",
     "Roll the dough and cut 4-inch circles. Add filling and gather the edge into many pleats, twisting the top into a knot.",
-    "Boil in salted water 10 to 12 minutes.",
+    "Boil in salted water 10 to 12 minutes, until the filling is cooked through (160°F).",
     "Dust with pepper. Bite a hole, sip the juice, and leave the knot."
    ],
    "allergens": [
@@ -20137,7 +20171,7 @@
     }
    ],
    "steps": [
-    "Brown beef in a skillet, breaking it up; drain excess fat. Add garlic and ginger and cook 30 seconds.",
+    "Brown beef in a skillet, breaking it up, until cooked through (160°F); drain excess fat. Add garlic and ginger and cook 30 seconds.",
     "Stir in gochujang, soy sauce, sugar and sesame oil; cook 2 minutes until coated.",
     "Spoon into washed lettuce leaves and top with cucumber and scallions."
    ],
@@ -20592,7 +20626,7 @@
    "cook_minutes": 0,
    "ingredients": [
     {
-     "amount": "1½",
+     "amount": "1 1/2",
      "unit": "oz",
      "item": "blanco tequila"
     },
@@ -20602,12 +20636,12 @@
      "item": "pink grapefruit juice"
     },
     {
-     "amount": "½",
+     "amount": "1/2",
      "unit": "oz",
      "item": "lime juice"
     },
     {
-     "amount": "½",
+     "amount": "1/2",
      "unit": "oz",
      "item": "simple syrup"
     },
@@ -21540,7 +21574,7 @@
      "item": "salmon fillets (about 5 oz each)"
     },
     {
-     "amount": "1½",
+     "amount": "1 1/2",
      "unit": "tbsp",
      "item": "harissa paste"
     },
@@ -21550,17 +21584,17 @@
      "item": "olive oil"
     },
     {
-     "amount": "½",
+     "amount": "1/2",
      "unit": "tsp",
      "item": "salt"
     },
     {
-     "amount": "½",
+     "amount": "1/2",
      "unit": "cup",
      "item": "plain yogurt"
     },
     {
-     "amount": "½",
+     "amount": "1/2",
      "unit": "",
      "item": "cucumber, finely diced"
     },
@@ -21738,7 +21772,7 @@
     "glass": "highball glass",
     "garnish": "",
     "alcoholic": true,
-    "non_alcoholic_version": "omit rum and add 1½ oz chilled hibiscus tea."
+    "non_alcoholic_version": "omit rum and add 1 1/2 oz chilled hibiscus tea."
    },
    "note": "A classic home version. Bars vary the proportions, and this isn't any one bar's recipe. Please drink responsibly.",
    "tips": [],
@@ -21761,12 +21795,12 @@
      "item": "bone-in, skin-on chicken thighs"
     },
     {
-     "amount": "1½",
+     "amount": "1 1/2",
      "unit": "lb",
      "item": "carrots, peeled and cut into 2-inch pieces"
     },
     {
-     "amount": "1½",
+     "amount": "1 1/2",
      "unit": "tbsp",
      "item": "olive oil"
     },
@@ -21776,7 +21810,7 @@
      "item": "Dijon mustard"
     },
     {
-     "amount": "1½",
+     "amount": "1 1/2",
      "unit": "tbsp",
      "item": "honey"
     },
@@ -21786,17 +21820,17 @@
      "item": "garlic clove, minced"
     },
     {
-     "amount": "½",
+     "amount": "1/2",
      "unit": "tsp",
      "item": "dried thyme"
     },
     {
-     "amount": "¾",
+     "amount": "3/4",
      "unit": "tsp",
      "item": "salt"
     },
     {
-     "amount": "¼",
+     "amount": "1/4",
      "unit": "tsp",
      "item": "black pepper"
     }
@@ -21848,7 +21882,7 @@
     "glass": "highball glass",
     "garnish": "long lemon peel spiral",
     "alcoholic": true,
-    "non_alcoholic_version": "Ginger ale with bitters-free lemon spiral (the original Horse's Neck)."
+    "non_alcoholic_version": "Ginger ale with a long lemon-peel spiral and no bitters (the original Horse's Neck)."
    },
    "note": "A classic home version. Bars vary the proportions, and this isn't any one bar's recipe. Please drink responsibly.",
    "tips": [],
@@ -22215,7 +22249,9 @@
    ],
    "cocktail": null,
    "note": "A representative home version. Restaurants and regions make it in many ways, and this isn't any one restaurant's recipe.",
-   "tips": [],
+   "tips": [
+    "Eggs fried with runny yolks aren't fully cooked. For anyone pregnant, older or with a weakened immune system, fry them until firm or use pasteurized eggs."
+   ],
    "make_ahead": "",
    "variations": []
   }
@@ -22578,7 +22614,8 @@
    "note": "A classic home version. Bars vary the proportions, and this isn't any one bar's recipe. Please drink responsibly.",
    "tips": [
     "The small splash of egg white is only for texture. Leave it out and the drink is just as good.",
-    "Overproof rum is very strong. Measure it carefully."
+    "Overproof rum is very strong. Measure it carefully.",
+    "This drink uses raw egg white. Use pasteurized egg white if you prefer, and always for anyone pregnant, older or with a weakened immune system."
    ],
    "make_ahead": "",
    "variations": []
@@ -22649,7 +22686,8 @@
     "note": "A classic home version. Bars vary the proportions, and this isn't any one bar's recipe. Please drink responsibly.",
     "tips": [
      "The small splash of aquafaba is only for texture. Leave it out and the drink is just as good.",
-     "Overproof rum is very strong. Measure it carefully."
+     "Overproof rum is very strong. Measure it carefully.",
+     "Aquafaba foams like egg white and is safe to use raw."
     ],
     "make_ahead": "",
     "variations": []
@@ -23100,7 +23138,9 @@
    "allergens": [],
    "cocktail": null,
    "note": "A representative home version. Restaurants and regions make it in many ways, and this isn't any one restaurant's recipe.",
-   "tips": [],
+   "tips": [
+    "Check the sambar powder label if you avoid wheat: many contain asafoetida (hing) blended with wheat flour."
+   ],
    "make_ahead": "",
    "variations": []
   }
@@ -23430,11 +23470,14 @@
     "eggs",
     "peanuts",
     "shellfish",
-    "soy"
+    "soy",
+    "wheat"
    ],
    "cocktail": null,
    "note": "A representative home version. Restaurants and regions make it in many ways, and this isn't any one restaurant's recipe.",
-   "tips": [],
+   "tips": [
+    "Kecap manis is usually brewed with wheat. Use a gluten-free sweet soy sauce if you avoid wheat."
+   ],
    "make_ahead": "",
    "variations": []
   }
@@ -23921,7 +23964,7 @@
     "Brown the sausage and chicken in a heavy pot. Remove.",
     "Cook the onion, pepper and celery until soft, then add the garlic.",
     "Add the tomatoes, rice, broth, Creole seasoning, bay leaves, sausage and chicken. Bring to a boil.",
-    "Cover and simmer 20 to 25 minutes until the rice is tender.",
+    "Cover and simmer 20 to 25 minutes, until the rice is tender and the chicken reaches 165°F.",
     "Stir in the shrimp, cover and cook 5 minutes until pink. Top with green onions."
    ],
    "allergens": [
@@ -24081,7 +24124,7 @@
    "steps": [
     "Heat the oil in a large pot over medium heat. Add the onions with a pinch of salt and cook, stirring often, for 15 minutes, until soft and golden brown.",
     "Add the ginger, garlic and chicken and cook for 3 minutes, until the chicken is no longer pink outside.",
-    "Add the carrots, potatoes, broth and grated apple. Bring to a boil, skim off any foam, then cover and simmer for 20 minutes, until the potatoes are tender.",
+    "Add the carrots, potatoes, broth and grated apple. Bring to a boil, skim off any foam, then cover and simmer for 20 minutes, until the potatoes are tender and the chicken reaches 165°F.",
     "Meanwhile, make the roux: melt the butter in a small pan over medium-low heat, stir in the flour and cook, stirring, for 8 to 10 minutes, until it smells nutty and turns light brown. Stir in the curry powder and garam masala and cook for 30 seconds more, then turn off the heat.",
     "Ladle about 1 cup of the hot broth into the roux and whisk until smooth, then stir it back into the pot.",
     "Add the soy sauce and ketchup and simmer gently, stirring, for 5 minutes, until the curry is thick and glossy. Taste for salt.",
@@ -24162,7 +24205,7 @@
    ],
    "steps": [
     "Simmer the dashi, soy sauce, mirin and sugar with the onion for 3 minutes.",
-    "Add the chicken and cook 5 minutes.",
+    "Add the chicken and cook 5 minutes, until cooked through (165°F).",
     "Pour the eggs over, cover and cook 1 minute until softly set.",
     "Slide over bowls of rice and top with herbs."
    ],
@@ -24174,7 +24217,9 @@
    ],
    "cocktail": null,
    "note": "A representative home version. Restaurants and regions make it in many ways, and this isn't any one restaurant's recipe.",
-   "tips": [],
+   "tips": [
+    "The egg is served softly set. For anyone pregnant, older or with a weakened immune system, cook it until firm or use pasteurized eggs."
+   ],
    "make_ahead": "",
    "variations": []
   }
@@ -24239,7 +24284,9 @@
    "note": "Most soba contains wheat flour as well as buckwheat.",
    "tips": [],
    "make_ahead": "",
-   "variations": []
+   "variations": [
+    "Tenzaru soba: serve with shrimp and vegetable tempura on the side."
+   ]
   }
  },
  "japanese-unagi-don": {
@@ -24585,7 +24632,9 @@
    "allergens": [],
    "cocktail": null,
    "note": "A representative home version. Restaurants and regions make it in many ways, and this isn't any one restaurant's recipe.",
-   "tips": [],
+   "tips": [
+    "Serve it the classic way, with fried ripe plantain and grilled or fried chicken."
+   ],
    "make_ahead": "",
    "variations": []
   }
@@ -24972,7 +25021,8 @@
    "tips": [
     "Beat the eggs only lightly so you can still see streaks of white and yolk. That marbled look is the classic finish.",
     "Pour the egg around the cutlet, not all over it, so part of the crust stays crisp.",
-    "Leftover tonkatsu is perfect here; the sauce brings it back to life."
+    "Leftover tonkatsu is perfect here; the sauce brings it back to life.",
+    "The egg is served softly set. For anyone pregnant, older or with a weakened immune system, cook it until firm or use pasteurized eggs."
    ],
    "make_ahead": "Fry the cutlets up to a day ahead and reheat in the oven. Cook the egg topping just before serving.",
    "variations": [
@@ -25075,7 +25125,8 @@
     "tips": [
      "Beat the eggs only lightly so you can still see streaks of white and yolk. That marbled look is the classic finish.",
      "Pour the egg around the cutlet, not all over it, so part of the crust stays crisp.",
-     "Press the tofu for 20 minutes so the coating stays crisp."
+     "Press the tofu for 20 minutes so the coating stays crisp.",
+     "The egg is served softly set. For anyone pregnant, older or with a weakened immune system, cook it until firm or use pasteurized eggs."
     ],
     "make_ahead": "Fry the tofu cutlets up to a day ahead and reheat in the oven. Cook the egg topping just before serving.",
     "variations": []
@@ -25563,7 +25614,7 @@
    "steps": [
     "Pat the chicken dry and toss it with the salt, pepper and ginger.",
     "Whisk the potato starch, flour, baking powder and ice water into a thin batter. Add the chicken and turn to coat.",
-    "Heat 2 inches of oil in a heavy pot to 325°F. Fry the chicken in batches for 8 to 10 minutes, until cooked through and pale gold. Drain on a rack for 5 minutes.",
+    "Heat 2 inches of oil in a heavy pot to 325°F. Fry the chicken in batches for 8 to 10 minutes, until cooked through (165°F) and pale gold. Drain on a rack for 5 minutes.",
     "Heat the oil to 375°F and fry the chicken again for 2 to 3 minutes, until deep golden and very crisp. Drain.",
     "Meanwhile, make the glaze: warm 1 teaspoon of oil in a wide pan over medium heat and fry the garlic for 30 seconds. Add the gochujang, ketchup, syrup, soy sauce, brown sugar and vinegar and simmer for 2 minutes, until glossy and bubbling.",
     "Turn off the heat, add the hot chicken and toss quickly to coat.",
@@ -25663,7 +25714,9 @@
    ],
    "cocktail": null,
    "note": "A representative home version. Restaurants and regions make it in many ways, and this isn't any one restaurant's recipe.",
-   "tips": [],
+   "tips": [
+    "The egg cooks only briefly in the stew. For anyone pregnant, older or with a weakened immune system, simmer until the egg is firm or use a pasteurized egg."
+   ],
    "make_ahead": "",
    "variations": []
   }
@@ -25826,7 +25879,7 @@
     "Toss the chicken with 1 tbsp soy sauce and 2 tsp cornstarch.",
     "Stir together the 2 tbsp soy sauce, vinegar, sugar, 1 tsp cornstarch and 3 tbsp water.",
     "Heat the oil in a wok, fry the chiles and peppercorns for 30 seconds until fragrant.",
-    "Add the chicken and stir-fry 4 to 5 minutes until cooked. Add the garlic, ginger and green onions for 1 minute.",
+    "Add the chicken and stir-fry 4 to 5 minutes until cooked through (165°F). Add the garlic, ginger and green onions for 1 minute.",
     "Pour in the sauce, toss until glossy and stir in the peanuts. Serve with rice."
    ],
    "allergens": [
@@ -26016,7 +26069,9 @@
    "note": "A representative home version. Restaurants and regions make it in many ways, and this isn't any one restaurant's recipe.",
    "tips": [],
    "make_ahead": "",
-   "variations": []
+   "variations": [
+    "Top each bowl with a halved hard-boiled egg, the way many Malaysian stalls do."
+   ]
   }
  },
  "lamb-shish-kebab": {
@@ -26114,7 +26169,8 @@
    "note": "A representative home version. Restaurants and regions make it in many ways, and this isn't any one restaurant's recipe.",
    "tips": [
     "Only the onion juice goes into the marinade. Bits of onion would burn on the grill.",
-    "Leave a little space between pieces on the skewer so the heat can reach every side."
+    "Leave a little space between pieces on the skewer so the heat can reach every side.",
+    "USDA's safe minimum for lamb is 145°F with a 3-minute rest. 135°F is the usual medium-rare."
    ],
    "make_ahead": "",
    "variations": [
@@ -26286,7 +26342,7 @@
    ],
    "steps": [
     "Toast the rice in a dry pan over medium heat, stirring constantly, for 10 to 15 minutes, until deep golden and smelling like popcorn. Cool and grind to a coarse powder.",
-    "Cook the pork with the water in a pan over medium heat, breaking it up, for 5 to 7 minutes, just until no longer pink. Don't brown it; it should stay moist.",
+    "Cook the pork with the water in a pan over medium heat, breaking it up, for 5 to 7 minutes, just until cooked through (160°F). Don't brown it; it should stay moist.",
     "Take the pan off the heat. Stir in the fish sauce, lime juice, sugar and chili flakes. Taste: it should be sour, salty and spicy all at once.",
     "Add the shallots, green onions, most of the herbs and 2 tbsp of the toasted rice powder and toss.",
     "Pile onto a plate, sprinkle with the rest of the herbs and rice powder, and serve with sticky rice and crisp vegetables to scoop it up."
@@ -26739,7 +26795,7 @@
     "Process the bulgur, lean meat, grated onion, half the spices and salt into a smooth paste, using ice water if needed.",
     "For the filling, brown the ground lamb with the chopped onion, pine nuts and remaining spices.",
     "Shape a ball of shell mix, hollow it with your finger, fill and seal into an oval.",
-    "Fry at 350°F for 5 to 6 minutes until deep brown. Serve with yogurt."
+    "Fry at 350°F for 5 to 6 minutes until deep brown and cooked through (160°F). Serve with yogurt."
    ],
    "allergens": [
     "milk",
@@ -26830,7 +26886,7 @@
      "item": "cucumber, diced"
     },
     {
-     "amount": "¼",
+     "amount": "1/4",
      "unit": "cup",
      "item": "chopped parsley"
     },
@@ -26845,12 +26901,12 @@
      "item": "lemon, zested and juiced"
     },
     {
-     "amount": "½",
+     "amount": "1/2",
      "unit": "tsp",
      "item": "salt"
     },
     {
-     "amount": "¼",
+     "amount": "1/4",
      "unit": "tsp",
      "item": "pepper"
     }
@@ -26898,6 +26954,11 @@
      "amount": "1/2",
      "unit": "oz",
      "item": "simple syrup"
+    },
+    {
+     "amount": "",
+     "unit": "",
+     "item": "sugar, for the rim"
     }
    ],
    "steps": [
@@ -27105,7 +27166,7 @@
    "steps": [
     "Cook the noodles as the package directs, drain and rinse.",
     "Mix the soy sauces, oyster sauce, sugar and sesame oil.",
-    "Stir-fry the chicken in hot oil until cooked, then add the garlic, cabbage and carrot for 2 minutes.",
+    "Stir-fry the chicken in hot oil until cooked through (165°F), then add the garlic, cabbage and carrot for 2 minutes.",
     "Add the noodles, sauce and green onions and toss for 2 minutes until coated and hot."
    ],
    "allergens": [
@@ -28134,7 +28195,7 @@
    "cook_minutes": 0,
    "ingredients": [
     {
-     "amount": "1½",
+     "amount": "1 1/2",
      "unit": "oz",
      "item": "coconut rum"
     },
@@ -28144,12 +28205,12 @@
      "item": "mango purée"
     },
     {
-     "amount": "¾",
+     "amount": "3/4",
      "unit": "oz",
      "item": "lime juice"
     },
     {
-     "amount": "¼",
+     "amount": "1/4",
      "unit": "oz",
      "item": "simple syrup"
     },
@@ -28268,7 +28329,8 @@
    "tips": [
     "Mash the plantains while they're hot and add the water cold. Dominican cooks swear it makes the mangú extra smooth.",
     "Use fully green plantains; ripe ones make a sweet, different dish.",
-    "Pat the cheese dry before frying so it browns instead of spattering."
+    "Pat the cheese dry before frying so it browns instead of spattering.",
+    "Sunny-side-up eggs have runny yolks. For anyone pregnant, older or with a weakened immune system, cook them until firm or use pasteurized eggs."
    ],
    "make_ahead": "Mangú stiffens as it cools; reheat with a splash of water and stir until smooth.",
    "variations": [
@@ -28361,7 +28423,8 @@
     "tips": [
      "Mash the plantains while they're hot and add the water cold. Dominican cooks swear it makes the mangú extra smooth.",
      "Use fully green plantains; ripe ones make a sweet, different dish.",
-     "Pat the cheese dry before frying so it browns instead of spattering."
+     "Pat the cheese dry before frying so it browns instead of spattering.",
+     "Sunny-side-up eggs have runny yolks. For anyone pregnant, older or with a weakened immune system, cook them until firm or use pasteurized eggs."
     ],
     "make_ahead": "Mangú stiffens as it cools; reheat with a splash of water and stir until smooth.",
     "variations": []
@@ -28386,7 +28449,7 @@
      {
       "amount": "4",
       "unit": "tbsp",
-      "item": "olive oil"
+      "item": "olive oil, for the mash"
      },
      {
       "amount": "1",
@@ -28450,7 +28513,8 @@
     "tips": [
      "Mash the plantains while they're hot and add the water cold. Dominican cooks swear it makes the mangú extra smooth.",
      "Use fully green plantains; ripe ones make a sweet, different dish.",
-     "Pat the tofu dry before frying so it browns well."
+     "Pat the tofu dry before frying so it browns well.",
+     "Fry the ripe plantains over medium heat so they caramelize without burning."
     ],
     "make_ahead": "Mangú stiffens as it cools; reheat with a splash of water and stir until smooth.",
     "variations": []
@@ -28568,7 +28632,7 @@
     "Knead the flour, egg, water and a pinch of salt into a firm dough. Rest 30 minutes.",
     "Mix the meat, onion and salt.",
     "Roll the dough thin, cut into 1 1/2-inch squares, add a pea-size piece of filling and pinch the corners together.",
-    "Boil the manti in salted water 10 to 12 minutes until tender.",
+    "Boil the manti in salted water 10 to 12 minutes, until tender and the filling is cooked through (160°F).",
     "Mix the yogurt and garlic. Melt the butter with the pepper and mint.",
     "Spoon the garlic yogurt over the manti and drizzle with the hot butter."
    ],
@@ -29529,7 +29593,7 @@
      "item": "dried oregano"
     },
     {
-     "amount": "¼",
+     "amount": "1/4",
      "unit": "tsp",
      "item": "black pepper"
     },
@@ -29719,11 +29783,16 @@
      "amount": "",
      "unit": "",
      "item": "pomegranate seeds and parsley"
+    },
+    {
+     "amount": "",
+     "unit": "",
+     "item": "a pinch each of sugar and salt, for the sauce"
     }
    ],
    "steps": [
     "Char the poblanos, steam in a bag, peel and slit open, removing the seeds.",
-    "Brown the meat with the onion, add the fruit, raisins, almonds and tomatoes and cook 15 minutes. Season.",
+    "Brown the meat with the onion, add the fruit, raisins, almonds and tomatoes and cook 15 minutes, until the meat is cooked through (160°F). Season.",
     "Blend the walnuts, crema, cheese, milk and a pinch of sugar and salt into a smooth sauce.",
     "Stuff the chiles with the picadillo.",
     "Cover with walnut sauce and sprinkle with pomegranate seeds and parsley."
@@ -30074,7 +30143,9 @@
     "non_alcoholic_version": null
    },
    "note": "A classic home version. Bars vary the proportions, and this isn't any one bar's recipe. Please drink responsibly.",
-   "tips": [],
+   "tips": [
+    "This drink uses raw egg white. Use pasteurized egg white if you prefer, and always for anyone pregnant, older or with a weakened immune system."
+   ],
    "make_ahead": "",
    "variations": []
   }
@@ -31128,7 +31199,7 @@
     "Char the tomatoes and chilies in a dry pan or under the broiler until blackened in spots. Blend them with the toasted sesame, lime juice, timur, the rest of the salt and a little water into a thick sauce.",
     "Roll the dough into a log, cut into 30 pieces and roll each into a thin 3 1/2-inch circle, thinner at the edges.",
     "Put a spoon of filling in the center and pleat the edges together into a round purse, twisting the top to seal.",
-    "Steam on oiled racks for 10 to 12 minutes, until the wrappers are glossy and the filling is cooked through. Serve hot with the achar."
+    "Steam on oiled racks for 10 to 12 minutes, until the wrappers are glossy and the filling is cooked through (165°F). Serve hot with the achar."
    ],
    "allergens": [
     "milk",
@@ -31253,7 +31324,7 @@
      "Char the tomatoes and chilies in a dry pan or under the broiler until blackened in spots. Blend them with the toasted sesame, lime juice, timur, the rest of the salt and a little water into a thick sauce.",
      "Roll the dough into a log, cut into 30 pieces and roll each into a thin 3 1/2-inch circle, thinner at the edges.",
      "Put a spoon of filling in the center and pleat the edges together into a round purse, twisting the top to seal.",
-     "Steam on oiled racks for 10 to 12 minutes, until the wrappers are glossy and tender. Serve hot with the achar."
+     "Steam on oiled racks for 10 to 12 minutes, until the wrappers are glossy and tender (165°F). Serve hot with the achar."
     ],
     "allergens": [
      "sesame",
@@ -31374,7 +31445,7 @@
      "Char the tomatoes and chilies in a dry pan or under the broiler until blackened in spots. Blend them with the toasted sesame, lime juice, timur, the rest of the salt and a little water into a thick sauce.",
      "Roll the dough into a log, cut into 30 pieces and roll each into a thin 3 1/2-inch circle, thinner at the edges.",
      "Put a spoon of filling in the center and pleat the edges together into a round purse, twisting the top to seal.",
-     "Steam on oiled racks for 10 to 12 minutes, until the wrappers are glossy and tender. Serve hot with the achar."
+     "Steam on oiled racks for 10 to 12 minutes, until the wrappers are glossy and tender (165°F). Serve hot with the achar."
     ],
     "allergens": [
      "sesame",
@@ -32125,7 +32196,7 @@
      "item": "garlic cloves, minced"
     },
     {
-     "amount": "¾",
+     "amount": "3/4",
      "unit": "cup",
      "item": "pearl barley, rinsed"
     },
@@ -32135,7 +32206,7 @@
      "item": "vegetable broth"
     },
     {
-     "amount": "½",
+     "amount": "1/2",
      "unit": "tsp",
      "item": "dried thyme"
     },
@@ -32286,7 +32357,7 @@
    ],
    "steps": [
     "Heat the oven to 400°F.",
-    "Brown the beef with the taco seasoning and a splash of water.",
+    "Brown the beef until cooked through (160°F), then stir in the taco seasoning and a splash of water.",
     "Spread the chips on a sheet pan and layer with beef, beans, cheese and jalapeños.",
     "Bake 8 to 10 minutes until the cheese melts.",
     "Top with pico de gallo, sour cream and guacamole."
@@ -32415,7 +32486,7 @@
    ],
    "steps": [
     "Fry the shallots, garlic, chile and shrimp paste in the oil until fragrant.",
-    "Add the chicken or shrimp and cook through.",
+    "Add the chicken or shrimp and cook through (165°F for chicken).",
     "Add the rice, kecap manis and soy sauce and toss over high heat until hot and lightly charred.",
     "Serve topped with a fried egg, with cucumber, tomato and fried shallots."
    ],
@@ -33785,7 +33856,7 @@
    ],
    "steps": [
     "Toss the chicken in the egg, then in the cornstarch and flour mixed together.",
-    "Fry in oil at 350°F in batches for 5 to 6 minutes until crisp and cooked. Drain.",
+    "Fry in oil at 350°F in batches for 5 to 6 minutes until crisp and cooked through (165°F). Drain.",
     "Simmer the orange juice, zest, sugar, soy sauce, vinegar, garlic and ginger for 3 minutes.",
     "Stir in the cornstarch slurry and cook until glossy and thick.",
     "Toss the chicken in the sauce and serve with rice and sliced green onion."
@@ -33956,7 +34027,7 @@
    ],
    "steps": [
     "Separate the noodles and mix the sauces and sugar.",
-    "Stir-fry the garlic and chicken in hot oil until cooked.",
+    "Stir-fry the garlic and chicken in hot oil until cooked through (165°F).",
     "Add the gai lan stems, then the leaves.",
     "Push aside, scramble the eggs, then add the noodles and sauce and fry without stirring too much so they char slightly.",
     "Season with white pepper."
@@ -34525,7 +34596,7 @@
    "cook_minutes": 0,
    "ingredients": [
     {
-     "amount": "1½",
+     "amount": "1 1/2",
      "unit": "oz",
      "item": "white rum"
     },
@@ -34535,12 +34606,12 @@
      "item": "unsweetened passion-fruit purée"
     },
     {
-     "amount": "½",
+     "amount": "1/2",
      "unit": "oz",
      "item": "lime juice"
     },
     {
-     "amount": "½",
+     "amount": "1/2",
      "unit": "oz",
      "item": "simple syrup"
     },
@@ -34765,7 +34836,7 @@
      "item": "anchovy fillets"
     },
     {
-     "amount": "¼",
+     "amount": "1/4",
      "unit": "tsp",
      "item": "red pepper flakes"
     },
@@ -34775,7 +34846,7 @@
      "item": "(28 oz) crushed tomatoes"
     },
     {
-     "amount": "⅓",
+     "amount": "1/3",
      "unit": "cup",
      "item": "pitted black olives, sliced"
     },
@@ -34791,7 +34862,7 @@
     }
    ],
    "steps": [
-    "Cook spaghetti in salted water until al dente, reserving ½ cup pasta water; drain.",
+    "Cook spaghetti in salted water until al dente, reserving 1/2 cup pasta water; drain.",
     "Warm oil in a skillet over medium heat. Cook garlic, anchovies and pepper flakes for about 1 minute, mashing anchovies into the oil.",
     "Add tomatoes, olives and capers; simmer 12–15 minutes. Toss with pasta and a little reserved water. Finish with parsley."
    ],
@@ -34861,7 +34932,7 @@
     "glass": "highball glass",
     "garnish": "thyme sprig",
     "alcoholic": true,
-    "non_alcoholic_version": "omit vodka and add 1½ oz soda water."
+    "non_alcoholic_version": "omit vodka and add 1 1/2 oz soda water."
    },
    "note": "A classic home version. Bars vary the proportions, and this isn't any one bar's recipe. Please drink responsibly.",
    "tips": [],
@@ -34884,7 +34955,7 @@
      "item": "wheat noodles"
     },
     {
-     "amount": "⅓",
+     "amount": "1/3",
      "unit": "cup",
      "item": "smooth peanut butter"
     },
@@ -35024,7 +35095,7 @@
    "cook_minutes": 0,
    "ingredients": [
     {
-     "amount": "1½",
+     "amount": "1 1/2",
      "unit": "oz",
      "item": "vodka"
     },
@@ -35034,12 +35105,12 @@
      "item": "pear nectar"
     },
     {
-     "amount": "½",
+     "amount": "1/2",
      "unit": "oz",
      "item": "lemon juice"
     },
     {
-     "amount": "¼",
+     "amount": "1/4",
      "unit": "oz",
      "item": "simple syrup"
     },
@@ -35131,7 +35202,9 @@
     "non_alcoholic_version": null
    },
    "note": "A classic home version. Bars vary the proportions, and this isn't any one bar's recipe. Please drink responsibly.",
-   "tips": [],
+   "tips": [
+    "Gardenia mix: beat 1 tbsp softened unsalted butter with 1 tbsp honey and a pinch each of cinnamon and vanilla. It makes enough for two drinks and keeps a week in the fridge."
+   ],
    "make_ahead": "",
    "variations": []
   }
@@ -35564,7 +35637,7 @@
     "fish"
    ],
    "cocktail": null,
-   "note": "Use the freshest, sushi-grade fish you can get.",
+   "note": "Lime juice turns the fish opaque but doesn't cook it, so it stays raw. Buy fish sold for eating raw that has been frozen to kill parasites, keep it cold, and don't serve ceviche to anyone pregnant, older or with a weakened immune system.",
    "tips": [],
    "make_ahead": "",
    "variations": []
@@ -36138,7 +36211,7 @@
    "cook_minutes": 0,
    "ingredients": [
     {
-     "amount": "1½",
+     "amount": "1 1/2",
      "unit": "oz",
      "item": "blanco tequila"
     },
@@ -36148,7 +36221,7 @@
      "item": "pineapple juice"
     },
     {
-     "amount": "½",
+     "amount": "1/2",
      "unit": "oz",
      "item": "lime juice"
     },
@@ -36347,7 +36420,9 @@
     "non_alcoholic_version": null
    },
    "note": "A classic home version. Bars vary the proportions, and this isn't any one bar's recipe. Please drink responsibly.",
-   "tips": [],
+   "tips": [
+    "This drink uses raw egg white. Use pasteurized egg white if you prefer, and always for anyone pregnant, older or with a weakened immune system."
+   ],
    "make_ahead": "",
    "variations": []
   }
@@ -36466,7 +36541,7 @@
    "cook_minutes": 0,
    "ingredients": [
     {
-     "amount": "1½",
+     "amount": "1 1/2",
      "unit": "oz",
      "item": "mezcal"
     },
@@ -36476,12 +36551,12 @@
      "item": "unsweetened pomegranate juice"
     },
     {
-     "amount": "½",
+     "amount": "1/2",
      "unit": "oz",
      "item": "lime juice"
     },
     {
-     "amount": "½",
+     "amount": "1/2",
      "unit": "oz",
      "item": "agave syrup"
     },
@@ -36528,7 +36603,7 @@
    "cook_minutes": 0,
    "ingredients": [
     {
-     "amount": "1½",
+     "amount": "1 1/2",
      "unit": "oz",
      "item": "gin"
     },
@@ -36538,12 +36613,12 @@
      "item": "unsweetened pomegranate juice"
     },
     {
-     "amount": "½",
+     "amount": "1/2",
      "unit": "oz",
      "item": "lemon juice"
     },
     {
-     "amount": "½",
+     "amount": "1/2",
      "unit": "oz",
      "item": "simple syrup"
     },
@@ -36978,7 +37053,9 @@
     "non_alcoholic_version": null
    },
    "note": "A classic home version. Bars vary the proportions, and this isn't any one bar's recipe. Please drink responsibly.",
-   "tips": [],
+   "tips": [
+    "This drink uses a raw egg yolk. Use a pasteurized egg if you prefer, and always for anyone pregnant, older or with a weakened immune system."
+   ],
    "make_ahead": "",
    "variations": []
   }
@@ -37352,11 +37429,14 @@
     "Pile onto buns and top with coleslaw."
    ],
    "allergens": [
+    "eggs",
     "wheat"
    ],
    "cocktail": null,
    "note": "A representative home version. Restaurants and regions make it in many ways, and this isn't any one restaurant's recipe.",
-   "tips": [],
+   "tips": [
+    "Check the label if you need to avoid fish: some barbecue sauces contain Worcestershire sauce, which is made with anchovies. Creamy coleslaw is made with mayonnaise, which contains eggs."
+   ],
    "make_ahead": "",
    "variations": []
   }
@@ -37878,7 +37958,9 @@
     "non_alcoholic_version": null
    },
    "note": "A classic home version. Bars vary the proportions, and this isn't any one bar's recipe. Please drink responsibly.",
-   "tips": [],
+   "tips": [
+    "This drink uses raw egg white. Use pasteurized egg white if you prefer, and always for anyone pregnant, older or with a weakened immune system."
+   ],
    "make_ahead": "",
    "variations": []
   }
@@ -38078,7 +38160,7 @@
    "cook_minutes": 0,
    "ingredients": [
     {
-     "amount": "1½",
+     "amount": "1 1/2",
      "unit": "oz",
      "item": "whiskey"
     },
@@ -38088,12 +38170,12 @@
      "item": "raspberries"
     },
     {
-     "amount": "¾",
+     "amount": "3/4",
      "unit": "oz",
      "item": "lemon juice"
     },
     {
-     "amount": "½",
+     "amount": "1/2",
      "unit": "oz",
      "item": "ginger syrup"
     },
@@ -38368,7 +38450,9 @@
    ],
    "cocktail": null,
    "note": "A representative home version. Restaurants and regions make it in many ways, and this isn't any one restaurant's recipe.",
-   "tips": [],
+   "tips": [
+    "USDA's safe minimum for beef steaks is 145°F with a 3-minute rest. 130°F is the usual medium-rare."
+   ],
    "make_ahead": "",
    "variations": []
   }
@@ -38460,17 +38544,17 @@
      "item": "chili powder"
     },
     {
-     "amount": "½",
+     "amount": "1/2",
      "unit": "tsp",
      "item": "cumin"
     },
     {
-     "amount": "½",
+     "amount": "1/2",
      "unit": "tsp",
      "item": "salt"
     },
     {
-     "amount": "½",
+     "amount": "1/2",
      "unit": "cup",
      "item": "sour cream"
     },
@@ -38485,7 +38569,7 @@
      "item": "small corn tortillas"
     },
     {
-     "amount": "¼",
+     "amount": "1/4",
      "unit": "cup",
      "item": "cilantro"
     }
@@ -38742,7 +38826,7 @@
     "Put the tripe, bones, bay leaves and 12 cups water in a large pot. Simmer gently, skimming often, for 2 1/2 to 3 hours, until the tripe is very tender.",
     "Add the carrots, parsnip, celery root and onion for the last 45 minutes.",
     "Lift out the tripe and vegetables. Strain the broth. Slice the tripe into thin strips and the carrot into matchsticks, and return them to the broth with the salt.",
-    "Whisk the sour cream and egg yolks in a bowl. Slowly whisk in 2 ladles of hot broth, then stir the mixture back into the pot over low heat. Don't let it boil.",
+    "Whisk the sour cream and egg yolks in a bowl. Slowly whisk in 2 ladles of hot broth, then stir the mixture back into the pot over low heat. Heat gently until steaming (160°F) so the yolks cook through, but don't let it boil.",
     "Stir in half the garlic paste and the vinegar. Taste and add more vinegar or salt until it's pleasantly sour. Serve with hot peppers, more garlic and sour cream on the side."
    ],
    "allergens": [
@@ -38843,7 +38927,7 @@
     "steps": [
      "Simmer the broth with the carrots, parsnip, celery root, onion and bay leaves for 30 minutes. Lift out the vegetables and cut the carrot into matchsticks.",
      "Brown the mushroom strips in the oil over high heat for 6 to 8 minutes. Add them and the carrot to the broth with the salt and simmer 10 minutes.",
-     "Whisk the sour cream and egg yolks in a bowl. Slowly whisk in 2 ladles of hot broth, then stir the mixture back into the pot over low heat. Don't let it boil.",
+     "Whisk the sour cream and egg yolks in a bowl. Slowly whisk in 2 ladles of hot broth, then stir the mixture back into the pot over low heat. Heat gently until steaming (160°F) so the yolks cook through, but don't let it boil.",
      "Stir in half the garlic paste and the vinegar. Taste and add more vinegar or salt until it's pleasantly sour. Serve with hot peppers, more garlic and sour cream on the side."
     ],
     "allergens": [
@@ -39385,7 +39469,7 @@
     "glass": "hurricane glass",
     "garnish": "orange slice and cherry",
     "alcoholic": true,
-    "non_alcoholic_version": "Pineapple, orange and banana juice with grenadine."
+    "non_alcoholic_version": "Pineapple juice, orange juice and banana nectar with grenadine."
    },
    "note": "A classic home version. Bars vary the proportions, and this isn't any one bar's recipe. Please drink responsibly.",
    "tips": [],
@@ -40383,7 +40467,9 @@
    ],
    "cocktail": null,
    "note": "A representative home version. Restaurants and regions make it in many ways, and this isn't any one restaurant's recipe.",
-   "tips": [],
+   "tips": [
+    "Soft scrambled eggs are not fully firm. For anyone pregnant, older or with a weakened immune system, cook them until firm or use pasteurized eggs."
+   ],
    "make_ahead": "",
    "variations": []
   }
@@ -41013,7 +41099,9 @@
     "non_alcoholic_version": null
    },
    "note": "A classic home version. Bars vary the proportions, and this isn't any one bar's recipe. Please drink responsibly.",
-   "tips": [],
+   "tips": [
+    "This drink uses a raw whole egg. Use a pasteurized egg if you prefer, and always for anyone pregnant, older or with a weakened immune system."
+   ],
    "make_ahead": "",
    "variations": []
   }
@@ -41277,6 +41365,11 @@
      "amount": "3/4",
      "unit": "oz",
      "item": "fresh lemon juice"
+    },
+    {
+     "amount": "",
+     "unit": "",
+     "item": "sugar, for the rim"
     }
    ],
    "steps": [
@@ -41397,7 +41490,9 @@
     "non_alcoholic_version": null
    },
    "note": "A classic home version. Bars vary the proportions, and this isn't any one bar's recipe. Please drink responsibly.",
-   "tips": [],
+   "tips": [
+    "This drink uses raw egg white. Use pasteurized egg white if you prefer, and always for anyone pregnant, older or with a weakened immune system."
+   ],
    "make_ahead": "",
    "variations": []
   }
@@ -42214,7 +42309,9 @@
    ],
    "cocktail": null,
    "note": "A representative home version. Restaurants and regions make it in many ways, and this isn't any one restaurant's recipe.",
-   "tips": [],
+   "tips": [
+    "The eggs are cooked only by the heat of the pasta. Use pasteurized eggs if you prefer, and always for anyone pregnant, older or with a weakened immune system."
+   ],
    "make_ahead": "",
    "variations": []
   }
@@ -42321,17 +42418,17 @@
      "item": "ricotta"
     },
     {
-     "amount": "¼",
+     "amount": "1/4",
      "unit": "cup",
      "item": "grated Parmesan"
     },
     {
-     "amount": "½",
+     "amount": "1/2",
      "unit": "tsp",
      "item": "salt"
     },
     {
-     "amount": "¼",
+     "amount": "1/4",
      "unit": "tsp",
      "item": "pepper"
     }
@@ -42644,7 +42741,8 @@
    "note": "A representative home version. Restaurants and regions make it in many ways, and this isn't any one restaurant's recipe.",
    "tips": [
     "Chop by hand. A food processor turns chimichurri into a paste; it should be a loose sauce of herbs in oil.",
-    "Slice skirt and flank steak across the grain, or it will be chewy."
+    "Slice skirt and flank steak across the grain, or it will be chewy.",
+    "USDA's safe minimum for beef steaks is 145°F with a 3-minute rest. 130°F is the usual medium-rare."
    ],
    "make_ahead": "Chimichurri keeps in the fridge for up to 5 days and gets better on the second day. Bring it to room temperature before serving.",
    "variations": [
@@ -42756,7 +42854,7 @@
    "cook_minutes": 0,
    "ingredients": [
     {
-     "amount": "1½",
+     "amount": "1 1/2",
      "unit": "oz",
      "item": "bourbon"
     },
@@ -42766,12 +42864,12 @@
      "item": "strawberries, hulled"
     },
     {
-     "amount": "½",
+     "amount": "1/2",
      "unit": "oz",
      "item": "lemon juice"
     },
     {
-     "amount": "½",
+     "amount": "1/2",
      "unit": "oz",
      "item": "ginger syrup"
     },
@@ -43689,7 +43787,7 @@
     "note": "A representative home version. Restaurants and regions make it in many ways, and this isn't any one restaurant's recipe.",
     "tips": [
      "Keep the batter ice-cold and barely mixed. Stirring builds gluten, which makes the coating heavy and bready.",
-     "The dusting of flour helps the batter cling, especially to shrimp and smooth vegetables.",
+     "The dusting of flour helps the batter cling, especially to smooth vegetables.",
      "Skim floating bits of batter from the oil between batches so they don't burn."
     ],
     "make_ahead": "",
@@ -43971,7 +44069,7 @@
     "glass": "double rocks glass",
     "garnish": "lime wheel",
     "alcoholic": true,
-    "non_alcoholic_version": "Flash blend lime juice, falernum syrup, orange juice and a dash of bitters with crushed ice."
+    "non_alcoholic_version": "Flash blend lime juice, falernum syrup, orange juice and a dash of alcohol-free aromatic bitters (regular bitters contain alcohol) with crushed ice."
    },
    "note": "A classic home version. Bars vary the proportions, and this isn't any one bar's recipe. Please drink responsibly.",
    "tips": [
@@ -44116,7 +44214,7 @@
    "steps": [
     "Fry the curry paste in the oil and a few spoonfuls of thick coconut cream until fragrant.",
     "Add the chicken and cook 3 minutes.",
-    "Add the rest of the coconut milk, eggplant and lime leaves and simmer 10 minutes.",
+    "Add the rest of the coconut milk, eggplant and lime leaves and simmer 10 minutes, until the chicken reaches 165°F.",
     "Add the pepper and season with fish sauce and sugar.",
     "Stir in the basil and serve with jasmine rice."
    ],
@@ -44640,7 +44738,7 @@
   "kind": "cocktail",
   "recipe": {
    "title": "Tom Collins",
-   "description": "Gin, lemon and sugar, lengthened with soda water.",
+   "description": "Sweet Old Tom gin, lemon and sugar, shaken and lengthened with soda water.",
    "servings": 1,
    "prep_minutes": 3,
    "cook_minutes": 0,
@@ -44648,7 +44746,7 @@
     {
      "amount": "2",
      "unit": "oz",
-     "item": "gin"
+     "item": "Old Tom gin"
     },
     {
      "amount": "1",
@@ -44678,7 +44776,9 @@
     "non_alcoholic_version": "Lemon, syrup and soda water make fresh lemonade soda."
    },
    "note": "A classic home version. Bars vary the proportions, and this isn't any one bar's recipe. Please drink responsibly.",
-   "tips": [],
+   "tips": [
+    "Old Tom gin is sweeter and softer than London dry. With London dry gin, built in the glass, it becomes a John Collins."
+   ],
    "make_ahead": "",
    "variations": []
   }
@@ -44756,7 +44856,7 @@
    "steps": [
     "Bring the broth to a simmer in a pot. Add the lemongrass, galangal, lime leaves and chilies and simmer for 5 minutes to release their flavor.",
     "Add the coconut milk and chicken and bring back to a gentle simmer. Cook for 5 minutes.",
-    "Add the mushrooms, fish sauce and sugar and simmer for 3 to 4 minutes more, until the chicken is cooked through.",
+    "Add the mushrooms, fish sauce and sugar and simmer for 3 to 4 minutes more, until the chicken is cooked through (165°F).",
     "Turn off the heat and stir in the lime juice.",
     "Taste: it should be sour and salty first, then creamy. Add more lime or fish sauce if needed. Serve topped with cilantro."
    ],
@@ -45323,7 +45423,7 @@
    ],
    "make_ahead": "Keeps 2 days in the fridge. Many Spaniards prefer it the next day, at room temperature.",
    "variations": [
-    "Leave the center runny (poco hecha) for the classic bar-style tortilla.",
+    "Leave the center runny (poco hecha) for the classic bar-style tortilla. Use pasteurized eggs if you do.",
     "Add sliced chorizo or roasted peppers to the eggs."
    ]
   },
@@ -45659,7 +45759,8 @@
    "tips": [
     "Keep a bowl of water with a splash of vinegar beside you. Wet hands stop the rice from sticking to your fingers.",
     "Use less rice than you think. A thin layer keeps the roll neat and lets the filling stand out.",
-    "Cool the rice to room temperature before rolling: hot rice makes the nori go limp."
+    "Cool the rice to room temperature before rolling: hot rice makes the nori go limp.",
+    "The fish is eaten raw. Buy fish sold for eating raw that has been frozen to kill parasites, keep it very cold, and serve only the cucumber rolls to anyone pregnant, older or with a weakened immune system."
    ],
    "make_ahead": "Sushi is best eaten within a few hours. Don't refrigerate it, because cold makes the rice hard.",
    "variations": [
@@ -46055,7 +46156,7 @@
     "Heat the oven with a baking stone to 500°F.",
     "Pulse the onion, pepper, tomatoes, garlic and parsley finely, then mix with the lamb, pepper paste, spices and salt.",
     "Roll the dough into very thin rounds and spread thinly with the topping.",
-    "Bake 6 to 8 minutes until crisp at the edges.",
+    "Bake 6 to 8 minutes, until crisp at the edges and the lamb is cooked through (160°F).",
     "Squeeze with lemon, scatter parsley and onion, and roll up to eat."
    ],
    "allergens": [
@@ -46627,7 +46728,8 @@
    "note": "A classic home version. Bars vary the proportions, and this isn't any one bar's recipe. Please drink responsibly.",
    "tips": [
     "Make the syrup by stirring honey into an equal amount of freshly brewed chamomile tea. It keeps in the fridge for two weeks.",
-    "Choose a soft, young grappa. Aged or very strong grappas overpower the chamomile."
+    "Choose a soft, young grappa. Aged or very strong grappas overpower the chamomile.",
+    "This drink uses raw egg white. Use pasteurized egg white if you prefer, and always for anyone pregnant, older or with a weakened immune system."
    ],
    "make_ahead": "Make the chamomile honey syrup up to two weeks ahead and keep it in the fridge.",
    "variations": []
@@ -46949,7 +47051,7 @@
     "glass": "highball glass",
     "garnish": "",
     "alcoholic": true,
-    "non_alcoholic_version": "omit rum and add 1½ oz soda water."
+    "non_alcoholic_version": "omit rum and add 1 1/2 oz soda water."
    },
    "note": "A classic home version. Bars vary the proportions, and this isn't any one bar's recipe. Please drink responsibly.",
    "tips": [],
@@ -47119,7 +47221,7 @@
     "glass": "rocks glass",
     "garnish": "lemon slice and cherry",
     "alcoholic": true,
-    "non_alcoholic_version": "Shake lemon, syrup, egg white and cold black tea for a sour mocktail."
+    "non_alcoholic_version": "Shake lemon, syrup, pasteurized egg white or aquafaba and cold black tea for a sour mocktail."
    },
    "note": "Uses raw egg white; leave it out or use pasteurized whites if you prefer.",
    "tips": [],
@@ -47171,7 +47273,9 @@
     "non_alcoholic_version": null
    },
    "note": "A classic home version. Bars vary the proportions, and this isn't any one bar's recipe. Please drink responsibly.",
-   "tips": [],
+   "tips": [
+    "This drink uses raw egg white. Use pasteurized egg white if you prefer, and always for anyone pregnant, older or with a weakened immune system."
+   ],
    "make_ahead": "",
    "variations": []
   }
@@ -47309,7 +47413,7 @@
     "Put the pork, shrimp, soy sauce, sesame oil, egg white, grated ginger, salt, sugar and white pepper in a bowl. Stir hard in one direction for 2 minutes, until sticky.",
     "Place 1 tablespoon of filling in the center of a wrapper. Wet the edges, fold it in half into a triangle and press out the air. Bring the two side corners together, overlapping, and press to seal. Keep the finished wontons under a damp towel.",
     "Bring the broth and ginger slices to a simmer in a pot and season with salt.",
-    "Bring a separate large pot of water to a boil. Cook the wontons in batches for 3 to 4 minutes, until they float and the filling is cooked through.",
+    "Bring a separate large pot of water to a boil. Cook the wontons in batches for 3 to 4 minutes, until they float and the filling is cooked through (160°F).",
     "Add the bok choy to the broth for the last 2 minutes.",
     "Divide the wontons and bok choy between bowls, ladle the hot broth over and top with scallions and a few drops of sesame oil."
    ],
@@ -47485,7 +47589,7 @@
     "Roll the dough into a log and cut it into 32 pieces. Roll each into a 3 1/4-inch circle, thinner at the edges than in the center.",
     "Put 1 tablespoon of filling in the center of a wrapper. Pleat the edge all the way around, about 16 to 18 small folds, then pinch and twist the top to seal.",
     "Line a steamer with cabbage leaves or parchment and set the dumplings in it 1 inch apart.",
-    "Steam over boiling water for 8 minutes.",
+    "Steam over boiling water for 8 minutes, until the filling is cooked through (160°F).",
     "Serve right away with black vinegar and ginger matchsticks for dipping."
    ],
    "allergens": [
@@ -47753,7 +47857,9 @@
     "non_alcoholic_version": "Shake lime, grapefruit, cinnamon syrup and pineapple juice."
    },
    "note": "Very strong; limit to one.",
-   "tips": [],
+   "tips": [
+    "Don's Mix is 2 parts fresh grapefruit juice to 1 part cinnamon syrup. Make extra; it keeps 3 days in the fridge."
+   ],
    "make_ahead": "",
    "variations": []
   }

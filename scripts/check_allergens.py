@@ -8,8 +8,8 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent.parent
 RULES = {
     "milk": r"\b(butter|milk|cream(?! of coconut)|cheese|cheddar|mozzarella|parmesan|pecorino|ricotta|feta|paneer|yogurt|ghee|crema|queso|gruy|provolone|swiss|kibbeh|irish cream|sour cream|buttermilk|half-and-half|mascarpone)\b",
-    "eggs": r"\b(eggs?|egg yolks?|yolks?|mayonnaise|mayo|egg noodles|eggnog|brioche|challah)\b",
-    "wheat": r"\b(flour|bread|breadcrumbs|panko|pasta|spaghetti|fettuccine|linguine|macaroni|ziti|lasagna|noodles|tortillas?\b(?!.*corn)|pita|pide|baguette|rolls?|buns?|croutons|crackers|couscous|bulgur|soy sauce|beer|stout|lager|wrappers|pastry|pie crusts?|waffle|naan|roti|paratha|pav|dough|gingersnap|muffins|saltine|udon|ramen|vermicelli(?!.*rice))\b",
+    "eggs": r"\b(eggs?|egg yolks?|yolks?|mayonnaise|mayo|egg noodles|eggnog|brioche|challah|coleslaw)\b",
+    "wheat": r"\b(flour|bread|breadcrumbs|panko|pasta|spaghetti|fettuccine|linguine|macaroni|ziti|lasagna|noodles|tortillas?\b(?!.*corn)|pita|pide|baguette|rolls?|buns?|croutons|crackers|couscous|bulgur|soy sauce|beer|stout|lager|wrappers|pastry|pie crusts?|waffle|naan|roti|paratha|pav|dough|gingersnap|muffins|saltine|udon|ramen|vermicelli(?!.*rice)|kecap manis|kecap asin)\b",
     "soy": r"\b(soy|soya|soybeans?|soymilk|tofu|edamame|miso|kecap|tamari|tempeh|shoyu|hoisin|maggi)\b",
     "fish": r"\b(fish|anchov|cod|salmon|haddock|tuna|bonito|dashi|worcestershire|eel|unagi|saltfish)\b",
     "shellfish": r"\b(shrimp|prawn|crab|clam|mussel|lobster|scallop|oyster sauce|squid|octopus|crayfish|bagoong|shrimp paste|clamato)\b",
@@ -22,6 +22,13 @@ SAFE_WORDS = {
     "wheat": r"\b(?:corn tortillas?|taco shells|tortilla (?:chips|strips)|(?:thin |flat )?rice (?:vermicelli|noodles|flour)|chickpea flour|ginger beer|root beer)\b",
     "fish": r"\b(?:kombu|mushroom) dashi\b",
 }
+# Store-bought items whose allergens depend on the brand: list the allergen, name a checked brand with the diet word in
+# front ("gluten-free ..."), or add a tip or note that tells the cook to check the label.
+BRAND_DEPENDENT = {
+    "wheat": r"\b(enchilada sauce|sambar powder|pav bhaji masala|asafoetida|hing)\b",
+    "fish": r"\b(barbecue sauce|bbq sauce)\b",
+}
+
 QUALIFIERS = {
     "milk": r"(?:vegan|dairy-free|non-dairy|plant-based)",
     "eggs": r"(?:vegan|egg-free|plant-based)",
@@ -54,6 +61,15 @@ def find_findings(recipes):
                     fingerprint = hashlib.sha256(json.dumps([stem, name, allergen, lines], ensure_ascii=False).encode()).hexdigest()
                     flags.append({"id": fingerprint, "recipe": stem, "version": name, "allergen": allergen,
                                   "message": f"{stem} ({name}): missing {allergen}? ({match.group(0)})"})
+            advice = " ".join(recipe.get("tips") or []) + " " + (recipe.get("note") or "")
+            for allergen, pattern in BRAND_DEPENDENT.items():
+                match = re.search(pattern, " ; ".join(allergen_text(line, allergen) for line in lines))
+                if allergen in recipe["allergens"] or not match or re.search(r"\blabel\b", advice, re.I):
+                    continue
+                fingerprint = hashlib.sha256(json.dumps([stem, name, allergen, "brand", lines], ensure_ascii=False).encode()).hexdigest()
+                flags.append({"id": fingerprint, "recipe": stem, "version": name, "allergen": allergen,
+                              "message": f"{stem} ({name}): {match.group(0)} may contain {allergen} depending on the brand;"
+                                         " list it, name a checked brand, or add a label-check tip"})
     return flags
 
 def find_flags(recipes):

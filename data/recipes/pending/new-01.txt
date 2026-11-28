@@ -96,6 +96,7 @@ T Cool the rice to room temperature before rolling: hot rice makes the nori go l
 S Sushi is best eaten within a few hours. Don't refrigerate it, because cold makes the rice hard.
 V Spicy tuna roll: chop the tuna and mix it with a little mayonnaise and sriracha before rolling.
 V Avocado roll: use thin slices of ripe avocado as the filling.
+T The fish is eaten raw. Buy fish sold for eating raw that has been frozen to kill parasites, keep it very cold, and serve only the cucumber rolls to anyone pregnant, older or with a weakened immune system.
 @@ vegetarian | Avocado and Cucumber Maki Rolls | 45 | 30 | soy, wheat | Classic thin sushi rolls of seasoned rice and nori, half filled with creamy avocado and half with crisp cucumber. Served with soy sauce, wasabi and pickled ginger.
 - 2 | cups | Japanese short-grain rice
 - 2 | cups | water
@@ -109,6 +110,9 @@ V Avocado roll: use thin slices of ripe avocado as the filling.
 - | | pickled ginger, to serve
 - | | soy sauce, to serve
 ~ tuna => avocado
+T Keep a bowl of water with a splash of vinegar beside you. Wet hands stop the rice from sticking to your fingers.
+T Use less rice than you think. A thin layer keeps the roll neat and lets the filling stand out.
+T Cool the rice to room temperature before rolling: hot rice makes the nori go limp.
 @@ vegan = vegetarian
 
 @ egg-fried-rice | Egg Fried Rice | 4 | 10 | 10 | eggs, soy, wheat, sesame | The everyday Chinese fried rice: day-old rice tossed in a very hot pan with soft egg, peas, carrot and scallions. Ready in ten minutes.

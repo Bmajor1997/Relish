@@ -226,6 +226,15 @@ def diet_problems(r, diet):
     return [w for w in banned if re.search(r"\b" + re.escape(w), text)]
 
 
+def inherited_problems(base, made, v, diet):
+    """Tips, make-ahead and notes a version copies word for word from the regular recipe must not still talk about meat or
+    dairy. Lines the version rewrote with a ~ swap were written for it on purpose, so comparisons like "flakes like fish" pass."""
+    kept = set(base["tips"]) | {base["make_ahead"] or "", base["note"] or ""}
+    copied = ([] if "T" in v["parts"] else made["tips"]) + ([] if "S" in v["parts"] else [made["make_ahead"] or ""]) \
+        + ([] if "!" in v["parts"] else [made["note"] or ""])
+    return diet_problems({"ingredients": [], "steps": [x for x in copied if x and x in kept], "cocktail": None}, diet)
+
+
 out = {}
 for stem, r in recipes.items():
     if r.get("variant_of"):
@@ -257,6 +266,10 @@ for stem, r in recipes.items():
             left = diet_problems(made, diet)
             if left:
                 fail(f"{stem}~{diet}", f"still has {', '.join(left)}" + (" (marked same)" if v == "same" else ""))
+            copied = [] if v == "same" else inherited_problems(r, made, v, diet)
+            if copied:
+                fail(f"{stem}~{diet}", f"a tip, note or make-ahead line copied from the regular recipe still names {', '.join(copied)};"
+                                       " swap it with a ~ line or give the version its own T, S or ! lines")
             entry["variants"][diet] = "same" if v == "same" else check(f"{stem}~{diet}", made, kind)
     out[stem] = entry
 

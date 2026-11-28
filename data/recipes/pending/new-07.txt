@@ -70,6 +70,7 @@ T Chop by hand. A food processor turns chimichurri into a paste; it should be a 
 T Slice skirt and flank steak across the grain, or it will be chewy.
 S Chimichurri keeps in the fridge for up to 5 days and gets better on the second day. Bring it to room temperature before serving.
 V Serve with grilled chorizo, provoleta (grilled provolone) or grilled vegetables, the way an Argentine asado would.
+T USDA's safe minimum for beef steaks is 145°F with a 3-minute rest. 130°F is the usual medium-rare.
 
 @ apple-pie | Classic Apple Pie | 8 | 45 | 70 | wheat, milk | The all-American double-crust pie: a flaky butter pastry filled with thinly sliced tart apples, cinnamon and a little brown sugar, baked until golden and bubbling.
 - 2 1/2 | cups | all-purpose flour

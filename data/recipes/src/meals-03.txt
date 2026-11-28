@@ -29,7 +29,7 @@
 - 1 | cup | shredded lettuce
 - 1 | cup | shredded cheddar
 - | | salsa and sour cream
-# Brown the beef and onion and drain the fat.
+# Brown the beef and onion until cooked through (160°F) and drain the fat.
 # Add the spices, salt and tomato sauce and simmer 5 minutes.
 # Warm the shells and fill with beef, lettuce, cheese, salsa and sour cream.
 
@@ -44,7 +44,7 @@
 - 1/2 | cup | chicken broth
 - 2 | tbsp | chopped parsley
 # Season the chicken and dredge in flour.
-# Brown in the oil and 1 tbsp butter 3 to 4 minutes per side. Remove.
+# Brown in the oil and 1 tbsp butter 3 to 4 minutes per side, until 165°F inside. Remove.
 # Add 1 tbsp butter and the mushrooms and cook until browned, then the garlic.
 # Add the Marsala and broth and simmer until reduced by half. Swirl in the last of the butter.
 # Return the chicken to warm through and top with parsley.
@@ -135,7 +135,7 @@
 # Knead the flour, egg, water and a pinch of salt into a firm dough. Rest 30 minutes.
 # Mix the meat, onion and salt.
 # Roll the dough thin, cut into 1 1/2-inch squares, add a pea-size piece of filling and pinch the corners together.
-# Boil the manti in salted water 10 to 12 minutes until tender.
+# Boil the manti in salted water 10 to 12 minutes, until tender and the filling is cooked through (160°F).
 # Mix the yogurt and garlic. Melt the butter with the pepper and mint.
 # Spoon the garlic yogurt over the manti and drizzle with the hot butter.
 
@@ -166,7 +166,7 @@
 - 4 | cups | Chinese broccoli (gai lan), cut up
 - | | white pepper
 # Separate the noodles and mix the sauces and sugar.
-# Stir-fry the garlic and chicken in hot oil until cooked.
+# Stir-fry the garlic and chicken in hot oil until cooked through (165°F).
 # Add the gai lan stems, then the leaves.
 # Push aside, scramble the eggs, then add the noodles and sauce and fry without stirring too much so they char slightly.
 # Season with white pepper.
@@ -237,7 +237,7 @@
 # Marinate the chicken in the soy sauce, sugar, turmeric, coriander and 1/4 cup coconut milk for 1 hour.
 # Thread onto skewers.
 # Simmer the remaining coconut milk with the peanut butter, curry paste and lime juice until smooth.
-# Grill the skewers 3 to 4 minutes per side until charred and cooked.
+# Grill the skewers 3 to 4 minutes per side until charred and cooked through (165°F).
 # Serve with the peanut sauce.
 
 @ tom-yum-soup | Tom Yum Soup | 4 | 15 | 15 | shellfish, fish | Hot and sour Thai shrimp soup with lemongrass, galangal and lime leaves.
@@ -286,7 +286,7 @@
 - 4 | | large eggs, fried
 - | | cucumber, tomato and fried shallots
 # Fry the shallots, garlic, chile and shrimp paste in the oil until fragrant.
-# Add the chicken or shrimp and cook through.
+# Add the chicken or shrimp and cook through (165°F for chicken).
 # Add the rice, kecap manis and soy sauce and toss over high heat until hot and lightly charred.
 # Serve topped with a fried egg, with cucumber, tomato and fried shallots.
 
@@ -307,6 +307,7 @@
 # Add the shrimp and tofu puffs and cook 2 to 3 minutes.
 # Divide the noodles and sprouts among bowls and ladle the broth over.
 # Top with herbs, chiles and lime.
+V Top each bowl with a halved hard-boiled egg, the way many Malaysian stalls do.
 
 @ bun-cha | Bun Cha | 4 | 30 | 15 | fish | Hanoi-style grilled pork patties in a sweet-sour dipping broth with rice noodles and herbs.
 - 1 | lb | ground pork
@@ -320,7 +321,7 @@
 - 12 | oz | rice vermicelli, cooked
 - | | lettuce, mint, cilantro, Thai basil, pickled carrot and chiles
 # Mix the pork with 1 tbsp fish sauce, 1 tbsp sugar, shallots, half the garlic and the pepper. Shape into small patties.
-# Grill or broil the patties until charred and cooked, about 4 minutes per side.
+# Grill or broil the patties until charred and cooked through (160°F), about 4 minutes per side.
 # Stir the remaining fish sauce, sugar and garlic with the lime juice and warm water for the dipping broth.
 # Put the patties in bowls of the broth and serve with noodles, herbs and pickles to dip.
 
@@ -355,6 +356,7 @@
 # Fry the eggs to your liking.
 # Spread each tortilla with beans, top with an egg and spoon over the sauce.
 # Finish with queso fresco, avocado and cilantro.
+T Eggs fried with runny yolks aren't fully cooked. For anyone pregnant, older or with a weakened immune system, fry them until firm or use pasteurized eggs.
 
 @ banh-mi | Pork Banh Mi | 4 | 30 | 15 | wheat, eggs, soy, fish | Vietnamese baguette with lemongrass pork, pickled vegetables, cilantro, chiles and mayo.
 - 1 | lb | pork tenderloin, thinly sliced
@@ -441,7 +443,7 @@
 # Pour over the lime juice and let stand 10 to 15 minutes until the outside turns opaque.
 # Add the onion and cilantro.
 # Serve right away with sweet potato and corn.
-! Use the freshest, sushi-grade fish you can get.
+! Lime juice turns the fish opaque but doesn't cook it, so it stays raw. Buy fish sold for eating raw that has been frozen to kill parasites, keep it cold, and don't serve ceviche to anyone pregnant, older or with a weakened immune system.
 
 @ tamales | Pork Tamales | 12 | 90 | 90 | - | Steamed masa dough wrapped in corn husks around red chile pork.
 - 24 | | dried corn husks, soaked
@@ -495,7 +497,7 @@
 - 2 | | hard-boiled eggs, chopped
 - 12 | | empanada dough rounds
 - 1 | | egg, beaten
-# Cook the onion and pepper until soft, add the beef and spices and cook through. Stir in the olives and cool.
+# Cook the onion and pepper until soft, add the beef and spices and cook through (160°F). Stir in the olives and cool.
 # Heat the oven to 400°F.
 # Fill each round with beef and a little egg, fold over and crimp the edges.
 # Brush with beaten egg and bake 20 to 25 minutes until golden.
@@ -531,7 +533,7 @@
 # After 1 to 2 minutes, turn each ball with a skewer, tucking in the edges, and keep turning until round and golden.
 # Top with sauce, mayo, bonito flakes and aonori.
 
-@ cabbage-rolls | Stuffed Cabbage Rolls | 6 | 40 | 75 | - | Cabbage leaves rolled around beef and rice, baked in a sweet-sour tomato sauce.
+@ cabbage-rolls | Stuffed Cabbage Rolls | 6 | 40 | 105 | - | Cabbage leaves rolled around beef and rice, baked in a sweet-sour tomato sauce.
 - 1 | | large head green cabbage
 - 1 | lb | ground beef
 - 1/2 | lb | ground pork
@@ -629,7 +631,7 @@
 - 4 | | pitas
 - | | tomatoes, cucumber, onion and pickles
 # Marinate the chicken in the yogurt, lemon, spices, garlic and salt for at least 2 hours.
-# Roast at 425°F or grill 20 minutes until charred and cooked. Rest and slice thinly.
+# Roast at 425°F or grill 20 minutes until charred and cooked through (165°F). Rest and slice thinly.
 # Warm the pitas.
 # Fill with chicken, vegetables, pickles and sauce, and roll up.
 
@@ -646,7 +648,7 @@
 - 1 | cup | plain yogurt with grated cucumber and mint
 # Knead the meat with the onion, parsley, garlic, spices and salt until sticky.
 # Shape around skewers into long sausages.
-# Grill over medium-high heat 10 to 12 minutes, turning, until cooked.
+# Grill over medium-high heat 10 to 12 minutes, turning, until cooked through (160°F).
 # Serve with the yogurt sauce, flatbread and salad.
 
 @ bratwurst-with-sauerkraut | Bratwurst with Sauerkraut | 4 | 10 | 30 | milk | Beer-simmered then seared bratwurst over warm sauerkraut with mustard.

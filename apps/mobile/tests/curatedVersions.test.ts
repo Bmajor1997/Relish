@@ -274,7 +274,7 @@ describe("written versions that lean on the original", () => {
       ]),
     );
     const punch = curated_non_alcoholic(recipe_of("hibiscus-citrus-rum-punch"))!;
-    expect(punch.ingredients[1]).toEqual({ amount: "1½", unit: "oz", item: "chilled unsweetened hibiscus tea (more)" });
+    expect(punch.ingredients[1]).toEqual({ amount: "1 1/2", unit: "oz", item: "chilled unsweetened hibiscus tea (more)" });
     // "Add soda water" is the soda, not the watermelon juice.
     const cooler = curated_non_alcoholic(recipe_of("watermelon-mint-rum-cooler"))!;
     expect(cooler.ingredients.map((i) => i.item)).toContain("soda water (more)");

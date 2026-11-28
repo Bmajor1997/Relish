@@ -9,11 +9,14 @@ It writes:
   apps/mobile/src/recipes/collection.json      every hand-written recipe, keyed by file name
   apps/mobile/src/recipes/collectionPhotos.ts  the dishes, their names and photos (bundled with require)
   apps/mobile/src/ui/wallPhotos.ts             the two rows of the Home photo wall
+  data/curated-photos/fingerprints.json        hashes of the app photos, for scripts/check_photo_duplicates.py
 """
 import json
 from pathlib import Path
 
 from PIL import Image
+
+from photo_fingerprints import write_fingerprints
 
 ROOT = Path(__file__).resolve().parent.parent
 CURATED = ROOT / "data" / "curated-photos"
@@ -94,3 +97,5 @@ rows_ts = ",\n".join(
 )
 size = sum(f.stat().st_size for f in OUT.glob("*.jpg"))
 print(f"{len(stems)} dishes bundled; photos {size / 1e6:.1f} MB")
+
+write_fingerprints()

@@ -24,7 +24,8 @@ G rocks glass | candied ginger | y | Shake lemon and honey-ginger syrup with col
 - 1 | | egg white
 # Dry-shake everything without ice, then shake again with ice.
 # Strain into a chilled coupe.
-G coupe | raspberries on a pick | y | Shake raspberry syrup, lemon and egg white and top with sparkling lemonade.
+G coupe | raspberries on a pick | y | Shake raspberry syrup, lemon and pasteurized egg white or aquafaba and top with sparkling lemonade.
+T This drink uses raw egg white. Use pasteurized egg white if you prefer, and always for anyone pregnant, older or with a weakened immune system.
 
 @ bamboo | Bamboo | 1 | 3 | 0 | - | A light, low-alcohol stir of dry sherry and dry vermouth.
 - 1 1/2 | oz | vegan fino sherry (such as Tio Pepe)
@@ -115,6 +116,7 @@ G coupe | grated chocolate and mint | y | Shake cream, mint syrup and chocolate 
 # Add ice and shake hard for another minute.
 # Strain into a Collins glass and top with soda so the foam rises above the rim.
 G Collins glass | - | y | -
+T This drink uses raw egg white. Use pasteurized egg white if you prefer, and always for anyone pregnant, older or with a weakened immune system.
 
 @ french-martini | French Martini | 1 | 3 | 0 | - | Vodka, raspberry liqueur and pineapple, shaken to a frothy top.
 - 2 | oz | vodka
@@ -133,6 +135,7 @@ G martini glass | raspberries | y | Shake pineapple juice and raspberry syrup un
 # Dry-shake the pisco, lime, syrup and egg white, then shake again with ice.
 # Strain into a rocks glass or coupe and dot with bitters.
 G rocks glass or coupe | Angostura drops | y | -
+T This drink uses raw egg white. Use pasteurized egg white if you prefer, and always for anyone pregnant, older or with a weakened immune system.
 
 @ singapore-sling | Singapore Sling | 1 | 5 | 0 | - | Gin with cherry, pineapple, lime and Bénédictine, the Raffles Hotel classic.
 - 1 1/2 | oz | gin
@@ -199,13 +202,14 @@ G highball glass | lime wedge | y | Cola with lime.
 - 1/2 | oz | grenadine
 # Shake everything with ice.
 # Strain into a hurricane glass with ice.
-G hurricane glass | orange slice and cherry | y | Pineapple, orange and banana juice with grenadine.
+G hurricane glass | orange slice and cherry | y | Pineapple juice, orange juice and banana nectar with grenadine.
 
 @ lemon-drop | Lemon Drop | 1 | 3 | 0 | - | Vodka, lemon and orange liqueur in a sugar-rimmed glass.
 - 2 | oz | citrus vodka
 - 1/2 | oz | Cointreau
 - 1 | oz | fresh lemon juice
 - 1/2 | oz | simple syrup
+- | | sugar, for the rim
 # Rim a martini glass with sugar.
 # Shake everything with ice and strain into the glass.
 G sugar-rimmed martini glass | lemon twist | y | Shake lemon and syrup and top with sparkling lemonade in a sugar-rimmed glass.
@@ -301,6 +305,7 @@ G coupe | lime twist | y | -
 - 2 | oz | Cognac
 - 3/4 | oz | Cointreau
 - 3/4 | oz | fresh lemon juice
+- | | sugar, for the rim
 # Rim a coupe with sugar.
 # Shake everything with ice and strain into the glass.
 G sugar-rimmed coupe | orange twist | y | -
@@ -575,6 +580,7 @@ G coupe | lemon twist | y | -
 # Dry-shake everything, then shake again with ice.
 # Strain into a chilled coupe.
 G coupe | grated nutmeg | y | -
+T This drink uses raw egg white. Use pasteurized egg white if you prefer, and always for anyone pregnant, older or with a weakened immune system.
 
 @ mamacita | Mamacita | 1 | 3 | 0 | - | Tequila and passion fruit with lime and a splash of soda.
 - 1 1/2 | oz | reposado tequila

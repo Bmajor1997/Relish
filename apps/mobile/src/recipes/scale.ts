@@ -1,4 +1,4 @@
-// Scales US recipe amounts like "1 1/2", "3/4", "½" or "2-3" for the servings counter.
+// Scales US recipe amounts like "1 1/2", "3/4", "½", "2-3" or "6 to 8" for the servings counter.
 // Anything that isn't a plain number (for example "a pinch") is left exactly as written.
 
 const UNICODE_FRACTIONS: Record<string, number> = {
@@ -53,13 +53,14 @@ export function format_quantity(value: number): string {
   return whole ? `${whole} ${best[1]}` : best[1];
 }
 
-/** Scales "2", "1 1/2" or a range like "2-3"; returns the original text when it can't be scaled. */
+/** Scales "2", "1 1/2" or a range like "2-3" or "6 to 8"; returns the original text when it can't be scaled. */
 export function scale_amount(amount: string, factor: number): string {
   if (factor === 1 || !amount.trim()) return amount;
-  const range = /^(.+?)\s*[-–]\s*(.+)$/.exec(amount.trim());
+  const range = /^(.+?)\s*(?:[-–]|\bto\b)\s*(.+)$/.exec(amount.trim());
   if (range) {
     const [a, b] = [parse_quantity(range[1]), parse_quantity(range[2])];
-    if (a !== null && b !== null) return `${format_quantity(a * factor)}-${format_quantity(b * factor)}`;
+    const joiner = /\bto\b/.test(amount) ? " to " : "-";
+    if (a !== null && b !== null) return `${format_quantity(a * factor)}${joiner}${format_quantity(b * factor)}`;
   }
   const n = parse_quantity(amount);
   return n === null ? amount : format_quantity(n * factor);

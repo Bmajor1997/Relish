@@ -26,6 +26,7 @@ T The dusting of flour helps the batter cling, especially to shrimp and smooth v
 T Skim floating bits of batter from the oil between batches so they don't burn.
 V Add onion rings, green beans, kabocha squash or shiso leaves.
 @@ vegetarian | Vegetable Tempura | 30 | 25 | eggs, wheat, soy | Sweet potato, eggplant, shiitake and zucchini in a light, ice-cold batter, fried crisp and served with a kombu and soy dipping sauce.
+~ especially to shrimp and smooth vegetables => especially to smooth vegetables
 - 1 | | small sweet potato, cut into 1/4-inch rounds
 - 1 | | small Japanese eggplant, cut into 1/4-inch slices
 - 12 | | shiitake mushrooms, stems removed
@@ -92,7 +93,7 @@ T The bubbles in the sparkling water make the egg-free batter extra light. Open 
 - | | pickled red ginger or fukujinzuke, to serve (optional)
 # Heat the oil in a large pot over medium heat. Add the onions with a pinch of salt and cook, stirring often, for 15 minutes, until soft and golden brown.
 # Add the ginger, garlic and chicken and cook for 3 minutes, until the chicken is no longer pink outside.
-# Add the carrots, potatoes, broth and grated apple. Bring to a boil, skim off any foam, then cover and simmer for 20 minutes, until the potatoes are tender.
+# Add the carrots, potatoes, broth and grated apple. Bring to a boil, skim off any foam, then cover and simmer for 20 minutes, until the potatoes are tender and the chicken reaches 165°F.
 # Meanwhile, make the roux: melt the butter in a small pan over medium-low heat, stir in the flour and cook, stirring, for 8 to 10 minutes, until it smells nutty and turns light brown. Stir in the curry powder and garam masala and cook for 30 seconds more, then turn off the heat.
 # Ladle about 1 cup of the hot broth into the roux and whisk until smooth, then stir it back into the pot.
 # Add the soy sauce and ketchup and simmer gently, stirring, for 5 minutes, until the curry is thick and glossy. Taste for salt.
@@ -197,18 +198,18 @@ V Sweet and sour chicken: use boneless chicken thighs and fry them for 1 minute 
 
 @ general-tsos-chicken | General Tso's Chicken | 4 | 25 | 20 | eggs, wheat, soy, sesame | The Chinese-American takeout favorite: crisp fried chicken in a sticky, sweet, sour and gently spicy sauce with garlic, ginger and dried red chilies.
 - 1 1/2 | lb | boneless, skinless chicken thighs, cut into 1-inch pieces
-- 1 | tbsp | soy sauce
+- 1 | tbsp | soy sauce, for the marinade
 - 1 | tbsp | Shaoxing wine
 - 1 | | large egg white
-- 3/4 | cup | cornstarch
+- 3/4 | cup | cornstarch, for coating
 - 1 | quart | vegetable or canola oil, for frying
 - 1/2 | cup | low-sodium chicken broth
-- 2 | tbsp | soy sauce
+- 2 | tbsp | soy sauce, for the sauce
 - 1 | tsp | dark soy sauce
 - 2 1/2 | tbsp | Chinese rice vinegar
 - 1 | tbsp | hoisin sauce
 - 3 | tbsp | sugar
-- 1 | tbsp | cornstarch
+- 1 | tbsp | cornstarch, for the sauce
 - 3 | cloves | garlic, minced
 - 1 | tbsp | minced fresh ginger
 - 6 to 8 | | small dried red chilies
@@ -219,7 +220,7 @@ V Sweet and sour chicken: use boneless chicken thighs and fry them for 1 minute 
 # Toss the chicken with 1 tablespoon soy sauce, the Shaoxing wine and egg white. Let it sit for 15 minutes.
 # Whisk the broth, 2 tablespoons soy sauce, dark soy sauce, rice vinegar, hoisin, sugar and 1 tablespoon cornstarch in a bowl.
 # Toss the chicken in the 3/4 cup cornstarch, pressing to coat.
-# Heat 2 inches of oil in a wok or heavy pot to 350°F. Fry the chicken in batches for 4 to 5 minutes, until golden and cooked through. Drain on a rack.
+# Heat 2 inches of oil in a wok or heavy pot to 350°F. Fry the chicken in batches for 4 to 5 minutes, until golden and cooked through (165°F). Drain on a rack.
 # Pour off all but 1 tablespoon of oil. Over medium heat, add the dried chilies and fry for 10 seconds, then add the garlic and ginger and stir for 20 seconds.
 # Stir the sauce, pour it in and cook, stirring, until thick and glossy, about 1 minute.
 # Add the chicken and sesame oil and toss to coat. Top with the scallions and sesame seeds and serve with rice.
@@ -250,7 +251,7 @@ V Add steamed broccoli florets with the chicken.
 # Roll the dough into a log and cut it into 32 pieces. Roll each into a 3 1/4-inch circle, thinner at the edges than in the center.
 # Put 1 tablespoon of filling in the center of a wrapper. Pleat the edge all the way around, about 16 to 18 small folds, then pinch and twist the top to seal.
 # Line a steamer with cabbage leaves or parchment and set the dumplings in it 1 inch apart.
-# Steam over boiling water for 8 minutes.
+# Steam over boiling water for 8 minutes, until the filling is cooked through (160°F).
 # Serve right away with black vinegar and ginger matchsticks for dipping.
 T Lift each dumpling gently into a spoon, nibble a small hole, sip the soup, then eat the rest.
 T Keep the filling and aspic cold while you work. Warm aspic melts and makes the dumplings hard to seal.
@@ -315,7 +316,7 @@ T For a gluten-free version, use tamari instead of soy sauce.
 - 1/4 | cup | cilantro leaves, to serve
 # Bring the broth to a simmer in a pot. Add the lemongrass, galangal, lime leaves and chilies and simmer for 5 minutes to release their flavor.
 # Add the coconut milk and chicken and bring back to a gentle simmer. Cook for 5 minutes.
-# Add the mushrooms, fish sauce and sugar and simmer for 3 to 4 minutes more, until the chicken is cooked through.
+# Add the mushrooms, fish sauce and sugar and simmer for 3 to 4 minutes more, until the chicken is cooked through (165°F).
 # Turn off the heat and stir in the lime juice.
 # Taste: it should be sour and salty first, then creamy. Add more lime or fish sauce if needed. Serve topped with cilantro.
 T Keep it at a gentle simmer once the coconut milk is in. A hard boil can make it split.

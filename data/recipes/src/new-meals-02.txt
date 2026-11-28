@@ -21,6 +21,7 @@ T Add the greens only at the end so they keep their color and a little bite.
 S The potato base keeps 3 days in the fridge or 3 months frozen. Add freshly cut greens and the sausage when reheating.
 V Use Spanish chorizo or a smoked kielbasa if you can't find Portuguese sausage.
 @@ vegetarian | Vegetarian Caldo Verde | 15 | 30 | - | The same silky potato and greens soup with smoked paprika oil and white beans in place of the chouriço.
+~ Add freshly cut greens and the sausage when reheating. => Add freshly cut greens and the white beans when reheating.
 - 1/4 | cup | extra-virgin olive oil, plus more to serve
 - 2 | tsp | smoked paprika
 - 1 | | large onion, chopped
@@ -70,6 +71,7 @@ T Flying fish is delicate. Steam it gently in the sauce rather than boiling it.
 S The sauce keeps 3 days; cook the fish in it fresh. Cou-cou firms up as it cools; slice and fry leftovers in butter.
 V Fried flying fish: dip the seasoned fillets in flour, egg and breadcrumbs and fry until golden, then serve the sauce on the side.
 @@ vegetarian | Vegetarian Cou-Cou with Creole Eggplant | 30 | 40 | milk | Silky okra cou-cou topped with seasoned eggplant steamed in the same tomato and pepper creole sauce.
+~ cook the fish in it fresh => cook the eggplant in it fresh
 ~ flying fish fillets, or 1 1/2 lb thin white fish fillets => small eggplants, sliced into thick rounds
 ~ fish or vegetable stock => vegetable stock
 ~ Rub the fish with lime juice and a pinch of salt, rinse, then coat with the Bajan seasoning. Marinate 30 minutes or up to overnight. => Salt the eggplant for 15 minutes and pat dry, then coat with the lime juice and Bajan seasoning. Brown it in a little oil for 3 minutes a side.
@@ -129,6 +131,7 @@ V Use thin calamari steaks or pounded shrimp if you can't find conch.
 ~ large eggs => tbsp cornstarch
 ~ whole milk => unsweetened soy milk
 ~ mayonnaise mixed with => vegan mayo mixed with
+~ French fries, coleslaw or peas and rice => French fries, vinegar slaw or peas and rice
 ~ Rinse the conch, rub it with the lime juice and trim off any tough orange skin. => Toss the mushroom planks with the lime juice and a pinch of salt.
 ~ Put each piece between sheets of plastic wrap and pound with a meat mallet until about 1/4 inch thick and noticeably softer. Cut large pieces in half. => Press each plank firmly with the flat of a knife or a heavy pan to flatten it slightly so it cooks evenly.
 ~ Whisk the eggs and milk in one dish. => Whisk the cornstarch and soy milk in one dish.
@@ -157,7 +160,7 @@ V Use thin calamari steaks or pounded shrimp if you can't find conch.
 - 1 | lb | fresh thin wheat noodles
 - 4 | heads | baby bok choy, halved
 - 1/4 | cup | roasted peanuts, crushed, and sliced green onions, to serve
-# Heat the oil in a wok and stir-fry the pork over medium-high heat for 5 to 7 minutes, breaking it up, until browned and slightly crisp.
+# Heat the oil in a wok and stir-fry the pork over medium-high heat for 5 to 7 minutes, breaking it up, until browned, slightly crisp and cooked through (160°F).
 # Add the Shaoxing wine, sweet bean sauce and dark soy sauce and cook 1 minute. Push the pork aside, add the ya cai and stir for 30 seconds, then mix it in.
 # Whisk the sesame paste, light soy sauce, chili oil, vinegar, sugar, Sichuan pepper and garlic in a bowl, then loosen with the hot noodle water or broth.
 # Cook the noodles according to the package. Add the bok choy for the last minute, then drain.
@@ -170,7 +173,7 @@ V Use ground chicken or turkey instead of pork.
 @@ vegetarian | Vegetarian Dan Dan Noodles | 20 | 15 | wheat, soy, sesame, peanuts | Crisp, savory chopped mushrooms and tofu in place of pork, over noodles in the same numbing sesame and chili sauce.
 ~ ground pork => mixed mushrooms and firm tofu, finely chopped
 ~ hot noodle water or chicken broth => hot noodle water or vegetable broth
-~ Heat the oil in a wok and stir-fry the pork over medium-high heat for 5 to 7 minutes, breaking it up, until browned and slightly crisp. => Heat 2 tbsp oil in a wok and stir-fry the mushrooms and tofu over medium-high heat for 8 to 10 minutes, until their liquid has cooked off and they are browned and crisp at the edges.
+~ Heat the oil in a wok and stir-fry the pork over medium-high heat for 5 to 7 minutes, breaking it up, until browned, slightly crisp and cooked through (160°F). => Heat 2 tbsp oil in a wok and stir-fry the mushrooms and tofu over medium-high heat for 8 to 10 minutes, until their liquid has cooked off and they are browned and crisp at the edges.
 ~ cook 1 minute. Push the pork aside => cook 1 minute. Push the mushrooms aside
 ~ top with the pork, peanuts => top with the mushroom crumble, peanuts
 ~ Fry the pork until it's dry and slightly crispy; that's what gives dan dan its savory crunch. => Fry the mushrooms until all their water is gone and they start to crisp; that's what gives dan dan its savory crunch.
@@ -201,7 +204,7 @@ V Use ground chicken or turkey instead of pork.
 # Char the tomatoes and chilies in a dry pan or under the broiler until blackened in spots. Blend them with the toasted sesame, lime juice, timur, the rest of the salt and a little water into a thick sauce.
 # Roll the dough into a log, cut into 30 pieces and roll each into a thin 3 1/2-inch circle, thinner at the edges.
 # Put a spoon of filling in the center and pleat the edges together into a round purse, twisting the top to seal.
-# Steam on oiled racks for 10 to 12 minutes, until the wrappers are glossy and the filling is cooked through. Serve hot with the achar.
+# Steam on oiled racks for 10 to 12 minutes, until the wrappers are glossy and the filling is cooked through (165°F). Serve hot with the achar.
 T Roll the wrapper edges thinner than the center, so the pleated top isn't doughy.
 T The oil in the filling and the juice from the onion make the momos burst with broth when you bite them.
 T Charring the tomatoes gives the achar its smoky depth; don't skip it.
@@ -353,7 +356,7 @@ V Lighter: roast the oiled eggplant at 425°F for 25 to 30 minutes instead of fr
 # Put the tripe, bones, bay leaves and 12 cups water in a large pot. Simmer gently, skimming often, for 2 1/2 to 3 hours, until the tripe is very tender.
 # Add the carrots, parsnip, celery root and onion for the last 45 minutes.
 # Lift out the tripe and vegetables. Strain the broth. Slice the tripe into thin strips and the carrot into matchsticks, and return them to the broth with the salt.
-# Whisk the sour cream and egg yolks in a bowl. Slowly whisk in 2 ladles of hot broth, then stir the mixture back into the pot over low heat. Don't let it boil.
+# Whisk the sour cream and egg yolks in a bowl. Slowly whisk in 2 ladles of hot broth, then stir the mixture back into the pot over low heat. Heat gently until steaming (160°F) so the yolks cook through, but don't let it boil.
 # Stir in half the garlic paste and the vinegar. Taste and add more vinegar or salt until it's pleasantly sour. Serve with hot peppers, more garlic and sour cream on the side.
 T Temper the egg yolks with hot broth before adding them to the pot, and never boil afterward, or they'll curdle.
 T The soup should taste clearly sour. Add vinegar a spoonful at a time and taste as you go.
@@ -377,7 +380,7 @@ V Ciorbă de ciocănele: make it with pork shanks instead of tripe.
 - | | hot peppers and extra sour cream, to serve
 # Simmer the broth with the carrots, parsnip, celery root, onion and bay leaves for 30 minutes. Lift out the vegetables and cut the carrot into matchsticks.
 # Brown the mushroom strips in the oil over high heat for 6 to 8 minutes. Add them and the carrot to the broth with the salt and simmer 10 minutes.
-# Whisk the sour cream and egg yolks in a bowl. Slowly whisk in 2 ladles of hot broth, then stir the mixture back into the pot over low heat. Don't let it boil.
+# Whisk the sour cream and egg yolks in a bowl. Slowly whisk in 2 ladles of hot broth, then stir the mixture back into the pot over low heat. Heat gently until steaming (160°F) so the yolks cook through, but don't let it boil.
 # Stir in half the garlic paste and the vinegar. Taste and add more vinegar or salt until it's pleasantly sour. Serve with hot peppers, more garlic and sour cream on the side.
 T Torn oyster mushrooms give the soft, ribbony texture of the sliced tripe.
 S The broth and mushrooms keep 4 days before adding the sour cream mixture.

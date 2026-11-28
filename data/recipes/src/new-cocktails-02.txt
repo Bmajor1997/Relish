@@ -179,7 +179,7 @@ V Hugo: add fresh mint and lime and use Prosecco.
 # Put all the ingredients in a blender with the crushed ice.
 # Flash blend for 5 seconds, just to chill and froth it.
 # Pour into a double rocks glass, adding more crushed ice if needed, and garnish with a lime wheel.
-G double rocks glass | lime wheel | y | Flash blend lime juice, falernum syrup, orange juice and a dash of bitters with crushed ice.
+G double rocks glass | lime wheel | y | Flash blend lime juice, falernum syrup, orange juice and a dash of alcohol-free aromatic bitters (regular bitters contain alcohol) with crushed ice.
 T Flash blending for just a few seconds chills and dilutes it without turning it into a slushie.
 T Measure the anise in drops, not dashes; a little goes a long way.
 V Jet Pilot: add 1/2 oz grapefruit juice and 1/2 oz cinnamon syrup and skip the Cointreau.
