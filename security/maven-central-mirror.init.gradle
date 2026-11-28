@@ -18,10 +18,14 @@ def mirrorCentral = { repositories ->
 gradle.beforeSettings { settings ->
     // Search the Central mirror before the plugin portal. The portal redirects
     // ordinary Maven dependencies to Central, bypassing URL rewriting above.
+    // Declaring any plugin repository replaces Gradle's default portal, so add
+    // the portal back after the mirror: plugin markers published only there
+    // (com.diffplug.spotless, used by react-native-worklets) must still resolve.
     settings.pluginManagement.repositories.maven {
         name = 'CentralMirrorForPluginDependencies'
         url = uri('https://maven-central.storage-download.googleapis.com/maven2/')
     }
+    settings.pluginManagement.repositories.gradlePluginPortal()
     mirrorCentral(settings.pluginManagement.repositories)
     mirrorCentral(settings.dependencyResolutionManagement.repositories)
     mirrorCentral(settings.buildscript.repositories)
