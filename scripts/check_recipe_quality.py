@@ -96,7 +96,9 @@ def safety_problems(name, kind, r):
                   for i in items)
     cooked_base = eggs_reach_160(r["steps"])  # eggnog, custards and set shakshuka heat the eggs to 160°F
     raw_in_drink = kind == "cocktail" and has_egg and not cooked_base
-    lightly_cooked = has_egg and not cooked_base and re.search(LIGHTLY_COOKED, every_text, re.I)
+    # A dish that is never cooked (tiramisu, mousse, a raw-yolk dressing) serves its eggs raw.
+    never_cooked = has_egg and not cooked_base and r.get("cook_minutes", 0) == 0
+    lightly_cooked = has_egg and not cooked_base and (never_cooked or re.search(LIGHTLY_COOKED, every_text, re.I))
     if (raw_in_drink or lightly_cooked) and not re.search(r"pasteuri[sz]ed", advice, re.I):
         problems.append(f"{name}: serves eggs raw or lightly cooked; add a tip or note that pasteurized eggs are an option")
     drink = r.get("cocktail") or {}

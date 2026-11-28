@@ -110,6 +110,9 @@ class RecipeQualityTests(unittest.TestCase):
         meat_first = make_recipe(ingredients=[{"item": "chicken thigh", "unit": "oz"}, {"item": "large eggs", "unit": ""}],
                                  steps=["Cook the chicken 5 minutes, until 165°F.", "Pour the eggs over and cook until softly set."])
         self.assertTrue(any("pasteurized" in p for p in self.problems(meat_first)))
+        tiramisu = make_recipe(cook_minutes=0, ingredients=[{"item": "very fresh large eggs, separated", "unit": ""}],
+                               steps=["Beat the yolks with sugar.", "Whip the whites and fold them in."])
+        self.assertTrue(any("pasteurized" in p for p in self.problems(tiramisu)))
         sunny = make_recipe(ingredients=[{"item": "large eggs", "unit": ""}], steps=["Fry the eggs sunny side up."])
         self.assertTrue(any("pasteurized" in p for p in self.problems(sunny)))
         set_eggs = make_recipe(ingredients=[{"item": "eggs", "unit": ""}], tips=["Don't assume runny yolks suit everyone."],
@@ -158,6 +161,14 @@ class RecipeQualityTests(unittest.TestCase):
         b = make_recipe(ingredients=[{"item": i, "unit": ""} for i in ("gin", "lemon juice", "simple syrup", "soda water")])
         pairs = quality.similar_pairs({"a": {"kind": "cocktail", "recipe": a}, "b": {"kind": "cocktail", "recipe": b}})
         self.assertEqual(pairs, [(1.0, "a", "b")])
+
+    def test_removing_a_safety_tip_is_caught(self):
+        recipes = json.loads((ROOT / "data/recipes/recipes.json").read_text(encoding="utf-8"))
+        for stem in ("tiramisu", "japanese-oyakodon", "spaghetti-carbonara", "eggs-benedict", "clover-club"):
+            recipe = json.loads(json.dumps(recipes[stem]["recipe"]))
+            recipe["tips"] = [t for t in recipe["tips"] if "pasteurized" not in t]
+            recipe["note"] = None
+            self.assertTrue(quality.safety_problems(stem, recipes[stem]["kind"], recipe), stem)
 
     def test_current_data_passes(self):
         recipes = json.loads((ROOT / "data/recipes/recipes.json").read_text(encoding="utf-8"))
